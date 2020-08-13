@@ -1,0 +1,1 @@
+Run demo.py and if it runs all the way through with no errors the code works.  The demo shows some examples of simple distributions being reconstructed with partial knowledge and a maximum entropy assumption, that all non-observables are maximumally random.
