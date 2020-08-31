@@ -10,8 +10,8 @@ d1 = ((1,0),  # define empirical distribution
 m1 = MaxEnt.model( d1, constraint ) # init model of distribution with knowledge of marginals
 m1._GIS() # find maxent solution 
 
-m1.pdf_maxent # report reconstructed 2D
-m1.marginals # report reconstructed random variables
+print( m1.pdf_maxent ) # report reconstructed 2D
+print( m1.marginals ) # report reconstructed random variables
 ### Output:
 # >>> m1.pdf_maxent
 # array([[1., 0.],
@@ -29,8 +29,8 @@ d2 = ((0.5,0),
 m2 = MaxEnt.model( d2, constraint )
 m2._GIS()
 
-m2.pdf_maxent
-m2.marginals
+print( m2.pdf_maxent )
+print( m2.marginals )
 # >>> m2.pdf_maxent
 # array([[0.5, 0. ],
 #        [0.5, 0. ]])
@@ -46,8 +46,8 @@ d3 = ((0.25,0.25),
 m3 = MaxEnt.model( d3, constraint )
 m3._GIS()
 
-m3.pdf_maxent
-m3.marginals
+print( m3.pdf_maxent )
+print( m3.marginals )
 # >>> m3.pdf_maxent
 # array([[0.25, 0.25],
 #        [0.25, 0.25]])
@@ -63,8 +63,8 @@ d4 = ((0.5,0.0),
 m4 = MaxEnt.model( d4, constraint )
 m4._GIS()
 
-m4.pdf_maxent
-m4.marginals
+print( m4.pdf_maxent )
+print( m4.marginals )
 # >>> m4.pdf_maxent
 # array([[0.25, 0.25],
 #        [0.25, 0.25]])
@@ -80,8 +80,8 @@ d5 = ((0.5,0.0,0.0),
 m5 = MaxEnt.model( d5, constraint )
 m5._GIS()
 
-m5.pdf_maxent
-m5.marginals
+print( m5.pdf_maxent )
+print( m5.marginals )
 # >>> m5.pdf_maxent
 # array([[0.24729975, 0.12499633, 0.12499633],
 #        [0.12499633, 0.06317873, 0.06317873],
