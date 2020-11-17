@@ -1,10 +1,15 @@
-library(dplyr)                                            ####KEY####
-library(here)                                             ###Three pound signs = a new section.###
-                                                          ##Two pound signs = explanatory statement of code##       
-                                                          #One pound sign = optional print point. Take off to see what is happening under the hood.
+library(dplyr)                                          
+library(here)                                             
+
 here()
-##read data from giant csv.##
+##read data from csv.##
 total <- read.csv(here('total_data.csv'))
+
+##read division data from other csv
+div_data <- read.csv(here('total_division_data.csv'))
+div_data <- div_data[-c(1)]
+names(div_data)[1] <- "Division"
+
 
 ##Separates calendar year from season year. If month number is less than 10 (October, then subtract one from given year).##
 total <- total %>%
@@ -31,3 +36,15 @@ total$Vis.Pts <- as.numeric(total$Vis.Pts)
 total$Home.Pts <- as.numeric(total$Home.Pts)
 total$Home <- as.character(total$Home)
 total$Visitors <- as.character(total$Visitors)
+
+#Merge division data with win/loss results
+total_div_merged_vis <- merge(total, div_data, by.x = c("Visitors", "SeasonStart"), by.y = c("Teams", "SeasonStart"),
+                              all.x = TRUE, all.y = TRUE)
+total_div_merged_both <- merge(total_div_merged_vis, div_data, by.x = c("Home", "SeasonStart"), by.y = c("Teams", "SeasonStart"),
+                               all.x = TRUE, all.y = TRUE)
+
+#Clean and rename division columns
+total_div_clean <- total_div_merged_both[-c(17,19)]
+names(total_div_clean)[16] <- "Vis.Division"
+names(total_div_clean)[17] <- "Home.Division"
+  
