@@ -1,0 +1,4159 @@
+,Unnamed: 0,Teams,SeasonStart,Assoc
+0,division_1,Eastern Division,1968,ABA
+1,division_1,Pittsburgh Pipers,1968,ABA
+2,division_1,Minnesota Muskies,1968,ABA
+3,division_1,Indiana Pacers,1968,ABA
+4,division_1,Kentucky Colonels,1968,ABA
+5,division_1,New Jersey Americans,1968,ABA
+6,division_2,Western Division,1968,ABA
+7,division_2,New Orleans Buccaneers,1968,ABA
+8,division_2,Dallas Chaparrals,1968,ABA
+9,division_2,Denver Rockets,1968,ABA
+10,division_2,Houston Mavericks,1968,ABA
+11,division_2,Anaheim Amigos,1968,ABA
+12,division_2,Oakland Oaks,1968,ABA
+13,division_1,Eastern Division,1969,ABA
+14,division_1,Indiana Pacers,1969,ABA
+15,division_1,Miami Floridians,1969,ABA
+16,division_1,Kentucky Colonels,1969,ABA
+17,division_1,Minnesota Pipers,1969,ABA
+18,division_1,New York Nets,1969,ABA
+19,division_2,Western Division,1969,ABA
+20,division_2,Oakland Oaks,1969,ABA
+21,division_2,New Orleans Buccaneers,1969,ABA
+22,division_2,Denver Rockets,1969,ABA
+23,division_2,Dallas Chaparrals,1969,ABA
+24,division_2,Los Angeles Stars,1969,ABA
+25,division_2,Houston Mavericks,1969,ABA
+26,division_1,Eastern Division,1970,ABA
+27,division_1,Indiana Pacers,1970,ABA
+28,division_1,Kentucky Colonels,1970,ABA
+29,division_1,Carolina Cougars,1970,ABA
+30,division_1,New York Nets,1970,ABA
+31,division_1,Pittsburgh Pipers,1970,ABA
+32,division_1,Miami Floridians,1970,ABA
+33,division_2,Western Division,1970,ABA
+34,division_2,Denver Rockets,1970,ABA
+35,division_2,Dallas Chaparrals,1970,ABA
+36,division_2,Washington Capitols,1970,ABA
+37,division_2,Los Angeles Stars,1970,ABA
+38,division_2,New Orleans Buccaneers,1970,ABA
+39,division_1,Eastern Division,1971,ABA
+40,division_1,Virginia Squires,1971,ABA
+41,division_1,Kentucky Colonels,1971,ABA
+42,division_1,New York Nets,1971,ABA
+43,division_1,The Floridians,1971,ABA
+44,division_1,Pittsburgh Condors,1971,ABA
+45,division_1,Carolina Cougars,1971,ABA
+46,division_2,Western Division,1971,ABA
+47,division_2,Indiana Pacers,1971,ABA
+48,division_2,Utah Stars,1971,ABA
+49,division_2,Memphis Pros,1971,ABA
+50,division_2,Texas Chaparrals,1971,ABA
+51,division_2,Denver Rockets,1971,ABA
+52,division_1,Eastern Division,1972,ABA
+53,division_1,Kentucky Colonels,1972,ABA
+54,division_1,Virginia Squires,1972,ABA
+55,division_1,New York Nets,1972,ABA
+56,division_1,The Floridians,1972,ABA
+57,division_1,Carolina Cougars,1972,ABA
+58,division_1,Pittsburgh Condors,1972,ABA
+59,division_2,Western Division,1972,ABA
+60,division_2,Utah Stars,1972,ABA
+61,division_2,Indiana Pacers,1972,ABA
+62,division_2,Dallas Chaparrals,1972,ABA
+63,division_2,Denver Rockets,1972,ABA
+64,division_2,Memphis Pros,1972,ABA
+65,division_1,Eastern Division,1973,ABA
+66,division_1,Carolina Cougars,1973,ABA
+67,division_1,Kentucky Colonels,1973,ABA
+68,division_1,Virginia Squires,1973,ABA
+69,division_1,New York Nets,1973,ABA
+70,division_1,Memphis Tams,1973,ABA
+71,division_2,Western Division,1973,ABA
+72,division_2,Utah Stars,1973,ABA
+73,division_2,Indiana Pacers,1973,ABA
+74,division_2,Denver Rockets,1973,ABA
+75,division_2,San Diego Conquistadors,1973,ABA
+76,division_2,Dallas Chaparrals,1973,ABA
+77,division_1,Eastern Division,1974,ABA
+78,division_1,New York Nets,1974,ABA
+79,division_1,Kentucky Colonels,1974,ABA
+80,division_1,Carolina Cougars,1974,ABA
+81,division_1,Virginia Squires,1974,ABA
+82,division_1,Memphis Tams,1974,ABA
+83,division_2,Western Division,1974,ABA
+84,division_2,Utah Stars,1974,ABA
+85,division_2,Indiana Pacers,1974,ABA
+86,division_2,San Antonio Spurs,1974,ABA
+87,division_2,San Diego Conquistadors,1974,ABA
+88,division_2,Denver Rockets,1974,ABA
+89,division_1,Eastern Division,1975,ABA
+90,division_1,Kentucky Colonels,1975,ABA
+91,division_1,New York Nets,1975,ABA
+92,division_1,Spirits of St. Louis,1975,ABA
+93,division_1,Memphis Sounds,1975,ABA
+94,division_1,Virginia Squires,1975,ABA
+95,division_2,Western Division,1975,ABA
+96,division_2,Denver Nuggets,1975,ABA
+97,division_2,San Antonio Spurs,1975,ABA
+98,division_2,Indiana Pacers,1975,ABA
+99,division_2,Utah Stars,1975,ABA
+100,division_2,San Diego Conquistadors,1975,ABA
+101,division_1,Eastern Division,1947,BAA
+102,division_1,Washington Capitols,1947,BAA
+103,division_1,Philadelphia Warriors,1947,BAA
+104,division_1,New York Knicks,1947,BAA
+105,division_1,Providence Steamrollers,1947,BAA
+106,division_1,Boston Celtics,1947,BAA
+107,division_1,Toronto Huskies,1947,BAA
+108,division_2,Western Division,1947,BAA
+109,division_2,Chicago Stags,1947,BAA
+110,division_2,St. Louis Bombers,1947,BAA
+111,division_2,Cleveland Rebels,1947,BAA
+112,division_2,Detroit Falcons,1947,BAA
+113,division_2,Pittsburgh Ironmen,1947,BAA
+114,division_1,Eastern Division,1948,BAA
+115,division_1,Philadelphia Warriors,1948,BAA
+116,division_1,New York Knicks,1948,BAA
+117,division_1,Boston Celtics,1948,BAA
+118,division_1,Providence Steamrollers,1948,BAA
+119,division_2,Western Division,1948,BAA
+120,division_2,St. Louis Bombers,1948,BAA
+121,division_2,Baltimore Bullets,1948,BAA
+122,division_2,Chicago Stags,1948,BAA
+123,division_2,Washington Capitols,1948,BAA
+124,division_1,Eastern Division,1949,BAA
+125,division_1,Washington Capitols,1949,BAA
+126,division_1,New York Knicks,1949,BAA
+127,division_1,Baltimore Bullets,1949,BAA
+128,division_1,Philadelphia Warriors,1949,BAA
+129,division_1,Boston Celtics,1949,BAA
+130,division_1,Providence Steamrollers,1949,BAA
+131,division_2,Western Division,1949,BAA
+132,division_2,Rochester Royals,1949,BAA
+133,division_2,Minneapolis Lakers,1949,BAA
+134,division_2,Chicago Stags,1949,BAA
+135,division_2,St. Louis Bombers,1949,BAA
+136,division_2,Fort Wayne Pistons,1949,BAA
+137,division_2,Indianapolis Jets,1949,BAA
+138,division_1,Central Division,1950,NBA
+139,division_1,Minneapolis Lakers,1950,NBA
+140,division_1,Rochester Royals,1950,NBA
+141,division_1,Fort Wayne Pistons,1950,NBA
+142,division_1,Chicago Stags,1950,NBA
+143,division_1,St. Louis Bombers,1950,NBA
+144,division_2,Eastern Division,1950,NBA
+145,division_2,Syracuse Nationals,1950,NBA
+146,division_2,New York Knicks,1950,NBA
+147,division_2,Washington Capitols,1950,NBA
+148,division_2,Philadelphia Warriors,1950,NBA
+149,division_2,Baltimore Bullets,1950,NBA
+150,division_2,Boston Celtics,1950,NBA
+151,division_3,Western Division,1950,NBA
+152,division_3,Indianapolis Olympians,1950,NBA
+153,division_3,Anderson Packers,1950,NBA
+154,division_3,Tri-Cities Blackhawks,1950,NBA
+155,division_3,Sheboygan Red Skins,1950,NBA
+156,division_3,Waterloo Hawks,1950,NBA
+157,division_3,Denver Nuggets,1950,NBA
+158,division_1,Eastern Division,1951,NBA
+159,division_1,Philadelphia Warriors,1951,NBA
+160,division_1,Boston Celtics,1951,NBA
+161,division_1,New York Knicks,1951,NBA
+162,division_1,Syracuse Nationals,1951,NBA
+163,division_1,Baltimore Bullets,1951,NBA
+164,division_1,Washington Capitols,1951,NBA
+165,division_2,Western Division,1951,NBA
+166,division_2,Minneapolis Lakers,1951,NBA
+167,division_2,Rochester Royals,1951,NBA
+168,division_2,Fort Wayne Pistons,1951,NBA
+169,division_2,Indianapolis Olympians,1951,NBA
+170,division_2,Tri-Cities Blackhawks,1951,NBA
+171,division_1,Eastern Division,1952,NBA
+172,division_1,Syracuse Nationals,1952,NBA
+173,division_1,Boston Celtics,1952,NBA
+174,division_1,New York Knicks,1952,NBA
+175,division_1,Philadelphia Warriors,1952,NBA
+176,division_1,Baltimore Bullets,1952,NBA
+177,division_2,Western Division,1952,NBA
+178,division_2,Rochester Royals,1952,NBA
+179,division_2,Minneapolis Lakers,1952,NBA
+180,division_2,Indianapolis Olympians,1952,NBA
+181,division_2,Fort Wayne Pistons,1952,NBA
+182,division_2,Milwaukee Hawks,1952,NBA
+183,division_1,Eastern Division,1953,NBA
+184,division_1,New York Knicks,1953,NBA
+185,division_1,Syracuse Nationals,1953,NBA
+186,division_1,Boston Celtics,1953,NBA
+187,division_1,Baltimore Bullets,1953,NBA
+188,division_1,Philadelphia Warriors,1953,NBA
+189,division_2,Western Division,1953,NBA
+190,division_2,Minneapolis Lakers,1953,NBA
+191,division_2,Rochester Royals,1953,NBA
+192,division_2,Fort Wayne Pistons,1953,NBA
+193,division_2,Indianapolis Olympians,1953,NBA
+194,division_2,Milwaukee Hawks,1953,NBA
+195,division_1,Eastern Division,1954,NBA
+196,division_1,New York Knicks,1954,NBA
+197,division_1,Syracuse Nationals,1954,NBA
+198,division_1,Boston Celtics,1954,NBA
+199,division_1,Philadelphia Warriors,1954,NBA
+200,division_1,Baltimore Bullets,1954,NBA
+201,division_2,Western Division,1954,NBA
+202,division_2,Minneapolis Lakers,1954,NBA
+203,division_2,Rochester Royals,1954,NBA
+204,division_2,Fort Wayne Pistons,1954,NBA
+205,division_2,Milwaukee Hawks,1954,NBA
+206,division_1,Eastern Division,1955,NBA
+207,division_1,Syracuse Nationals,1955,NBA
+208,division_1,New York Knicks,1955,NBA
+209,division_1,Boston Celtics,1955,NBA
+210,division_1,Philadelphia Warriors,1955,NBA
+211,division_1,Baltimore Bullets,1955,NBA
+212,division_2,Western Division,1955,NBA
+213,division_2,Fort Wayne Pistons,1955,NBA
+214,division_2,Minneapolis Lakers,1955,NBA
+215,division_2,Rochester Royals,1955,NBA
+216,division_2,Milwaukee Hawks,1955,NBA
+217,division_1,Eastern Division,1956,NBA
+218,division_1,Philadelphia Warriors,1956,NBA
+219,division_1,Boston Celtics,1956,NBA
+220,division_1,Syracuse Nationals,1956,NBA
+221,division_1,New York Knicks,1956,NBA
+222,division_2,Western Division,1956,NBA
+223,division_2,Fort Wayne Pistons,1956,NBA
+224,division_2,Minneapolis Lakers,1956,NBA
+225,division_2,St. Louis Hawks,1956,NBA
+226,division_2,Rochester Royals,1956,NBA
+227,division_1,Eastern Division,1957,NBA
+228,division_1,Boston Celtics,1957,NBA
+229,division_1,Syracuse Nationals,1957,NBA
+230,division_1,Philadelphia Warriors,1957,NBA
+231,division_1,New York Knicks,1957,NBA
+232,division_2,Western Division,1957,NBA
+233,division_2,St. Louis Hawks,1957,NBA
+234,division_2,Minneapolis Lakers,1957,NBA
+235,division_2,Fort Wayne Pistons,1957,NBA
+236,division_2,Rochester Royals,1957,NBA
+237,division_1,Eastern Division,1958,NBA
+238,division_1,Boston Celtics,1958,NBA
+239,division_1,Syracuse Nationals,1958,NBA
+240,division_1,Philadelphia Warriors,1958,NBA
+241,division_1,New York Knicks,1958,NBA
+242,division_2,Western Division,1958,NBA
+243,division_2,St. Louis Hawks,1958,NBA
+244,division_2,Detroit Pistons,1958,NBA
+245,division_2,Cincinnati Royals,1958,NBA
+246,division_2,Minneapolis Lakers,1958,NBA
+247,division_1,Eastern Division,1959,NBA
+248,division_1,Boston Celtics,1959,NBA
+249,division_1,New York Knicks,1959,NBA
+250,division_1,Syracuse Nationals,1959,NBA
+251,division_1,Philadelphia Warriors,1959,NBA
+252,division_2,Western Division,1959,NBA
+253,division_2,St. Louis Hawks,1959,NBA
+254,division_2,Minneapolis Lakers,1959,NBA
+255,division_2,Detroit Pistons,1959,NBA
+256,division_2,Cincinnati Royals,1959,NBA
+257,division_1,Eastern Division,1960,NBA
+258,division_1,Boston Celtics,1960,NBA
+259,division_1,Philadelphia Warriors,1960,NBA
+260,division_1,Syracuse Nationals,1960,NBA
+261,division_1,New York Knicks,1960,NBA
+262,division_2,Western Division,1960,NBA
+263,division_2,St. Louis Hawks,1960,NBA
+264,division_2,Detroit Pistons,1960,NBA
+265,division_2,Minneapolis Lakers,1960,NBA
+266,division_2,Cincinnati Royals,1960,NBA
+267,division_1,Eastern Division,1961,NBA
+268,division_1,Boston Celtics,1961,NBA
+269,division_1,Philadelphia Warriors,1961,NBA
+270,division_1,Syracuse Nationals,1961,NBA
+271,division_1,New York Knicks,1961,NBA
+272,division_2,Western Division,1961,NBA
+273,division_2,St. Louis Hawks,1961,NBA
+274,division_2,Los Angeles Lakers,1961,NBA
+275,division_2,Detroit Pistons,1961,NBA
+276,division_2,Cincinnati Royals,1961,NBA
+277,division_1,Eastern Division,1962,NBA
+278,division_1,Boston Celtics,1962,NBA
+279,division_1,Philadelphia Warriors,1962,NBA
+280,division_1,Syracuse Nationals,1962,NBA
+281,division_1,New York Knicks,1962,NBA
+282,division_2,Western Division,1962,NBA
+283,division_2,Los Angeles Lakers,1962,NBA
+284,division_2,Cincinnati Royals,1962,NBA
+285,division_2,Detroit Pistons,1962,NBA
+286,division_2,St. Louis Hawks,1962,NBA
+287,division_2,Chicago Packers,1962,NBA
+288,division_1,Eastern Division,1963,NBA
+289,division_1,Boston Celtics,1963,NBA
+290,division_1,Syracuse Nationals,1963,NBA
+291,division_1,Cincinnati Royals,1963,NBA
+292,division_1,New York Knicks,1963,NBA
+293,division_2,Western Division,1963,NBA
+294,division_2,Los Angeles Lakers,1963,NBA
+295,division_2,St. Louis Hawks,1963,NBA
+296,division_2,Detroit Pistons,1963,NBA
+297,division_2,San Francisco Warriors,1963,NBA
+298,division_2,Chicago Zephyrs,1963,NBA
+299,division_1,Eastern Division,1964,NBA
+300,division_1,Boston Celtics,1964,NBA
+301,division_1,Cincinnati Royals,1964,NBA
+302,division_1,Philadelphia 76ers,1964,NBA
+303,division_1,New York Knicks,1964,NBA
+304,division_2,Western Division,1964,NBA
+305,division_2,San Francisco Warriors,1964,NBA
+306,division_2,St. Louis Hawks,1964,NBA
+307,division_2,Los Angeles Lakers,1964,NBA
+308,division_2,Baltimore Bullets,1964,NBA
+309,division_2,Detroit Pistons,1964,NBA
+310,division_1,Eastern Division,1965,NBA
+311,division_1,Boston Celtics,1965,NBA
+312,division_1,Cincinnati Royals,1965,NBA
+313,division_1,Philadelphia 76ers,1965,NBA
+314,division_1,New York Knicks,1965,NBA
+315,division_2,Western Division,1965,NBA
+316,division_2,Los Angeles Lakers,1965,NBA
+317,division_2,St. Louis Hawks,1965,NBA
+318,division_2,Baltimore Bullets,1965,NBA
+319,division_2,Detroit Pistons,1965,NBA
+320,division_2,San Francisco Warriors,1965,NBA
+321,division_1,Eastern Division,1966,NBA
+322,division_1,Philadelphia 76ers,1966,NBA
+323,division_1,Boston Celtics,1966,NBA
+324,division_1,Cincinnati Royals,1966,NBA
+325,division_1,New York Knicks,1966,NBA
+326,division_2,Western Division,1966,NBA
+327,division_2,Los Angeles Lakers,1966,NBA
+328,division_2,Baltimore Bullets,1966,NBA
+329,division_2,St. Louis Hawks,1966,NBA
+330,division_2,San Francisco Warriors,1966,NBA
+331,division_2,Detroit Pistons,1966,NBA
+332,division_1,Eastern Division,1967,NBA
+333,division_1,Philadelphia 76ers,1967,NBA
+334,division_1,Boston Celtics,1967,NBA
+335,division_1,Cincinnati Royals,1967,NBA
+336,division_1,New York Knicks,1967,NBA
+337,division_1,Baltimore Bullets,1967,NBA
+338,division_2,Western Division,1967,NBA
+339,division_2,San Francisco Warriors,1967,NBA
+340,division_2,St. Louis Hawks,1967,NBA
+341,division_2,Los Angeles Lakers,1967,NBA
+342,division_2,Chicago Bulls,1967,NBA
+343,division_2,Detroit Pistons,1967,NBA
+344,division_1,Eastern Division,1968,NBA
+345,division_1,Philadelphia 76ers,1968,NBA
+346,division_1,Boston Celtics,1968,NBA
+347,division_1,New York Knicks,1968,NBA
+348,division_1,Detroit Pistons,1968,NBA
+349,division_1,Cincinnati Royals,1968,NBA
+350,division_1,Baltimore Bullets,1968,NBA
+351,division_2,Western Division,1968,NBA
+352,division_2,St. Louis Hawks,1968,NBA
+353,division_2,Los Angeles Lakers,1968,NBA
+354,division_2,San Francisco Warriors,1968,NBA
+355,division_2,Chicago Bulls,1968,NBA
+356,division_2,Seattle SuperSonics,1968,NBA
+357,division_2,San Diego Rockets,1968,NBA
+358,division_1,Eastern Division,1969,NBA
+359,division_1,Baltimore Bullets,1969,NBA
+360,division_1,Philadelphia 76ers,1969,NBA
+361,division_1,New York Knicks,1969,NBA
+362,division_1,Boston Celtics,1969,NBA
+363,division_1,Cincinnati Royals,1969,NBA
+364,division_1,Detroit Pistons,1969,NBA
+365,division_1,Milwaukee Bucks,1969,NBA
+366,division_2,Western Division,1969,NBA
+367,division_2,Los Angeles Lakers,1969,NBA
+368,division_2,Atlanta Hawks,1969,NBA
+369,division_2,San Francisco Warriors,1969,NBA
+370,division_2,San Diego Rockets,1969,NBA
+371,division_2,Chicago Bulls,1969,NBA
+372,division_2,Seattle SuperSonics,1969,NBA
+373,division_2,Phoenix Suns,1969,NBA
+374,division_1,Eastern Division,1970,NBA
+375,division_1,New York Knicks,1970,NBA
+376,division_1,Milwaukee Bucks,1970,NBA
+377,division_1,Baltimore Bullets,1970,NBA
+378,division_1,Philadelphia 76ers,1970,NBA
+379,division_1,Cincinnati Royals,1970,NBA
+380,division_1,Boston Celtics,1970,NBA
+381,division_1,Detroit Pistons,1970,NBA
+382,division_2,Western Division,1970,NBA
+383,division_2,Atlanta Hawks,1970,NBA
+384,division_2,Los Angeles Lakers,1970,NBA
+385,division_2,Chicago Bulls,1970,NBA
+386,division_2,Phoenix Suns,1970,NBA
+387,division_2,Seattle SuperSonics,1970,NBA
+388,division_2,San Francisco Warriors,1970,NBA
+389,division_2,San Diego Rockets,1970,NBA
+390,division_1,Atlantic Division,1971,NBA
+391,division_1,New York Knicks,1971,NBA
+392,division_1,Philadelphia 76ers,1971,NBA
+393,division_1,Boston Celtics,1971,NBA
+394,division_1,Buffalo Braves,1971,NBA
+395,division_2,Central Division,1971,NBA
+396,division_2,Baltimore Bullets,1971,NBA
+397,division_2,Atlanta Hawks,1971,NBA
+398,division_2,Cincinnati Royals,1971,NBA
+399,division_2,Cleveland Cavaliers,1971,NBA
+400,division_3,Midwest Division,1971,NBA
+401,division_3,Milwaukee Bucks,1971,NBA
+402,division_3,Chicago Bulls,1971,NBA
+403,division_3,Phoenix Suns,1971,NBA
+404,division_3,Detroit Pistons,1971,NBA
+405,division_4,Pacific Division,1971,NBA
+406,division_4,Los Angeles Lakers,1971,NBA
+407,division_4,San Francisco Warriors,1971,NBA
+408,division_4,San Diego Rockets,1971,NBA
+409,division_4,Seattle SuperSonics,1971,NBA
+410,division_4,Portland Trail Blazers,1971,NBA
+411,division_5,Atlantic Division,1971,NBA
+412,division_5,New York Knicks,1971,NBA
+413,division_5,Philadelphia 76ers,1971,NBA
+414,division_5,Boston Celtics,1971,NBA
+415,division_5,Buffalo Braves,1971,NBA
+416,division_6,Central Division,1971,NBA
+417,division_6,Baltimore Bullets,1971,NBA
+418,division_6,Atlanta Hawks,1971,NBA
+419,division_6,Cincinnati Royals,1971,NBA
+420,division_6,Cleveland Cavaliers,1971,NBA
+421,division_7,Midwest Division,1971,NBA
+422,division_7,Milwaukee Bucks,1971,NBA
+423,division_7,Chicago Bulls,1971,NBA
+424,division_7,Phoenix Suns,1971,NBA
+425,division_7,Detroit Pistons,1971,NBA
+426,division_8,Pacific Division,1971,NBA
+427,division_8,Los Angeles Lakers,1971,NBA
+428,division_8,San Francisco Warriors,1971,NBA
+429,division_8,San Diego Rockets,1971,NBA
+430,division_8,Seattle SuperSonics,1971,NBA
+431,division_8,Portland Trail Blazers,1971,NBA
+432,division_1,Atlantic Division,1972,NBA
+433,division_1,Boston Celtics,1972,NBA
+434,division_1,New York Knicks,1972,NBA
+435,division_1,Philadelphia 76ers,1972,NBA
+436,division_1,Buffalo Braves,1972,NBA
+437,division_2,Central Division,1972,NBA
+438,division_2,Baltimore Bullets,1972,NBA
+439,division_2,Atlanta Hawks,1972,NBA
+440,division_2,Cincinnati Royals,1972,NBA
+441,division_2,Cleveland Cavaliers,1972,NBA
+442,division_3,Midwest Division,1972,NBA
+443,division_3,Milwaukee Bucks,1972,NBA
+444,division_3,Chicago Bulls,1972,NBA
+445,division_3,Phoenix Suns,1972,NBA
+446,division_3,Detroit Pistons,1972,NBA
+447,division_4,Pacific Division,1972,NBA
+448,division_4,Los Angeles Lakers,1972,NBA
+449,division_4,Golden State Warriors,1972,NBA
+450,division_4,Seattle SuperSonics,1972,NBA
+451,division_4,Houston Rockets,1972,NBA
+452,division_4,Portland Trail Blazers,1972,NBA
+453,division_5,Atlantic Division,1972,NBA
+454,division_5,Boston Celtics,1972,NBA
+455,division_5,New York Knicks,1972,NBA
+456,division_5,Philadelphia 76ers,1972,NBA
+457,division_5,Buffalo Braves,1972,NBA
+458,division_6,Central Division,1972,NBA
+459,division_6,Baltimore Bullets,1972,NBA
+460,division_6,Atlanta Hawks,1972,NBA
+461,division_6,Cincinnati Royals,1972,NBA
+462,division_6,Cleveland Cavaliers,1972,NBA
+463,division_7,Midwest Division,1972,NBA
+464,division_7,Milwaukee Bucks,1972,NBA
+465,division_7,Chicago Bulls,1972,NBA
+466,division_7,Phoenix Suns,1972,NBA
+467,division_7,Detroit Pistons,1972,NBA
+468,division_8,Pacific Division,1972,NBA
+469,division_8,Los Angeles Lakers,1972,NBA
+470,division_8,Golden State Warriors,1972,NBA
+471,division_8,Seattle SuperSonics,1972,NBA
+472,division_8,Houston Rockets,1972,NBA
+473,division_8,Portland Trail Blazers,1972,NBA
+474,division_1,Atlantic Division,1973,NBA
+475,division_1,Boston Celtics,1973,NBA
+476,division_1,New York Knicks,1973,NBA
+477,division_1,Buffalo Braves,1973,NBA
+478,division_1,Philadelphia 76ers,1973,NBA
+479,division_2,Central Division,1973,NBA
+480,division_2,Baltimore Bullets,1973,NBA
+481,division_2,Atlanta Hawks,1973,NBA
+482,division_2,Houston Rockets,1973,NBA
+483,division_2,Cleveland Cavaliers,1973,NBA
+484,division_3,Midwest Division,1973,NBA
+485,division_3,Milwaukee Bucks,1973,NBA
+486,division_3,Chicago Bulls,1973,NBA
+487,division_3,Detroit Pistons,1973,NBA
+488,division_3,Kansas City-Omaha Kings,1973,NBA
+489,division_4,Pacific Division,1973,NBA
+490,division_4,Los Angeles Lakers,1973,NBA
+491,division_4,Golden State Warriors,1973,NBA
+492,division_4,Phoenix Suns,1973,NBA
+493,division_4,Seattle SuperSonics,1973,NBA
+494,division_4,Portland Trail Blazers,1973,NBA
+495,division_5,Atlantic Division,1973,NBA
+496,division_5,Boston Celtics,1973,NBA
+497,division_5,New York Knicks,1973,NBA
+498,division_5,Buffalo Braves,1973,NBA
+499,division_5,Philadelphia 76ers,1973,NBA
+500,division_6,Central Division,1973,NBA
+501,division_6,Baltimore Bullets,1973,NBA
+502,division_6,Atlanta Hawks,1973,NBA
+503,division_6,Houston Rockets,1973,NBA
+504,division_6,Cleveland Cavaliers,1973,NBA
+505,division_7,Midwest Division,1973,NBA
+506,division_7,Milwaukee Bucks,1973,NBA
+507,division_7,Chicago Bulls,1973,NBA
+508,division_7,Detroit Pistons,1973,NBA
+509,division_7,Kansas City-Omaha Kings,1973,NBA
+510,division_8,Pacific Division,1973,NBA
+511,division_8,Los Angeles Lakers,1973,NBA
+512,division_8,Golden State Warriors,1973,NBA
+513,division_8,Phoenix Suns,1973,NBA
+514,division_8,Seattle SuperSonics,1973,NBA
+515,division_8,Portland Trail Blazers,1973,NBA
+516,division_1,Atlantic Division,1974,NBA
+517,division_1,Boston Celtics,1974,NBA
+518,division_1,New York Knicks,1974,NBA
+519,division_1,Buffalo Braves,1974,NBA
+520,division_1,Philadelphia 76ers,1974,NBA
+521,division_2,Central Division,1974,NBA
+522,division_2,Capital Bullets,1974,NBA
+523,division_2,Atlanta Hawks,1974,NBA
+524,division_2,Houston Rockets,1974,NBA
+525,division_2,Cleveland Cavaliers,1974,NBA
+526,division_3,Midwest Division,1974,NBA
+527,division_3,Milwaukee Bucks,1974,NBA
+528,division_3,Chicago Bulls,1974,NBA
+529,division_3,Detroit Pistons,1974,NBA
+530,division_3,Kansas City-Omaha Kings,1974,NBA
+531,division_4,Pacific Division,1974,NBA
+532,division_4,Los Angeles Lakers,1974,NBA
+533,division_4,Golden State Warriors,1974,NBA
+534,division_4,Seattle SuperSonics,1974,NBA
+535,division_4,Phoenix Suns,1974,NBA
+536,division_4,Portland Trail Blazers,1974,NBA
+537,division_5,Atlantic Division,1974,NBA
+538,division_5,Boston Celtics,1974,NBA
+539,division_5,New York Knicks,1974,NBA
+540,division_5,Buffalo Braves,1974,NBA
+541,division_5,Philadelphia 76ers,1974,NBA
+542,division_6,Central Division,1974,NBA
+543,division_6,Capital Bullets,1974,NBA
+544,division_6,Atlanta Hawks,1974,NBA
+545,division_6,Houston Rockets,1974,NBA
+546,division_6,Cleveland Cavaliers,1974,NBA
+547,division_7,Midwest Division,1974,NBA
+548,division_7,Milwaukee Bucks,1974,NBA
+549,division_7,Chicago Bulls,1974,NBA
+550,division_7,Detroit Pistons,1974,NBA
+551,division_7,Kansas City-Omaha Kings,1974,NBA
+552,division_8,Pacific Division,1974,NBA
+553,division_8,Los Angeles Lakers,1974,NBA
+554,division_8,Golden State Warriors,1974,NBA
+555,division_8,Seattle SuperSonics,1974,NBA
+556,division_8,Phoenix Suns,1974,NBA
+557,division_8,Portland Trail Blazers,1974,NBA
+558,division_1,Atlantic Division,1975,NBA
+559,division_1,Boston Celtics,1975,NBA
+560,division_1,Buffalo Braves,1975,NBA
+561,division_1,New York Knicks,1975,NBA
+562,division_1,Philadelphia 76ers,1975,NBA
+563,division_2,Central Division,1975,NBA
+564,division_2,Washington Bullets,1975,NBA
+565,division_2,Houston Rockets,1975,NBA
+566,division_2,Cleveland Cavaliers,1975,NBA
+567,division_2,Atlanta Hawks,1975,NBA
+568,division_2,New Orleans Jazz,1975,NBA
+569,division_3,Midwest Division,1975,NBA
+570,division_3,Chicago Bulls,1975,NBA
+571,division_3,Kansas City-Omaha Kings,1975,NBA
+572,division_3,Detroit Pistons,1975,NBA
+573,division_3,Milwaukee Bucks,1975,NBA
+574,division_4,Pacific Division,1975,NBA
+575,division_4,Golden State Warriors,1975,NBA
+576,division_4,Seattle SuperSonics,1975,NBA
+577,division_4,Portland Trail Blazers,1975,NBA
+578,division_4,Phoenix Suns,1975,NBA
+579,division_4,Los Angeles Lakers,1975,NBA
+580,division_5,Atlantic Division,1975,NBA
+581,division_5,Boston Celtics,1975,NBA
+582,division_5,Buffalo Braves,1975,NBA
+583,division_5,New York Knicks,1975,NBA
+584,division_5,Philadelphia 76ers,1975,NBA
+585,division_6,Central Division,1975,NBA
+586,division_6,Washington Bullets,1975,NBA
+587,division_6,Houston Rockets,1975,NBA
+588,division_6,Cleveland Cavaliers,1975,NBA
+589,division_6,Atlanta Hawks,1975,NBA
+590,division_6,New Orleans Jazz,1975,NBA
+591,division_7,Midwest Division,1975,NBA
+592,division_7,Chicago Bulls,1975,NBA
+593,division_7,Kansas City-Omaha Kings,1975,NBA
+594,division_7,Detroit Pistons,1975,NBA
+595,division_7,Milwaukee Bucks,1975,NBA
+596,division_8,Pacific Division,1975,NBA
+597,division_8,Golden State Warriors,1975,NBA
+598,division_8,Seattle SuperSonics,1975,NBA
+599,division_8,Portland Trail Blazers,1975,NBA
+600,division_8,Phoenix Suns,1975,NBA
+601,division_8,Los Angeles Lakers,1975,NBA
+602,division_1,Atlantic Division,1976,NBA
+603,division_1,Boston Celtics,1976,NBA
+604,division_1,Philadelphia 76ers,1976,NBA
+605,division_1,Buffalo Braves,1976,NBA
+606,division_1,New York Knicks,1976,NBA
+607,division_2,Central Division,1976,NBA
+608,division_2,Cleveland Cavaliers,1976,NBA
+609,division_2,Washington Bullets,1976,NBA
+610,division_2,Houston Rockets,1976,NBA
+611,division_2,New Orleans Jazz,1976,NBA
+612,division_2,Atlanta Hawks,1976,NBA
+613,division_3,Midwest Division,1976,NBA
+614,division_3,Milwaukee Bucks,1976,NBA
+615,division_3,Detroit Pistons,1976,NBA
+616,division_3,Kansas City Kings,1976,NBA
+617,division_3,Chicago Bulls,1976,NBA
+618,division_4,Pacific Division,1976,NBA
+619,division_4,Golden State Warriors,1976,NBA
+620,division_4,Seattle SuperSonics,1976,NBA
+621,division_4,Phoenix Suns,1976,NBA
+622,division_4,Los Angeles Lakers,1976,NBA
+623,division_4,Portland Trail Blazers,1976,NBA
+624,division_5,Atlantic Division,1976,NBA
+625,division_5,Boston Celtics,1976,NBA
+626,division_5,Philadelphia 76ers,1976,NBA
+627,division_5,Buffalo Braves,1976,NBA
+628,division_5,New York Knicks,1976,NBA
+629,division_6,Central Division,1976,NBA
+630,division_6,Cleveland Cavaliers,1976,NBA
+631,division_6,Washington Bullets,1976,NBA
+632,division_6,Houston Rockets,1976,NBA
+633,division_6,New Orleans Jazz,1976,NBA
+634,division_6,Atlanta Hawks,1976,NBA
+635,division_7,Midwest Division,1976,NBA
+636,division_7,Milwaukee Bucks,1976,NBA
+637,division_7,Detroit Pistons,1976,NBA
+638,division_7,Kansas City Kings,1976,NBA
+639,division_7,Chicago Bulls,1976,NBA
+640,division_8,Pacific Division,1976,NBA
+641,division_8,Golden State Warriors,1976,NBA
+642,division_8,Seattle SuperSonics,1976,NBA
+643,division_8,Phoenix Suns,1976,NBA
+644,division_8,Los Angeles Lakers,1976,NBA
+645,division_8,Portland Trail Blazers,1976,NBA
+646,division_1,Atlantic Division,1977,NBA
+647,division_1,Philadelphia 76ers,1977,NBA
+648,division_1,Boston Celtics,1977,NBA
+649,division_1,New York Knicks,1977,NBA
+650,division_1,Buffalo Braves,1977,NBA
+651,division_1,New York Nets,1977,NBA
+652,division_2,Central Division,1977,NBA
+653,division_2,Houston Rockets,1977,NBA
+654,division_2,Washington Bullets,1977,NBA
+655,division_2,San Antonio Spurs,1977,NBA
+656,division_2,Cleveland Cavaliers,1977,NBA
+657,division_2,New Orleans Jazz,1977,NBA
+658,division_2,Atlanta Hawks,1977,NBA
+659,division_3,Midwest Division,1977,NBA
+660,division_3,Denver Nuggets,1977,NBA
+661,division_3,Detroit Pistons,1977,NBA
+662,division_3,Chicago Bulls,1977,NBA
+663,division_3,Kansas City Kings,1977,NBA
+664,division_3,Indiana Pacers,1977,NBA
+665,division_3,Milwaukee Bucks,1977,NBA
+666,division_4,Pacific Division,1977,NBA
+667,division_4,Los Angeles Lakers,1977,NBA
+668,division_4,Portland Trail Blazers,1977,NBA
+669,division_4,Golden State Warriors,1977,NBA
+670,division_4,Seattle SuperSonics,1977,NBA
+671,division_4,Phoenix Suns,1977,NBA
+672,division_5,Atlantic Division,1977,NBA
+673,division_5,Philadelphia 76ers,1977,NBA
+674,division_5,Boston Celtics,1977,NBA
+675,division_5,New York Knicks,1977,NBA
+676,division_5,Buffalo Braves,1977,NBA
+677,division_5,New York Nets,1977,NBA
+678,division_6,Central Division,1977,NBA
+679,division_6,Houston Rockets,1977,NBA
+680,division_6,Washington Bullets,1977,NBA
+681,division_6,San Antonio Spurs,1977,NBA
+682,division_6,Cleveland Cavaliers,1977,NBA
+683,division_6,New Orleans Jazz,1977,NBA
+684,division_6,Atlanta Hawks,1977,NBA
+685,division_7,Midwest Division,1977,NBA
+686,division_7,Denver Nuggets,1977,NBA
+687,division_7,Detroit Pistons,1977,NBA
+688,division_7,Chicago Bulls,1977,NBA
+689,division_7,Kansas City Kings,1977,NBA
+690,division_7,Indiana Pacers,1977,NBA
+691,division_7,Milwaukee Bucks,1977,NBA
+692,division_8,Pacific Division,1977,NBA
+693,division_8,Los Angeles Lakers,1977,NBA
+694,division_8,Portland Trail Blazers,1977,NBA
+695,division_8,Golden State Warriors,1977,NBA
+696,division_8,Seattle SuperSonics,1977,NBA
+697,division_8,Phoenix Suns,1977,NBA
+698,division_1,Atlantic Division,1978,NBA
+699,division_1,Philadelphia 76ers,1978,NBA
+700,division_1,New York Knicks,1978,NBA
+701,division_1,Boston Celtics,1978,NBA
+702,division_1,Buffalo Braves,1978,NBA
+703,division_1,New Jersey Nets,1978,NBA
+704,division_2,Central Division,1978,NBA
+705,division_2,San Antonio Spurs,1978,NBA
+706,division_2,Washington Bullets,1978,NBA
+707,division_2,Cleveland Cavaliers,1978,NBA
+708,division_2,Atlanta Hawks,1978,NBA
+709,division_2,New Orleans Jazz,1978,NBA
+710,division_2,Houston Rockets,1978,NBA
+711,division_3,Midwest Division,1978,NBA
+712,division_3,Denver Nuggets,1978,NBA
+713,division_3,Milwaukee Bucks,1978,NBA
+714,division_3,Chicago Bulls,1978,NBA
+715,division_3,Detroit Pistons,1978,NBA
+716,division_3,Kansas City Kings,1978,NBA
+717,division_3,Indiana Pacers,1978,NBA
+718,division_4,Pacific Division,1978,NBA
+719,division_4,Portland Trail Blazers,1978,NBA
+720,division_4,Phoenix Suns,1978,NBA
+721,division_4,Seattle SuperSonics,1978,NBA
+722,division_4,Los Angeles Lakers,1978,NBA
+723,division_4,Golden State Warriors,1978,NBA
+724,division_5,Atlantic Division,1978,NBA
+725,division_5,Philadelphia 76ers,1978,NBA
+726,division_5,New York Knicks,1978,NBA
+727,division_5,Boston Celtics,1978,NBA
+728,division_5,Buffalo Braves,1978,NBA
+729,division_5,New Jersey Nets,1978,NBA
+730,division_6,Central Division,1978,NBA
+731,division_6,San Antonio Spurs,1978,NBA
+732,division_6,Washington Bullets,1978,NBA
+733,division_6,Cleveland Cavaliers,1978,NBA
+734,division_6,Atlanta Hawks,1978,NBA
+735,division_6,New Orleans Jazz,1978,NBA
+736,division_6,Houston Rockets,1978,NBA
+737,division_7,Midwest Division,1978,NBA
+738,division_7,Denver Nuggets,1978,NBA
+739,division_7,Milwaukee Bucks,1978,NBA
+740,division_7,Chicago Bulls,1978,NBA
+741,division_7,Detroit Pistons,1978,NBA
+742,division_7,Kansas City Kings,1978,NBA
+743,division_7,Indiana Pacers,1978,NBA
+744,division_8,Pacific Division,1978,NBA
+745,division_8,Portland Trail Blazers,1978,NBA
+746,division_8,Phoenix Suns,1978,NBA
+747,division_8,Seattle SuperSonics,1978,NBA
+748,division_8,Los Angeles Lakers,1978,NBA
+749,division_8,Golden State Warriors,1978,NBA
+750,division_1,Atlantic Division,1979,NBA
+751,division_1,Washington Bullets,1979,NBA
+752,division_1,Philadelphia 76ers,1979,NBA
+753,division_1,New Jersey Nets,1979,NBA
+754,division_1,New York Knicks,1979,NBA
+755,division_1,Boston Celtics,1979,NBA
+756,division_2,Central Division,1979,NBA
+757,division_2,San Antonio Spurs,1979,NBA
+758,division_2,Houston Rockets,1979,NBA
+759,division_2,Atlanta Hawks,1979,NBA
+760,division_2,Detroit Pistons,1979,NBA
+761,division_2,Cleveland Cavaliers,1979,NBA
+762,division_2,New Orleans Jazz,1979,NBA
+763,division_3,Midwest Division,1979,NBA
+764,division_3,Kansas City Kings,1979,NBA
+765,division_3,Denver Nuggets,1979,NBA
+766,division_3,Milwaukee Bucks,1979,NBA
+767,division_3,Indiana Pacers,1979,NBA
+768,division_3,Chicago Bulls,1979,NBA
+769,division_4,Pacific Division,1979,NBA
+770,division_4,Seattle SuperSonics,1979,NBA
+771,division_4,Phoenix Suns,1979,NBA
+772,division_4,Los Angeles Lakers,1979,NBA
+773,division_4,Portland Trail Blazers,1979,NBA
+774,division_4,San Diego Clippers,1979,NBA
+775,division_4,Golden State Warriors,1979,NBA
+776,division_5,Atlantic Division,1979,NBA
+777,division_5,Washington Bullets,1979,NBA
+778,division_5,Philadelphia 76ers,1979,NBA
+779,division_5,New Jersey Nets,1979,NBA
+780,division_5,New York Knicks,1979,NBA
+781,division_5,Boston Celtics,1979,NBA
+782,division_6,Central Division,1979,NBA
+783,division_6,San Antonio Spurs,1979,NBA
+784,division_6,Houston Rockets,1979,NBA
+785,division_6,Atlanta Hawks,1979,NBA
+786,division_6,Detroit Pistons,1979,NBA
+787,division_6,Cleveland Cavaliers,1979,NBA
+788,division_6,New Orleans Jazz,1979,NBA
+789,division_7,Midwest Division,1979,NBA
+790,division_7,Kansas City Kings,1979,NBA
+791,division_7,Denver Nuggets,1979,NBA
+792,division_7,Milwaukee Bucks,1979,NBA
+793,division_7,Indiana Pacers,1979,NBA
+794,division_7,Chicago Bulls,1979,NBA
+795,division_8,Pacific Division,1979,NBA
+796,division_8,Seattle SuperSonics,1979,NBA
+797,division_8,Phoenix Suns,1979,NBA
+798,division_8,Los Angeles Lakers,1979,NBA
+799,division_8,Portland Trail Blazers,1979,NBA
+800,division_8,San Diego Clippers,1979,NBA
+801,division_8,Golden State Warriors,1979,NBA
+802,division_1,Atlantic Division,1980,NBA
+803,division_1,Boston Celtics,1980,NBA
+804,division_1,Philadelphia 76ers,1980,NBA
+805,division_1,Washington Bullets,1980,NBA
+806,division_1,New York Knicks,1980,NBA
+807,division_1,New Jersey Nets,1980,NBA
+808,division_2,Central Division,1980,NBA
+809,division_2,Atlanta Hawks,1980,NBA
+810,division_2,Houston Rockets,1980,NBA
+811,division_2,San Antonio Spurs,1980,NBA
+812,division_2,Indiana Pacers,1980,NBA
+813,division_2,Cleveland Cavaliers,1980,NBA
+814,division_2,Detroit Pistons,1980,NBA
+815,division_3,Midwest Division,1980,NBA
+816,division_3,Milwaukee Bucks,1980,NBA
+817,division_3,Kansas City Kings,1980,NBA
+818,division_3,Denver Nuggets,1980,NBA
+819,division_3,Chicago Bulls,1980,NBA
+820,division_3,Utah Jazz,1980,NBA
+821,division_4,Pacific Division,1980,NBA
+822,division_4,Los Angeles Lakers,1980,NBA
+823,division_4,Seattle SuperSonics,1980,NBA
+824,division_4,Phoenix Suns,1980,NBA
+825,division_4,Portland Trail Blazers,1980,NBA
+826,division_4,San Diego Clippers,1980,NBA
+827,division_4,Golden State Warriors,1980,NBA
+828,division_5,Atlantic Division,1980,NBA
+829,division_5,Boston Celtics,1980,NBA
+830,division_5,Philadelphia 76ers,1980,NBA
+831,division_5,Washington Bullets,1980,NBA
+832,division_5,New York Knicks,1980,NBA
+833,division_5,New Jersey Nets,1980,NBA
+834,division_6,Central Division,1980,NBA
+835,division_6,Atlanta Hawks,1980,NBA
+836,division_6,Houston Rockets,1980,NBA
+837,division_6,San Antonio Spurs,1980,NBA
+838,division_6,Indiana Pacers,1980,NBA
+839,division_6,Cleveland Cavaliers,1980,NBA
+840,division_6,Detroit Pistons,1980,NBA
+841,division_7,Midwest Division,1980,NBA
+842,division_7,Milwaukee Bucks,1980,NBA
+843,division_7,Kansas City Kings,1980,NBA
+844,division_7,Denver Nuggets,1980,NBA
+845,division_7,Chicago Bulls,1980,NBA
+846,division_7,Utah Jazz,1980,NBA
+847,division_8,Pacific Division,1980,NBA
+848,division_8,Los Angeles Lakers,1980,NBA
+849,division_8,Seattle SuperSonics,1980,NBA
+850,division_8,Phoenix Suns,1980,NBA
+851,division_8,Portland Trail Blazers,1980,NBA
+852,division_8,San Diego Clippers,1980,NBA
+853,division_8,Golden State Warriors,1980,NBA
+854,division_1,Atlantic Division,1981,NBA
+855,division_1,Boston Celtics,1981,NBA
+856,division_1,Philadelphia 76ers,1981,NBA
+857,division_1,New York Knicks,1981,NBA
+858,division_1,Washington Bullets,1981,NBA
+859,division_1,New Jersey Nets,1981,NBA
+860,division_2,Central Division,1981,NBA
+861,division_2,Milwaukee Bucks,1981,NBA
+862,division_2,Chicago Bulls,1981,NBA
+863,division_2,Indiana Pacers,1981,NBA
+864,division_2,Atlanta Hawks,1981,NBA
+865,division_2,Cleveland Cavaliers,1981,NBA
+866,division_2,Detroit Pistons,1981,NBA
+867,division_3,Midwest Division,1981,NBA
+868,division_3,San Antonio Spurs,1981,NBA
+869,division_3,Kansas City Kings,1981,NBA
+870,division_3,Houston Rockets,1981,NBA
+871,division_3,Denver Nuggets,1981,NBA
+872,division_3,Utah Jazz,1981,NBA
+873,division_3,Dallas Mavericks,1981,NBA
+874,division_4,Pacific Division,1981,NBA
+875,division_4,Phoenix Suns,1981,NBA
+876,division_4,Los Angeles Lakers,1981,NBA
+877,division_4,Portland Trail Blazers,1981,NBA
+878,division_4,Golden State Warriors,1981,NBA
+879,division_4,San Diego Clippers,1981,NBA
+880,division_4,Seattle SuperSonics,1981,NBA
+881,division_5,Atlantic Division,1981,NBA
+882,division_5,Boston Celtics,1981,NBA
+883,division_5,Philadelphia 76ers,1981,NBA
+884,division_5,New York Knicks,1981,NBA
+885,division_5,Washington Bullets,1981,NBA
+886,division_5,New Jersey Nets,1981,NBA
+887,division_6,Central Division,1981,NBA
+888,division_6,Milwaukee Bucks,1981,NBA
+889,division_6,Chicago Bulls,1981,NBA
+890,division_6,Indiana Pacers,1981,NBA
+891,division_6,Atlanta Hawks,1981,NBA
+892,division_6,Cleveland Cavaliers,1981,NBA
+893,division_6,Detroit Pistons,1981,NBA
+894,division_7,Midwest Division,1981,NBA
+895,division_7,San Antonio Spurs,1981,NBA
+896,division_7,Kansas City Kings,1981,NBA
+897,division_7,Houston Rockets,1981,NBA
+898,division_7,Denver Nuggets,1981,NBA
+899,division_7,Utah Jazz,1981,NBA
+900,division_7,Dallas Mavericks,1981,NBA
+901,division_8,Pacific Division,1981,NBA
+902,division_8,Phoenix Suns,1981,NBA
+903,division_8,Los Angeles Lakers,1981,NBA
+904,division_8,Portland Trail Blazers,1981,NBA
+905,division_8,Golden State Warriors,1981,NBA
+906,division_8,San Diego Clippers,1981,NBA
+907,division_8,Seattle SuperSonics,1981,NBA
+908,division_1,Atlantic Division,1982,NBA
+909,division_1,Boston Celtics,1982,NBA
+910,division_1,Philadelphia 76ers,1982,NBA
+911,division_1,New Jersey Nets,1982,NBA
+912,division_1,Washington Bullets,1982,NBA
+913,division_1,New York Knicks,1982,NBA
+914,division_2,Central Division,1982,NBA
+915,division_2,Milwaukee Bucks,1982,NBA
+916,division_2,Atlanta Hawks,1982,NBA
+917,division_2,Detroit Pistons,1982,NBA
+918,division_2,Indiana Pacers,1982,NBA
+919,division_2,Chicago Bulls,1982,NBA
+920,division_2,Cleveland Cavaliers,1982,NBA
+921,division_3,Midwest Division,1982,NBA
+922,division_3,San Antonio Spurs,1982,NBA
+923,division_3,Denver Nuggets,1982,NBA
+924,division_3,Houston Rockets,1982,NBA
+925,division_3,Kansas City Kings,1982,NBA
+926,division_3,Dallas Mavericks,1982,NBA
+927,division_3,Utah Jazz,1982,NBA
+928,division_4,Pacific Division,1982,NBA
+929,division_4,Los Angeles Lakers,1982,NBA
+930,division_4,Seattle SuperSonics,1982,NBA
+931,division_4,Phoenix Suns,1982,NBA
+932,division_4,Golden State Warriors,1982,NBA
+933,division_4,Portland Trail Blazers,1982,NBA
+934,division_4,San Diego Clippers,1982,NBA
+935,division_5,Atlantic Division,1982,NBA
+936,division_5,Boston Celtics,1982,NBA
+937,division_5,Philadelphia 76ers,1982,NBA
+938,division_5,New Jersey Nets,1982,NBA
+939,division_5,Washington Bullets,1982,NBA
+940,division_5,New York Knicks,1982,NBA
+941,division_6,Central Division,1982,NBA
+942,division_6,Milwaukee Bucks,1982,NBA
+943,division_6,Atlanta Hawks,1982,NBA
+944,division_6,Detroit Pistons,1982,NBA
+945,division_6,Indiana Pacers,1982,NBA
+946,division_6,Chicago Bulls,1982,NBA
+947,division_6,Cleveland Cavaliers,1982,NBA
+948,division_7,Midwest Division,1982,NBA
+949,division_7,San Antonio Spurs,1982,NBA
+950,division_7,Denver Nuggets,1982,NBA
+951,division_7,Houston Rockets,1982,NBA
+952,division_7,Kansas City Kings,1982,NBA
+953,division_7,Dallas Mavericks,1982,NBA
+954,division_7,Utah Jazz,1982,NBA
+955,division_8,Pacific Division,1982,NBA
+956,division_8,Los Angeles Lakers,1982,NBA
+957,division_8,Seattle SuperSonics,1982,NBA
+958,division_8,Phoenix Suns,1982,NBA
+959,division_8,Golden State Warriors,1982,NBA
+960,division_8,Portland Trail Blazers,1982,NBA
+961,division_8,San Diego Clippers,1982,NBA
+962,division_1,Atlantic Division,1983,NBA
+963,division_1,Philadelphia 76ers,1983,NBA
+964,division_1,Boston Celtics,1983,NBA
+965,division_1,New Jersey Nets,1983,NBA
+966,division_1,New York Knicks,1983,NBA
+967,division_1,Washington Bullets,1983,NBA
+968,division_2,Central Division,1983,NBA
+969,division_2,Milwaukee Bucks,1983,NBA
+970,division_2,Atlanta Hawks,1983,NBA
+971,division_2,Detroit Pistons,1983,NBA
+972,division_2,Chicago Bulls,1983,NBA
+973,division_2,Cleveland Cavaliers,1983,NBA
+974,division_2,Indiana Pacers,1983,NBA
+975,division_3,Midwest Division,1983,NBA
+976,division_3,San Antonio Spurs,1983,NBA
+977,division_3,Denver Nuggets,1983,NBA
+978,division_3,Kansas City Kings,1983,NBA
+979,division_3,Dallas Mavericks,1983,NBA
+980,division_3,Utah Jazz,1983,NBA
+981,division_3,Houston Rockets,1983,NBA
+982,division_4,Pacific Division,1983,NBA
+983,division_4,Los Angeles Lakers,1983,NBA
+984,division_4,Phoenix Suns,1983,NBA
+985,division_4,Seattle SuperSonics,1983,NBA
+986,division_4,Portland Trail Blazers,1983,NBA
+987,division_4,Golden State Warriors,1983,NBA
+988,division_4,San Diego Clippers,1983,NBA
+989,division_5,Atlantic Division,1983,NBA
+990,division_5,Philadelphia 76ers,1983,NBA
+991,division_5,Boston Celtics,1983,NBA
+992,division_5,New Jersey Nets,1983,NBA
+993,division_5,New York Knicks,1983,NBA
+994,division_5,Washington Bullets,1983,NBA
+995,division_6,Central Division,1983,NBA
+996,division_6,Milwaukee Bucks,1983,NBA
+997,division_6,Atlanta Hawks,1983,NBA
+998,division_6,Detroit Pistons,1983,NBA
+999,division_6,Chicago Bulls,1983,NBA
+1000,division_6,Cleveland Cavaliers,1983,NBA
+1001,division_6,Indiana Pacers,1983,NBA
+1002,division_7,Midwest Division,1983,NBA
+1003,division_7,San Antonio Spurs,1983,NBA
+1004,division_7,Denver Nuggets,1983,NBA
+1005,division_7,Kansas City Kings,1983,NBA
+1006,division_7,Dallas Mavericks,1983,NBA
+1007,division_7,Utah Jazz,1983,NBA
+1008,division_7,Houston Rockets,1983,NBA
+1009,division_8,Pacific Division,1983,NBA
+1010,division_8,Los Angeles Lakers,1983,NBA
+1011,division_8,Phoenix Suns,1983,NBA
+1012,division_8,Seattle SuperSonics,1983,NBA
+1013,division_8,Portland Trail Blazers,1983,NBA
+1014,division_8,Golden State Warriors,1983,NBA
+1015,division_8,San Diego Clippers,1983,NBA
+1016,division_1,Atlantic Division,1984,NBA
+1017,division_1,Boston Celtics,1984,NBA
+1018,division_1,Philadelphia 76ers,1984,NBA
+1019,division_1,New York Knicks,1984,NBA
+1020,division_1,New Jersey Nets,1984,NBA
+1021,division_1,Washington Bullets,1984,NBA
+1022,division_2,Central Division,1984,NBA
+1023,division_2,Milwaukee Bucks,1984,NBA
+1024,division_2,Detroit Pistons,1984,NBA
+1025,division_2,Atlanta Hawks,1984,NBA
+1026,division_2,Cleveland Cavaliers,1984,NBA
+1027,division_2,Chicago Bulls,1984,NBA
+1028,division_2,Indiana Pacers,1984,NBA
+1029,division_3,Midwest Division,1984,NBA
+1030,division_3,Utah Jazz,1984,NBA
+1031,division_3,Dallas Mavericks,1984,NBA
+1032,division_3,Denver Nuggets,1984,NBA
+1033,division_3,Kansas City Kings,1984,NBA
+1034,division_3,San Antonio Spurs,1984,NBA
+1035,division_3,Houston Rockets,1984,NBA
+1036,division_4,Pacific Division,1984,NBA
+1037,division_4,Los Angeles Lakers,1984,NBA
+1038,division_4,Portland Trail Blazers,1984,NBA
+1039,division_4,Seattle SuperSonics,1984,NBA
+1040,division_4,Phoenix Suns,1984,NBA
+1041,division_4,Golden State Warriors,1984,NBA
+1042,division_4,San Diego Clippers,1984,NBA
+1043,division_5,Atlantic Division,1984,NBA
+1044,division_5,Boston Celtics,1984,NBA
+1045,division_5,Philadelphia 76ers,1984,NBA
+1046,division_5,New York Knicks,1984,NBA
+1047,division_5,New Jersey Nets,1984,NBA
+1048,division_5,Washington Bullets,1984,NBA
+1049,division_6,Central Division,1984,NBA
+1050,division_6,Milwaukee Bucks,1984,NBA
+1051,division_6,Detroit Pistons,1984,NBA
+1052,division_6,Atlanta Hawks,1984,NBA
+1053,division_6,Cleveland Cavaliers,1984,NBA
+1054,division_6,Chicago Bulls,1984,NBA
+1055,division_6,Indiana Pacers,1984,NBA
+1056,division_7,Midwest Division,1984,NBA
+1057,division_7,Utah Jazz,1984,NBA
+1058,division_7,Dallas Mavericks,1984,NBA
+1059,division_7,Denver Nuggets,1984,NBA
+1060,division_7,Kansas City Kings,1984,NBA
+1061,division_7,San Antonio Spurs,1984,NBA
+1062,division_7,Houston Rockets,1984,NBA
+1063,division_8,Pacific Division,1984,NBA
+1064,division_8,Los Angeles Lakers,1984,NBA
+1065,division_8,Portland Trail Blazers,1984,NBA
+1066,division_8,Seattle SuperSonics,1984,NBA
+1067,division_8,Phoenix Suns,1984,NBA
+1068,division_8,Golden State Warriors,1984,NBA
+1069,division_8,San Diego Clippers,1984,NBA
+1070,division_1,Atlantic Division,1985,NBA
+1071,division_1,Boston Celtics,1985,NBA
+1072,division_1,Philadelphia 76ers,1985,NBA
+1073,division_1,New Jersey Nets,1985,NBA
+1074,division_1,Washington Bullets,1985,NBA
+1075,division_1,New York Knicks,1985,NBA
+1076,division_2,Central Division,1985,NBA
+1077,division_2,Milwaukee Bucks,1985,NBA
+1078,division_2,Detroit Pistons,1985,NBA
+1079,division_2,Chicago Bulls,1985,NBA
+1080,division_2,Cleveland Cavaliers,1985,NBA
+1081,division_2,Atlanta Hawks,1985,NBA
+1082,division_2,Indiana Pacers,1985,NBA
+1083,division_3,Midwest Division,1985,NBA
+1084,division_3,Denver Nuggets,1985,NBA
+1085,division_3,Houston Rockets,1985,NBA
+1086,division_3,Dallas Mavericks,1985,NBA
+1087,division_3,Utah Jazz,1985,NBA
+1088,division_3,San Antonio Spurs,1985,NBA
+1089,division_3,Kansas City Kings,1985,NBA
+1090,division_4,Pacific Division,1985,NBA
+1091,division_4,Los Angeles Lakers,1985,NBA
+1092,division_4,Portland Trail Blazers,1985,NBA
+1093,division_4,Phoenix Suns,1985,NBA
+1094,division_4,Seattle SuperSonics,1985,NBA
+1095,division_4,Los Angeles Clippers,1985,NBA
+1096,division_4,Golden State Warriors,1985,NBA
+1097,division_5,Atlantic Division,1985,NBA
+1098,division_5,Boston Celtics,1985,NBA
+1099,division_5,Philadelphia 76ers,1985,NBA
+1100,division_5,New Jersey Nets,1985,NBA
+1101,division_5,Washington Bullets,1985,NBA
+1102,division_5,New York Knicks,1985,NBA
+1103,division_6,Central Division,1985,NBA
+1104,division_6,Milwaukee Bucks,1985,NBA
+1105,division_6,Detroit Pistons,1985,NBA
+1106,division_6,Chicago Bulls,1985,NBA
+1107,division_6,Cleveland Cavaliers,1985,NBA
+1108,division_6,Atlanta Hawks,1985,NBA
+1109,division_6,Indiana Pacers,1985,NBA
+1110,division_7,Midwest Division,1985,NBA
+1111,division_7,Denver Nuggets,1985,NBA
+1112,division_7,Houston Rockets,1985,NBA
+1113,division_7,Dallas Mavericks,1985,NBA
+1114,division_7,Utah Jazz,1985,NBA
+1115,division_7,San Antonio Spurs,1985,NBA
+1116,division_7,Kansas City Kings,1985,NBA
+1117,division_8,Pacific Division,1985,NBA
+1118,division_8,Los Angeles Lakers,1985,NBA
+1119,division_8,Portland Trail Blazers,1985,NBA
+1120,division_8,Phoenix Suns,1985,NBA
+1121,division_8,Seattle SuperSonics,1985,NBA
+1122,division_8,Los Angeles Clippers,1985,NBA
+1123,division_8,Golden State Warriors,1985,NBA
+1124,division_1,Atlantic Division,1986,NBA
+1125,division_1,Boston Celtics,1986,NBA
+1126,division_1,Philadelphia 76ers,1986,NBA
+1127,division_1,Washington Bullets,1986,NBA
+1128,division_1,New Jersey Nets,1986,NBA
+1129,division_1,New York Knicks,1986,NBA
+1130,division_2,Central Division,1986,NBA
+1131,division_2,Milwaukee Bucks,1986,NBA
+1132,division_2,Atlanta Hawks,1986,NBA
+1133,division_2,Detroit Pistons,1986,NBA
+1134,division_2,Chicago Bulls,1986,NBA
+1135,division_2,Cleveland Cavaliers,1986,NBA
+1136,division_2,Indiana Pacers,1986,NBA
+1137,division_3,Midwest Division,1986,NBA
+1138,division_3,Houston Rockets,1986,NBA
+1139,division_3,Denver Nuggets,1986,NBA
+1140,division_3,Dallas Mavericks,1986,NBA
+1141,division_3,Utah Jazz,1986,NBA
+1142,division_3,Sacramento Kings,1986,NBA
+1143,division_3,San Antonio Spurs,1986,NBA
+1144,division_4,Pacific Division,1986,NBA
+1145,division_4,Los Angeles Lakers,1986,NBA
+1146,division_4,Portland Trail Blazers,1986,NBA
+1147,division_4,Phoenix Suns,1986,NBA
+1148,division_4,Los Angeles Clippers,1986,NBA
+1149,division_4,Seattle SuperSonics,1986,NBA
+1150,division_4,Golden State Warriors,1986,NBA
+1151,division_5,Atlantic Division,1986,NBA
+1152,division_5,Boston Celtics,1986,NBA
+1153,division_5,Philadelphia 76ers,1986,NBA
+1154,division_5,Washington Bullets,1986,NBA
+1155,division_5,New Jersey Nets,1986,NBA
+1156,division_5,New York Knicks,1986,NBA
+1157,division_6,Central Division,1986,NBA
+1158,division_6,Milwaukee Bucks,1986,NBA
+1159,division_6,Atlanta Hawks,1986,NBA
+1160,division_6,Detroit Pistons,1986,NBA
+1161,division_6,Chicago Bulls,1986,NBA
+1162,division_6,Cleveland Cavaliers,1986,NBA
+1163,division_6,Indiana Pacers,1986,NBA
+1164,division_7,Midwest Division,1986,NBA
+1165,division_7,Houston Rockets,1986,NBA
+1166,division_7,Denver Nuggets,1986,NBA
+1167,division_7,Dallas Mavericks,1986,NBA
+1168,division_7,Utah Jazz,1986,NBA
+1169,division_7,Sacramento Kings,1986,NBA
+1170,division_7,San Antonio Spurs,1986,NBA
+1171,division_8,Pacific Division,1986,NBA
+1172,division_8,Los Angeles Lakers,1986,NBA
+1173,division_8,Portland Trail Blazers,1986,NBA
+1174,division_8,Phoenix Suns,1986,NBA
+1175,division_8,Los Angeles Clippers,1986,NBA
+1176,division_8,Seattle SuperSonics,1986,NBA
+1177,division_8,Golden State Warriors,1986,NBA
+1178,division_1,Atlantic Division,1987,NBA
+1179,division_1,Boston Celtics,1987,NBA
+1180,division_1,Philadelphia 76ers,1987,NBA
+1181,division_1,Washington Bullets,1987,NBA
+1182,division_1,New Jersey Nets,1987,NBA
+1183,division_1,New York Knicks,1987,NBA
+1184,division_2,Central Division,1987,NBA
+1185,division_2,Atlanta Hawks,1987,NBA
+1186,division_2,Detroit Pistons,1987,NBA
+1187,division_2,Milwaukee Bucks,1987,NBA
+1188,division_2,Indiana Pacers,1987,NBA
+1189,division_2,Chicago Bulls,1987,NBA
+1190,division_2,Cleveland Cavaliers,1987,NBA
+1191,division_3,Midwest Division,1987,NBA
+1192,division_3,Dallas Mavericks,1987,NBA
+1193,division_3,Utah Jazz,1987,NBA
+1194,division_3,Houston Rockets,1987,NBA
+1195,division_3,Denver Nuggets,1987,NBA
+1196,division_3,Sacramento Kings,1987,NBA
+1197,division_3,San Antonio Spurs,1987,NBA
+1198,division_4,Pacific Division,1987,NBA
+1199,division_4,Los Angeles Lakers,1987,NBA
+1200,division_4,Portland Trail Blazers,1987,NBA
+1201,division_4,Golden State Warriors,1987,NBA
+1202,division_4,Seattle SuperSonics,1987,NBA
+1203,division_4,Phoenix Suns,1987,NBA
+1204,division_4,Los Angeles Clippers,1987,NBA
+1205,division_5,Atlantic Division,1987,NBA
+1206,division_5,Boston Celtics,1987,NBA
+1207,division_5,Philadelphia 76ers,1987,NBA
+1208,division_5,Washington Bullets,1987,NBA
+1209,division_5,New Jersey Nets,1987,NBA
+1210,division_5,New York Knicks,1987,NBA
+1211,division_6,Central Division,1987,NBA
+1212,division_6,Atlanta Hawks,1987,NBA
+1213,division_6,Detroit Pistons,1987,NBA
+1214,division_6,Milwaukee Bucks,1987,NBA
+1215,division_6,Indiana Pacers,1987,NBA
+1216,division_6,Chicago Bulls,1987,NBA
+1217,division_6,Cleveland Cavaliers,1987,NBA
+1218,division_7,Midwest Division,1987,NBA
+1219,division_7,Dallas Mavericks,1987,NBA
+1220,division_7,Utah Jazz,1987,NBA
+1221,division_7,Houston Rockets,1987,NBA
+1222,division_7,Denver Nuggets,1987,NBA
+1223,division_7,Sacramento Kings,1987,NBA
+1224,division_7,San Antonio Spurs,1987,NBA
+1225,division_8,Pacific Division,1987,NBA
+1226,division_8,Los Angeles Lakers,1987,NBA
+1227,division_8,Portland Trail Blazers,1987,NBA
+1228,division_8,Golden State Warriors,1987,NBA
+1229,division_8,Seattle SuperSonics,1987,NBA
+1230,division_8,Phoenix Suns,1987,NBA
+1231,division_8,Los Angeles Clippers,1987,NBA
+1232,division_1,Atlantic Division,1988,NBA
+1233,division_1,Boston Celtics,1988,NBA
+1234,division_1,Washington Bullets,1988,NBA
+1235,division_1,New York Knicks,1988,NBA
+1236,division_1,Philadelphia 76ers,1988,NBA
+1237,division_1,New Jersey Nets,1988,NBA
+1238,division_2,Central Division,1988,NBA
+1239,division_2,Detroit Pistons,1988,NBA
+1240,division_2,Chicago Bulls,1988,NBA
+1241,division_2,Atlanta Hawks,1988,NBA
+1242,division_2,Milwaukee Bucks,1988,NBA
+1243,division_2,Cleveland Cavaliers,1988,NBA
+1244,division_2,Indiana Pacers,1988,NBA
+1245,division_3,Midwest Division,1988,NBA
+1246,division_3,Denver Nuggets,1988,NBA
+1247,division_3,Dallas Mavericks,1988,NBA
+1248,division_3,Utah Jazz,1988,NBA
+1249,division_3,Houston Rockets,1988,NBA
+1250,division_3,San Antonio Spurs,1988,NBA
+1251,division_3,Sacramento Kings,1988,NBA
+1252,division_4,Pacific Division,1988,NBA
+1253,division_4,Los Angeles Lakers,1988,NBA
+1254,division_4,Portland Trail Blazers,1988,NBA
+1255,division_4,Seattle SuperSonics,1988,NBA
+1256,division_4,Phoenix Suns,1988,NBA
+1257,division_4,Golden State Warriors,1988,NBA
+1258,division_4,Los Angeles Clippers,1988,NBA
+1259,division_5,Atlantic Division,1988,NBA
+1260,division_5,Boston Celtics,1988,NBA
+1261,division_5,Washington Bullets,1988,NBA
+1262,division_5,New York Knicks,1988,NBA
+1263,division_5,Philadelphia 76ers,1988,NBA
+1264,division_5,New Jersey Nets,1988,NBA
+1265,division_6,Central Division,1988,NBA
+1266,division_6,Detroit Pistons,1988,NBA
+1267,division_6,Chicago Bulls,1988,NBA
+1268,division_6,Atlanta Hawks,1988,NBA
+1269,division_6,Milwaukee Bucks,1988,NBA
+1270,division_6,Cleveland Cavaliers,1988,NBA
+1271,division_6,Indiana Pacers,1988,NBA
+1272,division_7,Midwest Division,1988,NBA
+1273,division_7,Denver Nuggets,1988,NBA
+1274,division_7,Dallas Mavericks,1988,NBA
+1275,division_7,Utah Jazz,1988,NBA
+1276,division_7,Houston Rockets,1988,NBA
+1277,division_7,San Antonio Spurs,1988,NBA
+1278,division_7,Sacramento Kings,1988,NBA
+1279,division_8,Pacific Division,1988,NBA
+1280,division_8,Los Angeles Lakers,1988,NBA
+1281,division_8,Portland Trail Blazers,1988,NBA
+1282,division_8,Seattle SuperSonics,1988,NBA
+1283,division_8,Phoenix Suns,1988,NBA
+1284,division_8,Golden State Warriors,1988,NBA
+1285,division_8,Los Angeles Clippers,1988,NBA
+1286,division_1,Atlantic Division,1989,NBA
+1287,division_1,New York Knicks,1989,NBA
+1288,division_1,Philadelphia 76ers,1989,NBA
+1289,division_1,Boston Celtics,1989,NBA
+1290,division_1,Washington Bullets,1989,NBA
+1291,division_1,New Jersey Nets,1989,NBA
+1292,division_1,Charlotte Hornets,1989,NBA
+1293,division_2,Central Division,1989,NBA
+1294,division_2,Detroit Pistons,1989,NBA
+1295,division_2,Cleveland Cavaliers,1989,NBA
+1296,division_2,Atlanta Hawks,1989,NBA
+1297,division_2,Milwaukee Bucks,1989,NBA
+1298,division_2,Chicago Bulls,1989,NBA
+1299,division_2,Indiana Pacers,1989,NBA
+1300,division_3,Midwest Division,1989,NBA
+1301,division_3,Utah Jazz,1989,NBA
+1302,division_3,Houston Rockets,1989,NBA
+1303,division_3,Denver Nuggets,1989,NBA
+1304,division_3,Dallas Mavericks,1989,NBA
+1305,division_3,San Antonio Spurs,1989,NBA
+1306,division_3,Miami Heat,1989,NBA
+1307,division_4,Pacific Division,1989,NBA
+1308,division_4,Los Angeles Lakers,1989,NBA
+1309,division_4,Phoenix Suns,1989,NBA
+1310,division_4,Seattle SuperSonics,1989,NBA
+1311,division_4,Golden State Warriors,1989,NBA
+1312,division_4,Portland Trail Blazers,1989,NBA
+1313,division_4,Sacramento Kings,1989,NBA
+1314,division_4,Los Angeles Clippers,1989,NBA
+1315,division_5,Atlantic Division,1989,NBA
+1316,division_5,New York Knicks,1989,NBA
+1317,division_5,Philadelphia 76ers,1989,NBA
+1318,division_5,Boston Celtics,1989,NBA
+1319,division_5,Washington Bullets,1989,NBA
+1320,division_5,New Jersey Nets,1989,NBA
+1321,division_5,Charlotte Hornets,1989,NBA
+1322,division_6,Central Division,1989,NBA
+1323,division_6,Detroit Pistons,1989,NBA
+1324,division_6,Cleveland Cavaliers,1989,NBA
+1325,division_6,Atlanta Hawks,1989,NBA
+1326,division_6,Milwaukee Bucks,1989,NBA
+1327,division_6,Chicago Bulls,1989,NBA
+1328,division_6,Indiana Pacers,1989,NBA
+1329,division_7,Midwest Division,1989,NBA
+1330,division_7,Utah Jazz,1989,NBA
+1331,division_7,Houston Rockets,1989,NBA
+1332,division_7,Denver Nuggets,1989,NBA
+1333,division_7,Dallas Mavericks,1989,NBA
+1334,division_7,San Antonio Spurs,1989,NBA
+1335,division_7,Miami Heat,1989,NBA
+1336,division_8,Pacific Division,1989,NBA
+1337,division_8,Los Angeles Lakers,1989,NBA
+1338,division_8,Phoenix Suns,1989,NBA
+1339,division_8,Seattle SuperSonics,1989,NBA
+1340,division_8,Golden State Warriors,1989,NBA
+1341,division_8,Portland Trail Blazers,1989,NBA
+1342,division_8,Sacramento Kings,1989,NBA
+1343,division_8,Los Angeles Clippers,1989,NBA
+1344,division_1,Atlantic Division,1990,NBA
+1345,division_1,Philadelphia 76ers,1990,NBA
+1346,division_1,Boston Celtics,1990,NBA
+1347,division_1,New York Knicks,1990,NBA
+1348,division_1,Washington Bullets,1990,NBA
+1349,division_1,Miami Heat,1990,NBA
+1350,division_1,New Jersey Nets,1990,NBA
+1351,division_2,Central Division,1990,NBA
+1352,division_2,Detroit Pistons,1990,NBA
+1353,division_2,Chicago Bulls,1990,NBA
+1354,division_2,Milwaukee Bucks,1990,NBA
+1355,division_2,Cleveland Cavaliers,1990,NBA
+1356,division_2,Indiana Pacers,1990,NBA
+1357,division_2,Atlanta Hawks,1990,NBA
+1358,division_2,Orlando Magic,1990,NBA
+1359,division_3,Midwest Division,1990,NBA
+1360,division_3,San Antonio Spurs,1990,NBA
+1361,division_3,Utah Jazz,1990,NBA
+1362,division_3,Dallas Mavericks,1990,NBA
+1363,division_3,Denver Nuggets,1990,NBA
+1364,division_3,Houston Rockets,1990,NBA
+1365,division_3,Minnesota Timberwolves,1990,NBA
+1366,division_3,Charlotte Hornets,1990,NBA
+1367,division_4,Pacific Division,1990,NBA
+1368,division_4,Los Angeles Lakers,1990,NBA
+1369,division_4,Portland Trail Blazers,1990,NBA
+1370,division_4,Phoenix Suns,1990,NBA
+1371,division_4,Seattle SuperSonics,1990,NBA
+1372,division_4,Golden State Warriors,1990,NBA
+1373,division_4,Los Angeles Clippers,1990,NBA
+1374,division_4,Sacramento Kings,1990,NBA
+1375,division_5,Atlantic Division,1990,NBA
+1376,division_5,Philadelphia 76ers,1990,NBA
+1377,division_5,Boston Celtics,1990,NBA
+1378,division_5,New York Knicks,1990,NBA
+1379,division_5,Washington Bullets,1990,NBA
+1380,division_5,Miami Heat,1990,NBA
+1381,division_5,New Jersey Nets,1990,NBA
+1382,division_6,Central Division,1990,NBA
+1383,division_6,Detroit Pistons,1990,NBA
+1384,division_6,Chicago Bulls,1990,NBA
+1385,division_6,Milwaukee Bucks,1990,NBA
+1386,division_6,Cleveland Cavaliers,1990,NBA
+1387,division_6,Indiana Pacers,1990,NBA
+1388,division_6,Atlanta Hawks,1990,NBA
+1389,division_6,Orlando Magic,1990,NBA
+1390,division_7,Midwest Division,1990,NBA
+1391,division_7,San Antonio Spurs,1990,NBA
+1392,division_7,Utah Jazz,1990,NBA
+1393,division_7,Dallas Mavericks,1990,NBA
+1394,division_7,Denver Nuggets,1990,NBA
+1395,division_7,Houston Rockets,1990,NBA
+1396,division_7,Minnesota Timberwolves,1990,NBA
+1397,division_7,Charlotte Hornets,1990,NBA
+1398,division_8,Pacific Division,1990,NBA
+1399,division_8,Los Angeles Lakers,1990,NBA
+1400,division_8,Portland Trail Blazers,1990,NBA
+1401,division_8,Phoenix Suns,1990,NBA
+1402,division_8,Seattle SuperSonics,1990,NBA
+1403,division_8,Golden State Warriors,1990,NBA
+1404,division_8,Los Angeles Clippers,1990,NBA
+1405,division_8,Sacramento Kings,1990,NBA
+1406,division_1,Atlantic Division,1991,NBA
+1407,division_1,Boston Celtics,1991,NBA
+1408,division_1,Philadelphia 76ers,1991,NBA
+1409,division_1,New York Knicks,1991,NBA
+1410,division_1,Washington Bullets,1991,NBA
+1411,division_1,New Jersey Nets,1991,NBA
+1412,division_1,Miami Heat,1991,NBA
+1413,division_2,Central Division,1991,NBA
+1414,division_2,Chicago Bulls,1991,NBA
+1415,division_2,Detroit Pistons,1991,NBA
+1416,division_2,Milwaukee Bucks,1991,NBA
+1417,division_2,Atlanta Hawks,1991,NBA
+1418,division_2,Indiana Pacers,1991,NBA
+1419,division_2,Cleveland Cavaliers,1991,NBA
+1420,division_2,Charlotte Hornets,1991,NBA
+1421,division_3,Midwest Division,1991,NBA
+1422,division_3,San Antonio Spurs,1991,NBA
+1423,division_3,Utah Jazz,1991,NBA
+1424,division_3,Houston Rockets,1991,NBA
+1425,division_3,Orlando Magic,1991,NBA
+1426,division_3,Minnesota Timberwolves,1991,NBA
+1427,division_3,Dallas Mavericks,1991,NBA
+1428,division_3,Denver Nuggets,1991,NBA
+1429,division_4,Pacific Division,1991,NBA
+1430,division_4,Portland Trail Blazers,1991,NBA
+1431,division_4,Los Angeles Lakers,1991,NBA
+1432,division_4,Phoenix Suns,1991,NBA
+1433,division_4,Golden State Warriors,1991,NBA
+1434,division_4,Seattle SuperSonics,1991,NBA
+1435,division_4,Los Angeles Clippers,1991,NBA
+1436,division_4,Sacramento Kings,1991,NBA
+1437,division_5,Atlantic Division,1991,NBA
+1438,division_5,Boston Celtics,1991,NBA
+1439,division_5,Philadelphia 76ers,1991,NBA
+1440,division_5,New York Knicks,1991,NBA
+1441,division_5,Washington Bullets,1991,NBA
+1442,division_5,New Jersey Nets,1991,NBA
+1443,division_5,Miami Heat,1991,NBA
+1444,division_6,Central Division,1991,NBA
+1445,division_6,Chicago Bulls,1991,NBA
+1446,division_6,Detroit Pistons,1991,NBA
+1447,division_6,Milwaukee Bucks,1991,NBA
+1448,division_6,Atlanta Hawks,1991,NBA
+1449,division_6,Indiana Pacers,1991,NBA
+1450,division_6,Cleveland Cavaliers,1991,NBA
+1451,division_6,Charlotte Hornets,1991,NBA
+1452,division_7,Midwest Division,1991,NBA
+1453,division_7,San Antonio Spurs,1991,NBA
+1454,division_7,Utah Jazz,1991,NBA
+1455,division_7,Houston Rockets,1991,NBA
+1456,division_7,Orlando Magic,1991,NBA
+1457,division_7,Minnesota Timberwolves,1991,NBA
+1458,division_7,Dallas Mavericks,1991,NBA
+1459,division_7,Denver Nuggets,1991,NBA
+1460,division_8,Pacific Division,1991,NBA
+1461,division_8,Portland Trail Blazers,1991,NBA
+1462,division_8,Los Angeles Lakers,1991,NBA
+1463,division_8,Phoenix Suns,1991,NBA
+1464,division_8,Golden State Warriors,1991,NBA
+1465,division_8,Seattle SuperSonics,1991,NBA
+1466,division_8,Los Angeles Clippers,1991,NBA
+1467,division_8,Sacramento Kings,1991,NBA
+1468,division_1,Atlantic Division,1992,NBA
+1469,division_1,Boston Celtics,1992,NBA
+1470,division_1,New York Knicks,1992,NBA
+1471,division_1,New Jersey Nets,1992,NBA
+1472,division_1,Miami Heat,1992,NBA
+1473,division_1,Philadelphia 76ers,1992,NBA
+1474,division_1,Washington Bullets,1992,NBA
+1475,division_1,Orlando Magic,1992,NBA
+1476,division_2,Central Division,1992,NBA
+1477,division_2,Chicago Bulls,1992,NBA
+1478,division_2,Cleveland Cavaliers,1992,NBA
+1479,division_2,Detroit Pistons,1992,NBA
+1480,division_2,Indiana Pacers,1992,NBA
+1481,division_2,Atlanta Hawks,1992,NBA
+1482,division_2,Milwaukee Bucks,1992,NBA
+1483,division_2,Charlotte Hornets,1992,NBA
+1484,division_3,Midwest Division,1992,NBA
+1485,division_3,Utah Jazz,1992,NBA
+1486,division_3,San Antonio Spurs,1992,NBA
+1487,division_3,Houston Rockets,1992,NBA
+1488,division_3,Denver Nuggets,1992,NBA
+1489,division_3,Dallas Mavericks,1992,NBA
+1490,division_3,Minnesota Timberwolves,1992,NBA
+1491,division_4,Pacific Division,1992,NBA
+1492,division_4,Portland Trail Blazers,1992,NBA
+1493,division_4,Golden State Warriors,1992,NBA
+1494,division_4,Phoenix Suns,1992,NBA
+1495,division_4,Seattle SuperSonics,1992,NBA
+1496,division_4,Los Angeles Clippers,1992,NBA
+1497,division_4,Los Angeles Lakers,1992,NBA
+1498,division_4,Sacramento Kings,1992,NBA
+1499,division_5,Atlantic Division,1992,NBA
+1500,division_5,Boston Celtics,1992,NBA
+1501,division_5,New York Knicks,1992,NBA
+1502,division_5,New Jersey Nets,1992,NBA
+1503,division_5,Miami Heat,1992,NBA
+1504,division_5,Philadelphia 76ers,1992,NBA
+1505,division_5,Washington Bullets,1992,NBA
+1506,division_5,Orlando Magic,1992,NBA
+1507,division_6,Central Division,1992,NBA
+1508,division_6,Chicago Bulls,1992,NBA
+1509,division_6,Cleveland Cavaliers,1992,NBA
+1510,division_6,Detroit Pistons,1992,NBA
+1511,division_6,Indiana Pacers,1992,NBA
+1512,division_6,Atlanta Hawks,1992,NBA
+1513,division_6,Milwaukee Bucks,1992,NBA
+1514,division_6,Charlotte Hornets,1992,NBA
+1515,division_7,Midwest Division,1992,NBA
+1516,division_7,Utah Jazz,1992,NBA
+1517,division_7,San Antonio Spurs,1992,NBA
+1518,division_7,Houston Rockets,1992,NBA
+1519,division_7,Denver Nuggets,1992,NBA
+1520,division_7,Dallas Mavericks,1992,NBA
+1521,division_7,Minnesota Timberwolves,1992,NBA
+1522,division_8,Pacific Division,1992,NBA
+1523,division_8,Portland Trail Blazers,1992,NBA
+1524,division_8,Golden State Warriors,1992,NBA
+1525,division_8,Phoenix Suns,1992,NBA
+1526,division_8,Seattle SuperSonics,1992,NBA
+1527,division_8,Los Angeles Clippers,1992,NBA
+1528,division_8,Los Angeles Lakers,1992,NBA
+1529,division_8,Sacramento Kings,1992,NBA
+1530,division_1,Atlantic Division,1993,NBA
+1531,division_1,New York Knicks,1993,NBA
+1532,division_1,Boston Celtics,1993,NBA
+1533,division_1,New Jersey Nets,1993,NBA
+1534,division_1,Orlando Magic,1993,NBA
+1535,division_1,Miami Heat,1993,NBA
+1536,division_1,Philadelphia 76ers,1993,NBA
+1537,division_1,Washington Bullets,1993,NBA
+1538,division_2,Central Division,1993,NBA
+1539,division_2,Chicago Bulls,1993,NBA
+1540,division_2,Cleveland Cavaliers,1993,NBA
+1541,division_2,Charlotte Hornets,1993,NBA
+1542,division_2,Atlanta Hawks,1993,NBA
+1543,division_2,Indiana Pacers,1993,NBA
+1544,division_2,Detroit Pistons,1993,NBA
+1545,division_2,Milwaukee Bucks,1993,NBA
+1546,division_3,Midwest Division,1993,NBA
+1547,division_3,Houston Rockets,1993,NBA
+1548,division_3,San Antonio Spurs,1993,NBA
+1549,division_3,Utah Jazz,1993,NBA
+1550,division_3,Denver Nuggets,1993,NBA
+1551,division_3,Minnesota Timberwolves,1993,NBA
+1552,division_3,Dallas Mavericks,1993,NBA
+1553,division_4,Pacific Division,1993,NBA
+1554,division_4,Phoenix Suns,1993,NBA
+1555,division_4,Seattle SuperSonics,1993,NBA
+1556,division_4,Portland Trail Blazers,1993,NBA
+1557,division_4,Los Angeles Clippers,1993,NBA
+1558,division_4,Los Angeles Lakers,1993,NBA
+1559,division_4,Golden State Warriors,1993,NBA
+1560,division_4,Sacramento Kings,1993,NBA
+1561,division_5,Atlantic Division,1993,NBA
+1562,division_5,New York Knicks,1993,NBA
+1563,division_5,Boston Celtics,1993,NBA
+1564,division_5,New Jersey Nets,1993,NBA
+1565,division_5,Orlando Magic,1993,NBA
+1566,division_5,Miami Heat,1993,NBA
+1567,division_5,Philadelphia 76ers,1993,NBA
+1568,division_5,Washington Bullets,1993,NBA
+1569,division_6,Central Division,1993,NBA
+1570,division_6,Chicago Bulls,1993,NBA
+1571,division_6,Cleveland Cavaliers,1993,NBA
+1572,division_6,Charlotte Hornets,1993,NBA
+1573,division_6,Atlanta Hawks,1993,NBA
+1574,division_6,Indiana Pacers,1993,NBA
+1575,division_6,Detroit Pistons,1993,NBA
+1576,division_6,Milwaukee Bucks,1993,NBA
+1577,division_7,Midwest Division,1993,NBA
+1578,division_7,Houston Rockets,1993,NBA
+1579,division_7,San Antonio Spurs,1993,NBA
+1580,division_7,Utah Jazz,1993,NBA
+1581,division_7,Denver Nuggets,1993,NBA
+1582,division_7,Minnesota Timberwolves,1993,NBA
+1583,division_7,Dallas Mavericks,1993,NBA
+1584,division_8,Pacific Division,1993,NBA
+1585,division_8,Phoenix Suns,1993,NBA
+1586,division_8,Seattle SuperSonics,1993,NBA
+1587,division_8,Portland Trail Blazers,1993,NBA
+1588,division_8,Los Angeles Clippers,1993,NBA
+1589,division_8,Los Angeles Lakers,1993,NBA
+1590,division_8,Golden State Warriors,1993,NBA
+1591,division_8,Sacramento Kings,1993,NBA
+1592,division_1,Atlantic Division,1994,NBA
+1593,division_1,New York Knicks,1994,NBA
+1594,division_1,Orlando Magic,1994,NBA
+1595,division_1,New Jersey Nets,1994,NBA
+1596,division_1,Miami Heat,1994,NBA
+1597,division_1,Boston Celtics,1994,NBA
+1598,division_1,Philadelphia 76ers,1994,NBA
+1599,division_1,Washington Bullets,1994,NBA
+1600,division_2,Central Division,1994,NBA
+1601,division_2,Atlanta Hawks,1994,NBA
+1602,division_2,Chicago Bulls,1994,NBA
+1603,division_2,Indiana Pacers,1994,NBA
+1604,division_2,Cleveland Cavaliers,1994,NBA
+1605,division_2,Charlotte Hornets,1994,NBA
+1606,division_2,Milwaukee Bucks,1994,NBA
+1607,division_2,Detroit Pistons,1994,NBA
+1608,division_3,Midwest Division,1994,NBA
+1609,division_3,Houston Rockets,1994,NBA
+1610,division_3,San Antonio Spurs,1994,NBA
+1611,division_3,Utah Jazz,1994,NBA
+1612,division_3,Denver Nuggets,1994,NBA
+1613,division_3,Minnesota Timberwolves,1994,NBA
+1614,division_3,Dallas Mavericks,1994,NBA
+1615,division_4,Pacific Division,1994,NBA
+1616,division_4,Seattle SuperSonics,1994,NBA
+1617,division_4,Phoenix Suns,1994,NBA
+1618,division_4,Golden State Warriors,1994,NBA
+1619,division_4,Portland Trail Blazers,1994,NBA
+1620,division_4,Los Angeles Lakers,1994,NBA
+1621,division_4,Sacramento Kings,1994,NBA
+1622,division_4,Los Angeles Clippers,1994,NBA
+1623,division_5,Atlantic Division,1994,NBA
+1624,division_5,New York Knicks,1994,NBA
+1625,division_5,Orlando Magic,1994,NBA
+1626,division_5,New Jersey Nets,1994,NBA
+1627,division_5,Miami Heat,1994,NBA
+1628,division_5,Boston Celtics,1994,NBA
+1629,division_5,Philadelphia 76ers,1994,NBA
+1630,division_5,Washington Bullets,1994,NBA
+1631,division_6,Central Division,1994,NBA
+1632,division_6,Atlanta Hawks,1994,NBA
+1633,division_6,Chicago Bulls,1994,NBA
+1634,division_6,Indiana Pacers,1994,NBA
+1635,division_6,Cleveland Cavaliers,1994,NBA
+1636,division_6,Charlotte Hornets,1994,NBA
+1637,division_6,Milwaukee Bucks,1994,NBA
+1638,division_6,Detroit Pistons,1994,NBA
+1639,division_7,Midwest Division,1994,NBA
+1640,division_7,Houston Rockets,1994,NBA
+1641,division_7,San Antonio Spurs,1994,NBA
+1642,division_7,Utah Jazz,1994,NBA
+1643,division_7,Denver Nuggets,1994,NBA
+1644,division_7,Minnesota Timberwolves,1994,NBA
+1645,division_7,Dallas Mavericks,1994,NBA
+1646,division_8,Pacific Division,1994,NBA
+1647,division_8,Seattle SuperSonics,1994,NBA
+1648,division_8,Phoenix Suns,1994,NBA
+1649,division_8,Golden State Warriors,1994,NBA
+1650,division_8,Portland Trail Blazers,1994,NBA
+1651,division_8,Los Angeles Lakers,1994,NBA
+1652,division_8,Sacramento Kings,1994,NBA
+1653,division_8,Los Angeles Clippers,1994,NBA
+1654,division_1,Atlantic Division,1995,NBA
+1655,division_1,Orlando Magic,1995,NBA
+1656,division_1,New York Knicks,1995,NBA
+1657,division_1,Boston Celtics,1995,NBA
+1658,division_1,Miami Heat,1995,NBA
+1659,division_1,New Jersey Nets,1995,NBA
+1660,division_1,Philadelphia 76ers,1995,NBA
+1661,division_1,Washington Bullets,1995,NBA
+1662,division_2,Central Division,1995,NBA
+1663,division_2,Indiana Pacers,1995,NBA
+1664,division_2,Charlotte Hornets,1995,NBA
+1665,division_2,Chicago Bulls,1995,NBA
+1666,division_2,Cleveland Cavaliers,1995,NBA
+1667,division_2,Atlanta Hawks,1995,NBA
+1668,division_2,Milwaukee Bucks,1995,NBA
+1669,division_2,Detroit Pistons,1995,NBA
+1670,division_3,Midwest Division,1995,NBA
+1671,division_3,San Antonio Spurs,1995,NBA
+1672,division_3,Utah Jazz,1995,NBA
+1673,division_3,Houston Rockets,1995,NBA
+1674,division_3,Denver Nuggets,1995,NBA
+1675,division_3,Dallas Mavericks,1995,NBA
+1676,division_3,Minnesota Timberwolves,1995,NBA
+1677,division_4,Pacific Division,1995,NBA
+1678,division_4,Phoenix Suns,1995,NBA
+1679,division_4,Seattle SuperSonics,1995,NBA
+1680,division_4,Los Angeles Lakers,1995,NBA
+1681,division_4,Portland Trail Blazers,1995,NBA
+1682,division_4,Sacramento Kings,1995,NBA
+1683,division_4,Golden State Warriors,1995,NBA
+1684,division_4,Los Angeles Clippers,1995,NBA
+1685,division_5,Atlantic Division,1995,NBA
+1686,division_5,Orlando Magic,1995,NBA
+1687,division_5,New York Knicks,1995,NBA
+1688,division_5,Boston Celtics,1995,NBA
+1689,division_5,Miami Heat,1995,NBA
+1690,division_5,New Jersey Nets,1995,NBA
+1691,division_5,Philadelphia 76ers,1995,NBA
+1692,division_5,Washington Bullets,1995,NBA
+1693,division_6,Central Division,1995,NBA
+1694,division_6,Indiana Pacers,1995,NBA
+1695,division_6,Charlotte Hornets,1995,NBA
+1696,division_6,Chicago Bulls,1995,NBA
+1697,division_6,Cleveland Cavaliers,1995,NBA
+1698,division_6,Atlanta Hawks,1995,NBA
+1699,division_6,Milwaukee Bucks,1995,NBA
+1700,division_6,Detroit Pistons,1995,NBA
+1701,division_7,Midwest Division,1995,NBA
+1702,division_7,San Antonio Spurs,1995,NBA
+1703,division_7,Utah Jazz,1995,NBA
+1704,division_7,Houston Rockets,1995,NBA
+1705,division_7,Denver Nuggets,1995,NBA
+1706,division_7,Dallas Mavericks,1995,NBA
+1707,division_7,Minnesota Timberwolves,1995,NBA
+1708,division_8,Pacific Division,1995,NBA
+1709,division_8,Phoenix Suns,1995,NBA
+1710,division_8,Seattle SuperSonics,1995,NBA
+1711,division_8,Los Angeles Lakers,1995,NBA
+1712,division_8,Portland Trail Blazers,1995,NBA
+1713,division_8,Sacramento Kings,1995,NBA
+1714,division_8,Golden State Warriors,1995,NBA
+1715,division_8,Los Angeles Clippers,1995,NBA
+1716,division_1,Atlantic Division,1996,NBA
+1717,division_1,Orlando Magic,1996,NBA
+1718,division_1,New York Knicks,1996,NBA
+1719,division_1,Miami Heat,1996,NBA
+1720,division_1,Washington Bullets,1996,NBA
+1721,division_1,Boston Celtics,1996,NBA
+1722,division_1,New Jersey Nets,1996,NBA
+1723,division_1,Philadelphia 76ers,1996,NBA
+1724,division_2,Central Division,1996,NBA
+1725,division_2,Chicago Bulls,1996,NBA
+1726,division_2,Indiana Pacers,1996,NBA
+1727,division_2,Cleveland Cavaliers,1996,NBA
+1728,division_2,Atlanta Hawks,1996,NBA
+1729,division_2,Detroit Pistons,1996,NBA
+1730,division_2,Charlotte Hornets,1996,NBA
+1731,division_2,Milwaukee Bucks,1996,NBA
+1732,division_2,Toronto Raptors,1996,NBA
+1733,division_3,Midwest Division,1996,NBA
+1734,division_3,San Antonio Spurs,1996,NBA
+1735,division_3,Utah Jazz,1996,NBA
+1736,division_3,Houston Rockets,1996,NBA
+1737,division_3,Denver Nuggets,1996,NBA
+1738,division_3,Minnesota Timberwolves,1996,NBA
+1739,division_3,Dallas Mavericks,1996,NBA
+1740,division_3,Vancouver Grizzlies,1996,NBA
+1741,division_4,Pacific Division,1996,NBA
+1742,division_4,Seattle SuperSonics,1996,NBA
+1743,division_4,Los Angeles Lakers,1996,NBA
+1744,division_4,Portland Trail Blazers,1996,NBA
+1745,division_4,Phoenix Suns,1996,NBA
+1746,division_4,Sacramento Kings,1996,NBA
+1747,division_4,Golden State Warriors,1996,NBA
+1748,division_4,Los Angeles Clippers,1996,NBA
+1749,division_5,Atlantic Division,1996,NBA
+1750,division_5,Orlando Magic,1996,NBA
+1751,division_5,New York Knicks,1996,NBA
+1752,division_5,Miami Heat,1996,NBA
+1753,division_5,Washington Bullets,1996,NBA
+1754,division_5,Boston Celtics,1996,NBA
+1755,division_5,New Jersey Nets,1996,NBA
+1756,division_5,Philadelphia 76ers,1996,NBA
+1757,division_6,Central Division,1996,NBA
+1758,division_6,Chicago Bulls,1996,NBA
+1759,division_6,Indiana Pacers,1996,NBA
+1760,division_6,Cleveland Cavaliers,1996,NBA
+1761,division_6,Atlanta Hawks,1996,NBA
+1762,division_6,Detroit Pistons,1996,NBA
+1763,division_6,Charlotte Hornets,1996,NBA
+1764,division_6,Milwaukee Bucks,1996,NBA
+1765,division_6,Toronto Raptors,1996,NBA
+1766,division_7,Midwest Division,1996,NBA
+1767,division_7,San Antonio Spurs,1996,NBA
+1768,division_7,Utah Jazz,1996,NBA
+1769,division_7,Houston Rockets,1996,NBA
+1770,division_7,Denver Nuggets,1996,NBA
+1771,division_7,Minnesota Timberwolves,1996,NBA
+1772,division_7,Dallas Mavericks,1996,NBA
+1773,division_7,Vancouver Grizzlies,1996,NBA
+1774,division_8,Pacific Division,1996,NBA
+1775,division_8,Seattle SuperSonics,1996,NBA
+1776,division_8,Los Angeles Lakers,1996,NBA
+1777,division_8,Portland Trail Blazers,1996,NBA
+1778,division_8,Phoenix Suns,1996,NBA
+1779,division_8,Sacramento Kings,1996,NBA
+1780,division_8,Golden State Warriors,1996,NBA
+1781,division_8,Los Angeles Clippers,1996,NBA
+1782,division_1,Atlantic Division,1997,NBA
+1783,division_1,Miami Heat,1997,NBA
+1784,division_1,New York Knicks,1997,NBA
+1785,division_1,Orlando Magic,1997,NBA
+1786,division_1,Washington Bullets,1997,NBA
+1787,division_1,New Jersey Nets,1997,NBA
+1788,division_1,Philadelphia 76ers,1997,NBA
+1789,division_1,Boston Celtics,1997,NBA
+1790,division_2,Central Division,1997,NBA
+1791,division_2,Chicago Bulls,1997,NBA
+1792,division_2,Atlanta Hawks,1997,NBA
+1793,division_2,Detroit Pistons,1997,NBA
+1794,division_2,Charlotte Hornets,1997,NBA
+1795,division_2,Cleveland Cavaliers,1997,NBA
+1796,division_2,Indiana Pacers,1997,NBA
+1797,division_2,Milwaukee Bucks,1997,NBA
+1798,division_2,Toronto Raptors,1997,NBA
+1799,division_3,Midwest Division,1997,NBA
+1800,division_3,Utah Jazz,1997,NBA
+1801,division_3,Houston Rockets,1997,NBA
+1802,division_3,Minnesota Timberwolves,1997,NBA
+1803,division_3,Dallas Mavericks,1997,NBA
+1804,division_3,Denver Nuggets,1997,NBA
+1805,division_3,San Antonio Spurs,1997,NBA
+1806,division_3,Vancouver Grizzlies,1997,NBA
+1807,division_4,Pacific Division,1997,NBA
+1808,division_4,Seattle SuperSonics,1997,NBA
+1809,division_4,Los Angeles Lakers,1997,NBA
+1810,division_4,Portland Trail Blazers,1997,NBA
+1811,division_4,Phoenix Suns,1997,NBA
+1812,division_4,Los Angeles Clippers,1997,NBA
+1813,division_4,Sacramento Kings,1997,NBA
+1814,division_4,Golden State Warriors,1997,NBA
+1815,division_5,Atlantic Division,1997,NBA
+1816,division_5,Miami Heat,1997,NBA
+1817,division_5,New York Knicks,1997,NBA
+1818,division_5,Orlando Magic,1997,NBA
+1819,division_5,Washington Bullets,1997,NBA
+1820,division_5,New Jersey Nets,1997,NBA
+1821,division_5,Philadelphia 76ers,1997,NBA
+1822,division_5,Boston Celtics,1997,NBA
+1823,division_6,Central Division,1997,NBA
+1824,division_6,Chicago Bulls,1997,NBA
+1825,division_6,Atlanta Hawks,1997,NBA
+1826,division_6,Detroit Pistons,1997,NBA
+1827,division_6,Charlotte Hornets,1997,NBA
+1828,division_6,Cleveland Cavaliers,1997,NBA
+1829,division_6,Indiana Pacers,1997,NBA
+1830,division_6,Milwaukee Bucks,1997,NBA
+1831,division_6,Toronto Raptors,1997,NBA
+1832,division_7,Midwest Division,1997,NBA
+1833,division_7,Utah Jazz,1997,NBA
+1834,division_7,Houston Rockets,1997,NBA
+1835,division_7,Minnesota Timberwolves,1997,NBA
+1836,division_7,Dallas Mavericks,1997,NBA
+1837,division_7,Denver Nuggets,1997,NBA
+1838,division_7,San Antonio Spurs,1997,NBA
+1839,division_7,Vancouver Grizzlies,1997,NBA
+1840,division_8,Pacific Division,1997,NBA
+1841,division_8,Seattle SuperSonics,1997,NBA
+1842,division_8,Los Angeles Lakers,1997,NBA
+1843,division_8,Portland Trail Blazers,1997,NBA
+1844,division_8,Phoenix Suns,1997,NBA
+1845,division_8,Los Angeles Clippers,1997,NBA
+1846,division_8,Sacramento Kings,1997,NBA
+1847,division_8,Golden State Warriors,1997,NBA
+1848,division_1,Atlantic Division,1998,NBA
+1849,division_1,Miami Heat,1998,NBA
+1850,division_1,New York Knicks,1998,NBA
+1851,division_1,New Jersey Nets,1998,NBA
+1852,division_1,Washington Wizards,1998,NBA
+1853,division_1,Orlando Magic,1998,NBA
+1854,division_1,Boston Celtics,1998,NBA
+1855,division_1,Philadelphia 76ers,1998,NBA
+1856,division_2,Central Division,1998,NBA
+1857,division_2,Chicago Bulls,1998,NBA
+1858,division_2,Indiana Pacers,1998,NBA
+1859,division_2,Charlotte Hornets,1998,NBA
+1860,division_2,Atlanta Hawks,1998,NBA
+1861,division_2,Cleveland Cavaliers,1998,NBA
+1862,division_2,Detroit Pistons,1998,NBA
+1863,division_2,Milwaukee Bucks,1998,NBA
+1864,division_2,Toronto Raptors,1998,NBA
+1865,division_3,Midwest Division,1998,NBA
+1866,division_3,Utah Jazz,1998,NBA
+1867,division_3,San Antonio Spurs,1998,NBA
+1868,division_3,Minnesota Timberwolves,1998,NBA
+1869,division_3,Houston Rockets,1998,NBA
+1870,division_3,Dallas Mavericks,1998,NBA
+1871,division_3,Vancouver Grizzlies,1998,NBA
+1872,division_3,Denver Nuggets,1998,NBA
+1873,division_4,Pacific Division,1998,NBA
+1874,division_4,Seattle SuperSonics,1998,NBA
+1875,division_4,Los Angeles Lakers,1998,NBA
+1876,division_4,Phoenix Suns,1998,NBA
+1877,division_4,Portland Trail Blazers,1998,NBA
+1878,division_4,Sacramento Kings,1998,NBA
+1879,division_4,Golden State Warriors,1998,NBA
+1880,division_4,Los Angeles Clippers,1998,NBA
+1881,division_5,Atlantic Division,1998,NBA
+1882,division_5,Miami Heat,1998,NBA
+1883,division_5,New York Knicks,1998,NBA
+1884,division_5,New Jersey Nets,1998,NBA
+1885,division_5,Washington Wizards,1998,NBA
+1886,division_5,Orlando Magic,1998,NBA
+1887,division_5,Boston Celtics,1998,NBA
+1888,division_5,Philadelphia 76ers,1998,NBA
+1889,division_6,Central Division,1998,NBA
+1890,division_6,Chicago Bulls,1998,NBA
+1891,division_6,Indiana Pacers,1998,NBA
+1892,division_6,Charlotte Hornets,1998,NBA
+1893,division_6,Atlanta Hawks,1998,NBA
+1894,division_6,Cleveland Cavaliers,1998,NBA
+1895,division_6,Detroit Pistons,1998,NBA
+1896,division_6,Milwaukee Bucks,1998,NBA
+1897,division_6,Toronto Raptors,1998,NBA
+1898,division_7,Midwest Division,1998,NBA
+1899,division_7,Utah Jazz,1998,NBA
+1900,division_7,San Antonio Spurs,1998,NBA
+1901,division_7,Minnesota Timberwolves,1998,NBA
+1902,division_7,Houston Rockets,1998,NBA
+1903,division_7,Dallas Mavericks,1998,NBA
+1904,division_7,Vancouver Grizzlies,1998,NBA
+1905,division_7,Denver Nuggets,1998,NBA
+1906,division_8,Pacific Division,1998,NBA
+1907,division_8,Seattle SuperSonics,1998,NBA
+1908,division_8,Los Angeles Lakers,1998,NBA
+1909,division_8,Phoenix Suns,1998,NBA
+1910,division_8,Portland Trail Blazers,1998,NBA
+1911,division_8,Sacramento Kings,1998,NBA
+1912,division_8,Golden State Warriors,1998,NBA
+1913,division_8,Los Angeles Clippers,1998,NBA
+1914,division_1,Atlantic Division,1999,NBA
+1915,division_1,Miami Heat,1999,NBA
+1916,division_1,Orlando Magic,1999,NBA
+1917,division_1,Philadelphia 76ers,1999,NBA
+1918,division_1,New York Knicks,1999,NBA
+1919,division_1,Boston Celtics,1999,NBA
+1920,division_1,Washington Wizards,1999,NBA
+1921,division_1,New Jersey Nets,1999,NBA
+1922,division_2,Central Division,1999,NBA
+1923,division_2,Indiana Pacers,1999,NBA
+1924,division_2,Atlanta Hawks,1999,NBA
+1925,division_2,Detroit Pistons,1999,NBA
+1926,division_2,Milwaukee Bucks,1999,NBA
+1927,division_2,Charlotte Hornets,1999,NBA
+1928,division_2,Toronto Raptors,1999,NBA
+1929,division_2,Cleveland Cavaliers,1999,NBA
+1930,division_2,Chicago Bulls,1999,NBA
+1931,division_3,Midwest Division,1999,NBA
+1932,division_3,San Antonio Spurs,1999,NBA
+1933,division_3,Utah Jazz,1999,NBA
+1934,division_3,Houston Rockets,1999,NBA
+1935,division_3,Minnesota Timberwolves,1999,NBA
+1936,division_3,Dallas Mavericks,1999,NBA
+1937,division_3,Denver Nuggets,1999,NBA
+1938,division_3,Vancouver Grizzlies,1999,NBA
+1939,division_4,Pacific Division,1999,NBA
+1940,division_4,Portland Trail Blazers,1999,NBA
+1941,division_4,Los Angeles Lakers,1999,NBA
+1942,division_4,Phoenix Suns,1999,NBA
+1943,division_4,Sacramento Kings,1999,NBA
+1944,division_4,Seattle SuperSonics,1999,NBA
+1945,division_4,Golden State Warriors,1999,NBA
+1946,division_4,Los Angeles Clippers,1999,NBA
+1947,division_5,Atlantic Division,1999,NBA
+1948,division_5,Miami Heat,1999,NBA
+1949,division_5,Orlando Magic,1999,NBA
+1950,division_5,Philadelphia 76ers,1999,NBA
+1951,division_5,New York Knicks,1999,NBA
+1952,division_5,Boston Celtics,1999,NBA
+1953,division_5,Washington Wizards,1999,NBA
+1954,division_5,New Jersey Nets,1999,NBA
+1955,division_6,Central Division,1999,NBA
+1956,division_6,Indiana Pacers,1999,NBA
+1957,division_6,Atlanta Hawks,1999,NBA
+1958,division_6,Detroit Pistons,1999,NBA
+1959,division_6,Milwaukee Bucks,1999,NBA
+1960,division_6,Charlotte Hornets,1999,NBA
+1961,division_6,Toronto Raptors,1999,NBA
+1962,division_6,Cleveland Cavaliers,1999,NBA
+1963,division_6,Chicago Bulls,1999,NBA
+1964,division_7,Midwest Division,1999,NBA
+1965,division_7,San Antonio Spurs,1999,NBA
+1966,division_7,Utah Jazz,1999,NBA
+1967,division_7,Houston Rockets,1999,NBA
+1968,division_7,Minnesota Timberwolves,1999,NBA
+1969,division_7,Dallas Mavericks,1999,NBA
+1970,division_7,Denver Nuggets,1999,NBA
+1971,division_7,Vancouver Grizzlies,1999,NBA
+1972,division_8,Pacific Division,1999,NBA
+1973,division_8,Portland Trail Blazers,1999,NBA
+1974,division_8,Los Angeles Lakers,1999,NBA
+1975,division_8,Phoenix Suns,1999,NBA
+1976,division_8,Sacramento Kings,1999,NBA
+1977,division_8,Seattle SuperSonics,1999,NBA
+1978,division_8,Golden State Warriors,1999,NBA
+1979,division_8,Los Angeles Clippers,1999,NBA
+1980,division_1,Atlantic Division,2000,NBA
+1981,division_1,Miami Heat,2000,NBA
+1982,division_1,New York Knicks,2000,NBA
+1983,division_1,Philadelphia 76ers,2000,NBA
+1984,division_1,Orlando Magic,2000,NBA
+1985,division_1,Boston Celtics,2000,NBA
+1986,division_1,New Jersey Nets,2000,NBA
+1987,division_1,Washington Wizards,2000,NBA
+1988,division_2,Central Division,2000,NBA
+1989,division_2,Indiana Pacers,2000,NBA
+1990,division_2,Charlotte Hornets,2000,NBA
+1991,division_2,Toronto Raptors,2000,NBA
+1992,division_2,Detroit Pistons,2000,NBA
+1993,division_2,Milwaukee Bucks,2000,NBA
+1994,division_2,Cleveland Cavaliers,2000,NBA
+1995,division_2,Atlanta Hawks,2000,NBA
+1996,division_2,Chicago Bulls,2000,NBA
+1997,division_3,Midwest Division,2000,NBA
+1998,division_3,Utah Jazz,2000,NBA
+1999,division_3,San Antonio Spurs,2000,NBA
+2000,division_3,Minnesota Timberwolves,2000,NBA
+2001,division_3,Dallas Mavericks,2000,NBA
+2002,division_3,Denver Nuggets,2000,NBA
+2003,division_3,Houston Rockets,2000,NBA
+2004,division_3,Vancouver Grizzlies,2000,NBA
+2005,division_4,Pacific Division,2000,NBA
+2006,division_4,Los Angeles Lakers,2000,NBA
+2007,division_4,Portland Trail Blazers,2000,NBA
+2008,division_4,Phoenix Suns,2000,NBA
+2009,division_4,Seattle SuperSonics,2000,NBA
+2010,division_4,Sacramento Kings,2000,NBA
+2011,division_4,Golden State Warriors,2000,NBA
+2012,division_4,Los Angeles Clippers,2000,NBA
+2013,division_5,Atlantic Division,2000,NBA
+2014,division_5,Miami Heat,2000,NBA
+2015,division_5,New York Knicks,2000,NBA
+2016,division_5,Philadelphia 76ers,2000,NBA
+2017,division_5,Orlando Magic,2000,NBA
+2018,division_5,Boston Celtics,2000,NBA
+2019,division_5,New Jersey Nets,2000,NBA
+2020,division_5,Washington Wizards,2000,NBA
+2021,division_6,Central Division,2000,NBA
+2022,division_6,Indiana Pacers,2000,NBA
+2023,division_6,Charlotte Hornets,2000,NBA
+2024,division_6,Toronto Raptors,2000,NBA
+2025,division_6,Detroit Pistons,2000,NBA
+2026,division_6,Milwaukee Bucks,2000,NBA
+2027,division_6,Cleveland Cavaliers,2000,NBA
+2028,division_6,Atlanta Hawks,2000,NBA
+2029,division_6,Chicago Bulls,2000,NBA
+2030,division_7,Midwest Division,2000,NBA
+2031,division_7,Utah Jazz,2000,NBA
+2032,division_7,San Antonio Spurs,2000,NBA
+2033,division_7,Minnesota Timberwolves,2000,NBA
+2034,division_7,Dallas Mavericks,2000,NBA
+2035,division_7,Denver Nuggets,2000,NBA
+2036,division_7,Houston Rockets,2000,NBA
+2037,division_7,Vancouver Grizzlies,2000,NBA
+2038,division_8,Pacific Division,2000,NBA
+2039,division_8,Los Angeles Lakers,2000,NBA
+2040,division_8,Portland Trail Blazers,2000,NBA
+2041,division_8,Phoenix Suns,2000,NBA
+2042,division_8,Seattle SuperSonics,2000,NBA
+2043,division_8,Sacramento Kings,2000,NBA
+2044,division_8,Golden State Warriors,2000,NBA
+2045,division_8,Los Angeles Clippers,2000,NBA
+2046,division_1,Atlantic Division,2001,NBA
+2047,division_1,Philadelphia 76ers,2001,NBA
+2048,division_1,Miami Heat,2001,NBA
+2049,division_1,New York Knicks,2001,NBA
+2050,division_1,Orlando Magic,2001,NBA
+2051,division_1,Boston Celtics,2001,NBA
+2052,division_1,New Jersey Nets,2001,NBA
+2053,division_1,Washington Wizards,2001,NBA
+2054,division_2,Central Division,2001,NBA
+2055,division_2,Milwaukee Bucks,2001,NBA
+2056,division_2,Toronto Raptors,2001,NBA
+2057,division_2,Charlotte Hornets,2001,NBA
+2058,division_2,Indiana Pacers,2001,NBA
+2059,division_2,Detroit Pistons,2001,NBA
+2060,division_2,Cleveland Cavaliers,2001,NBA
+2061,division_2,Atlanta Hawks,2001,NBA
+2062,division_2,Chicago Bulls,2001,NBA
+2063,division_3,Midwest Division,2001,NBA
+2064,division_3,San Antonio Spurs,2001,NBA
+2065,division_3,Utah Jazz,2001,NBA
+2066,division_3,Dallas Mavericks,2001,NBA
+2067,division_3,Minnesota Timberwolves,2001,NBA
+2068,division_3,Houston Rockets,2001,NBA
+2069,division_3,Denver Nuggets,2001,NBA
+2070,division_3,Vancouver Grizzlies,2001,NBA
+2071,division_4,Pacific Division,2001,NBA
+2072,division_4,Los Angeles Lakers,2001,NBA
+2073,division_4,Sacramento Kings,2001,NBA
+2074,division_4,Phoenix Suns,2001,NBA
+2075,division_4,Portland Trail Blazers,2001,NBA
+2076,division_4,Seattle SuperSonics,2001,NBA
+2077,division_4,Los Angeles Clippers,2001,NBA
+2078,division_4,Golden State Warriors,2001,NBA
+2079,division_5,Atlantic Division,2001,NBA
+2080,division_5,Philadelphia 76ers,2001,NBA
+2081,division_5,Miami Heat,2001,NBA
+2082,division_5,New York Knicks,2001,NBA
+2083,division_5,Orlando Magic,2001,NBA
+2084,division_5,Boston Celtics,2001,NBA
+2085,division_5,New Jersey Nets,2001,NBA
+2086,division_5,Washington Wizards,2001,NBA
+2087,division_6,Central Division,2001,NBA
+2088,division_6,Milwaukee Bucks,2001,NBA
+2089,division_6,Toronto Raptors,2001,NBA
+2090,division_6,Charlotte Hornets,2001,NBA
+2091,division_6,Indiana Pacers,2001,NBA
+2092,division_6,Detroit Pistons,2001,NBA
+2093,division_6,Cleveland Cavaliers,2001,NBA
+2094,division_6,Atlanta Hawks,2001,NBA
+2095,division_6,Chicago Bulls,2001,NBA
+2096,division_7,Midwest Division,2001,NBA
+2097,division_7,San Antonio Spurs,2001,NBA
+2098,division_7,Utah Jazz,2001,NBA
+2099,division_7,Dallas Mavericks,2001,NBA
+2100,division_7,Minnesota Timberwolves,2001,NBA
+2101,division_7,Houston Rockets,2001,NBA
+2102,division_7,Denver Nuggets,2001,NBA
+2103,division_7,Vancouver Grizzlies,2001,NBA
+2104,division_8,Pacific Division,2001,NBA
+2105,division_8,Los Angeles Lakers,2001,NBA
+2106,division_8,Sacramento Kings,2001,NBA
+2107,division_8,Phoenix Suns,2001,NBA
+2108,division_8,Portland Trail Blazers,2001,NBA
+2109,division_8,Seattle SuperSonics,2001,NBA
+2110,division_8,Los Angeles Clippers,2001,NBA
+2111,division_8,Golden State Warriors,2001,NBA
+2112,division_1,Atlantic Division,2002,NBA
+2113,division_1,New Jersey Nets,2002,NBA
+2114,division_1,Boston Celtics,2002,NBA
+2115,division_1,Orlando Magic,2002,NBA
+2116,division_1,Philadelphia 76ers,2002,NBA
+2117,division_1,Washington Wizards,2002,NBA
+2118,division_1,Miami Heat,2002,NBA
+2119,division_1,New York Knicks,2002,NBA
+2120,division_2,Central Division,2002,NBA
+2121,division_2,Detroit Pistons,2002,NBA
+2122,division_2,Charlotte Hornets,2002,NBA
+2123,division_2,Toronto Raptors,2002,NBA
+2124,division_2,Indiana Pacers,2002,NBA
+2125,division_2,Milwaukee Bucks,2002,NBA
+2126,division_2,Atlanta Hawks,2002,NBA
+2127,division_2,Cleveland Cavaliers,2002,NBA
+2128,division_2,Chicago Bulls,2002,NBA
+2129,division_3,Midwest Division,2002,NBA
+2130,division_3,San Antonio Spurs,2002,NBA
+2131,division_3,Dallas Mavericks,2002,NBA
+2132,division_3,Minnesota Timberwolves,2002,NBA
+2133,division_3,Utah Jazz,2002,NBA
+2134,division_3,Houston Rockets,2002,NBA
+2135,division_3,Denver Nuggets,2002,NBA
+2136,division_3,Memphis Grizzlies,2002,NBA
+2137,division_4,Pacific Division,2002,NBA
+2138,division_4,Sacramento Kings,2002,NBA
+2139,division_4,Los Angeles Lakers,2002,NBA
+2140,division_4,Portland Trail Blazers,2002,NBA
+2141,division_4,Seattle SuperSonics,2002,NBA
+2142,division_4,Los Angeles Clippers,2002,NBA
+2143,division_4,Phoenix Suns,2002,NBA
+2144,division_4,Golden State Warriors,2002,NBA
+2145,division_5,Atlantic Division,2002,NBA
+2146,division_5,New Jersey Nets,2002,NBA
+2147,division_5,Boston Celtics,2002,NBA
+2148,division_5,Orlando Magic,2002,NBA
+2149,division_5,Philadelphia 76ers,2002,NBA
+2150,division_5,Washington Wizards,2002,NBA
+2151,division_5,Miami Heat,2002,NBA
+2152,division_5,New York Knicks,2002,NBA
+2153,division_6,Central Division,2002,NBA
+2154,division_6,Detroit Pistons,2002,NBA
+2155,division_6,Charlotte Hornets,2002,NBA
+2156,division_6,Toronto Raptors,2002,NBA
+2157,division_6,Indiana Pacers,2002,NBA
+2158,division_6,Milwaukee Bucks,2002,NBA
+2159,division_6,Atlanta Hawks,2002,NBA
+2160,division_6,Cleveland Cavaliers,2002,NBA
+2161,division_6,Chicago Bulls,2002,NBA
+2162,division_7,Midwest Division,2002,NBA
+2163,division_7,San Antonio Spurs,2002,NBA
+2164,division_7,Dallas Mavericks,2002,NBA
+2165,division_7,Minnesota Timberwolves,2002,NBA
+2166,division_7,Utah Jazz,2002,NBA
+2167,division_7,Houston Rockets,2002,NBA
+2168,division_7,Denver Nuggets,2002,NBA
+2169,division_7,Memphis Grizzlies,2002,NBA
+2170,division_8,Pacific Division,2002,NBA
+2171,division_8,Sacramento Kings,2002,NBA
+2172,division_8,Los Angeles Lakers,2002,NBA
+2173,division_8,Portland Trail Blazers,2002,NBA
+2174,division_8,Seattle SuperSonics,2002,NBA
+2175,division_8,Los Angeles Clippers,2002,NBA
+2176,division_8,Phoenix Suns,2002,NBA
+2177,division_8,Golden State Warriors,2002,NBA
+2178,division_1,Atlantic Division,2003,NBA
+2179,division_1,New Jersey Nets,2003,NBA
+2180,division_1,Philadelphia 76ers,2003,NBA
+2181,division_1,Boston Celtics,2003,NBA
+2182,division_1,Orlando Magic,2003,NBA
+2183,division_1,Washington Wizards,2003,NBA
+2184,division_1,New York Knicks,2003,NBA
+2185,division_1,Miami Heat,2003,NBA
+2186,division_2,Central Division,2003,NBA
+2187,division_2,Detroit Pistons,2003,NBA
+2188,division_2,Indiana Pacers,2003,NBA
+2189,division_2,New Orleans Hornets,2003,NBA
+2190,division_2,Milwaukee Bucks,2003,NBA
+2191,division_2,Atlanta Hawks,2003,NBA
+2192,division_2,Chicago Bulls,2003,NBA
+2193,division_2,Toronto Raptors,2003,NBA
+2194,division_2,Cleveland Cavaliers,2003,NBA
+2195,division_3,Midwest Division,2003,NBA
+2196,division_3,San Antonio Spurs,2003,NBA
+2197,division_3,Dallas Mavericks,2003,NBA
+2198,division_3,Minnesota Timberwolves,2003,NBA
+2199,division_3,Utah Jazz,2003,NBA
+2200,division_3,Houston Rockets,2003,NBA
+2201,division_3,Memphis Grizzlies,2003,NBA
+2202,division_3,Denver Nuggets,2003,NBA
+2203,division_4,Pacific Division,2003,NBA
+2204,division_4,Sacramento Kings,2003,NBA
+2205,division_4,Los Angeles Lakers,2003,NBA
+2206,division_4,Portland Trail Blazers,2003,NBA
+2207,division_4,Phoenix Suns,2003,NBA
+2208,division_4,Seattle SuperSonics,2003,NBA
+2209,division_4,Golden State Warriors,2003,NBA
+2210,division_4,Los Angeles Clippers,2003,NBA
+2211,division_5,Atlantic Division,2003,NBA
+2212,division_5,New Jersey Nets,2003,NBA
+2213,division_5,Philadelphia 76ers,2003,NBA
+2214,division_5,Boston Celtics,2003,NBA
+2215,division_5,Orlando Magic,2003,NBA
+2216,division_5,Washington Wizards,2003,NBA
+2217,division_5,New York Knicks,2003,NBA
+2218,division_5,Miami Heat,2003,NBA
+2219,division_6,Central Division,2003,NBA
+2220,division_6,Detroit Pistons,2003,NBA
+2221,division_6,Indiana Pacers,2003,NBA
+2222,division_6,New Orleans Hornets,2003,NBA
+2223,division_6,Milwaukee Bucks,2003,NBA
+2224,division_6,Atlanta Hawks,2003,NBA
+2225,division_6,Chicago Bulls,2003,NBA
+2226,division_6,Toronto Raptors,2003,NBA
+2227,division_6,Cleveland Cavaliers,2003,NBA
+2228,division_7,Midwest Division,2003,NBA
+2229,division_7,San Antonio Spurs,2003,NBA
+2230,division_7,Dallas Mavericks,2003,NBA
+2231,division_7,Minnesota Timberwolves,2003,NBA
+2232,division_7,Utah Jazz,2003,NBA
+2233,division_7,Houston Rockets,2003,NBA
+2234,division_7,Memphis Grizzlies,2003,NBA
+2235,division_7,Denver Nuggets,2003,NBA
+2236,division_8,Pacific Division,2003,NBA
+2237,division_8,Sacramento Kings,2003,NBA
+2238,division_8,Los Angeles Lakers,2003,NBA
+2239,division_8,Portland Trail Blazers,2003,NBA
+2240,division_8,Phoenix Suns,2003,NBA
+2241,division_8,Seattle SuperSonics,2003,NBA
+2242,division_8,Golden State Warriors,2003,NBA
+2243,division_8,Los Angeles Clippers,2003,NBA
+2244,division_1,Atlantic Division,2004,NBA
+2245,division_1,New Jersey Nets,2004,NBA
+2246,division_1,Miami Heat,2004,NBA
+2247,division_1,New York Knicks,2004,NBA
+2248,division_1,Boston Celtics,2004,NBA
+2249,division_1,Philadelphia 76ers,2004,NBA
+2250,division_1,Washington Wizards,2004,NBA
+2251,division_1,Orlando Magic,2004,NBA
+2252,division_2,Central Division,2004,NBA
+2253,division_2,Indiana Pacers,2004,NBA
+2254,division_2,Detroit Pistons,2004,NBA
+2255,division_2,New Orleans Hornets,2004,NBA
+2256,division_2,Milwaukee Bucks,2004,NBA
+2257,division_2,Cleveland Cavaliers,2004,NBA
+2258,division_2,Toronto Raptors,2004,NBA
+2259,division_2,Atlanta Hawks,2004,NBA
+2260,division_2,Chicago Bulls,2004,NBA
+2261,division_3,Midwest Division,2004,NBA
+2262,division_3,Minnesota Timberwolves,2004,NBA
+2263,division_3,San Antonio Spurs,2004,NBA
+2264,division_3,Dallas Mavericks,2004,NBA
+2265,division_3,Memphis Grizzlies,2004,NBA
+2266,division_3,Houston Rockets,2004,NBA
+2267,division_3,Denver Nuggets,2004,NBA
+2268,division_3,Utah Jazz,2004,NBA
+2269,division_4,Pacific Division,2004,NBA
+2270,division_4,Los Angeles Lakers,2004,NBA
+2271,division_4,Sacramento Kings,2004,NBA
+2272,division_4,Portland Trail Blazers,2004,NBA
+2273,division_4,Golden State Warriors,2004,NBA
+2274,division_4,Seattle SuperSonics,2004,NBA
+2275,division_4,Phoenix Suns,2004,NBA
+2276,division_4,Los Angeles Clippers,2004,NBA
+2277,division_5,Atlantic Division,2004,NBA
+2278,division_5,New Jersey Nets,2004,NBA
+2279,division_5,Miami Heat,2004,NBA
+2280,division_5,New York Knicks,2004,NBA
+2281,division_5,Boston Celtics,2004,NBA
+2282,division_5,Philadelphia 76ers,2004,NBA
+2283,division_5,Washington Wizards,2004,NBA
+2284,division_5,Orlando Magic,2004,NBA
+2285,division_6,Central Division,2004,NBA
+2286,division_6,Indiana Pacers,2004,NBA
+2287,division_6,Detroit Pistons,2004,NBA
+2288,division_6,New Orleans Hornets,2004,NBA
+2289,division_6,Milwaukee Bucks,2004,NBA
+2290,division_6,Cleveland Cavaliers,2004,NBA
+2291,division_6,Toronto Raptors,2004,NBA
+2292,division_6,Atlanta Hawks,2004,NBA
+2293,division_6,Chicago Bulls,2004,NBA
+2294,division_7,Midwest Division,2004,NBA
+2295,division_7,Minnesota Timberwolves,2004,NBA
+2296,division_7,San Antonio Spurs,2004,NBA
+2297,division_7,Dallas Mavericks,2004,NBA
+2298,division_7,Memphis Grizzlies,2004,NBA
+2299,division_7,Houston Rockets,2004,NBA
+2300,division_7,Denver Nuggets,2004,NBA
+2301,division_7,Utah Jazz,2004,NBA
+2302,division_8,Pacific Division,2004,NBA
+2303,division_8,Los Angeles Lakers,2004,NBA
+2304,division_8,Sacramento Kings,2004,NBA
+2305,division_8,Portland Trail Blazers,2004,NBA
+2306,division_8,Golden State Warriors,2004,NBA
+2307,division_8,Seattle SuperSonics,2004,NBA
+2308,division_8,Phoenix Suns,2004,NBA
+2309,division_8,Los Angeles Clippers,2004,NBA
+2310,division_1,Atlantic Division,2005,NBA
+2311,division_1,Boston Celtics,2005,NBA
+2312,division_1,Philadelphia 76ers,2005,NBA
+2313,division_1,New Jersey Nets,2005,NBA
+2314,division_1,Toronto Raptors,2005,NBA
+2315,division_1,New York Knicks,2005,NBA
+2316,division_10,Northwest Division,2005,NBA
+2317,division_10,Seattle SuperSonics,2005,NBA
+2318,division_10,Denver Nuggets,2005,NBA
+2319,division_10,Minnesota Timberwolves,2005,NBA
+2320,division_10,Portland Trail Blazers,2005,NBA
+2321,division_10,Utah Jazz,2005,NBA
+2322,division_11,Pacific Division,2005,NBA
+2323,division_11,Phoenix Suns,2005,NBA
+2324,division_11,Sacramento Kings,2005,NBA
+2325,division_11,Los Angeles Clippers,2005,NBA
+2326,division_11,Los Angeles Lakers,2005,NBA
+2327,division_11,Golden State Warriors,2005,NBA
+2328,division_12,Southwest Division,2005,NBA
+2329,division_12,San Antonio Spurs,2005,NBA
+2330,division_12,Dallas Mavericks,2005,NBA
+2331,division_12,Houston Rockets,2005,NBA
+2332,division_12,Memphis Grizzlies,2005,NBA
+2333,division_12,New Orleans Hornets,2005,NBA
+2334,division_2,Central Division,2005,NBA
+2335,division_2,Detroit Pistons,2005,NBA
+2336,division_2,Chicago Bulls,2005,NBA
+2337,division_2,Indiana Pacers,2005,NBA
+2338,division_2,Cleveland Cavaliers,2005,NBA
+2339,division_2,Milwaukee Bucks,2005,NBA
+2340,division_3,Southeast Division,2005,NBA
+2341,division_3,Miami Heat,2005,NBA
+2342,division_3,Washington Wizards,2005,NBA
+2343,division_3,Orlando Magic,2005,NBA
+2344,division_3,Charlotte Bobcats,2005,NBA
+2345,division_3,Atlanta Hawks,2005,NBA
+2346,division_4,Northwest Division,2005,NBA
+2347,division_4,Seattle SuperSonics,2005,NBA
+2348,division_4,Denver Nuggets,2005,NBA
+2349,division_4,Minnesota Timberwolves,2005,NBA
+2350,division_4,Portland Trail Blazers,2005,NBA
+2351,division_4,Utah Jazz,2005,NBA
+2352,division_5,Pacific Division,2005,NBA
+2353,division_5,Phoenix Suns,2005,NBA
+2354,division_5,Sacramento Kings,2005,NBA
+2355,division_5,Los Angeles Clippers,2005,NBA
+2356,division_5,Los Angeles Lakers,2005,NBA
+2357,division_5,Golden State Warriors,2005,NBA
+2358,division_6,Southwest Division,2005,NBA
+2359,division_6,San Antonio Spurs,2005,NBA
+2360,division_6,Dallas Mavericks,2005,NBA
+2361,division_6,Houston Rockets,2005,NBA
+2362,division_6,Memphis Grizzlies,2005,NBA
+2363,division_6,New Orleans Hornets,2005,NBA
+2364,division_7,Atlantic Division,2005,NBA
+2365,division_7,Boston Celtics,2005,NBA
+2366,division_7,Philadelphia 76ers,2005,NBA
+2367,division_7,New Jersey Nets,2005,NBA
+2368,division_7,Toronto Raptors,2005,NBA
+2369,division_7,New York Knicks,2005,NBA
+2370,division_8,Central Division,2005,NBA
+2371,division_8,Detroit Pistons,2005,NBA
+2372,division_8,Chicago Bulls,2005,NBA
+2373,division_8,Indiana Pacers,2005,NBA
+2374,division_8,Cleveland Cavaliers,2005,NBA
+2375,division_8,Milwaukee Bucks,2005,NBA
+2376,division_9,Southeast Division,2005,NBA
+2377,division_9,Miami Heat,2005,NBA
+2378,division_9,Washington Wizards,2005,NBA
+2379,division_9,Orlando Magic,2005,NBA
+2380,division_9,Charlotte Bobcats,2005,NBA
+2381,division_9,Atlanta Hawks,2005,NBA
+2382,division_1,Atlantic Division,2006,NBA
+2383,division_1,New Jersey Nets,2006,NBA
+2384,division_1,Philadelphia 76ers,2006,NBA
+2385,division_1,Boston Celtics,2006,NBA
+2386,division_1,Toronto Raptors,2006,NBA
+2387,division_1,New York Knicks,2006,NBA
+2388,division_10,Northwest Division,2006,NBA
+2389,division_10,Denver Nuggets,2006,NBA
+2390,division_10,Utah Jazz,2006,NBA
+2391,division_10,Seattle SuperSonics,2006,NBA
+2392,division_10,Minnesota Timberwolves,2006,NBA
+2393,division_10,Portland Trail Blazers,2006,NBA
+2394,division_11,Pacific Division,2006,NBA
+2395,division_11,Phoenix Suns,2006,NBA
+2396,division_11,Los Angeles Clippers,2006,NBA
+2397,division_11,Los Angeles Lakers,2006,NBA
+2398,division_11,Sacramento Kings,2006,NBA
+2399,division_11,Golden State Warriors,2006,NBA
+2400,division_12,Southwest Division,2006,NBA
+2401,division_12,San Antonio Spurs,2006,NBA
+2402,division_12,Dallas Mavericks,2006,NBA
+2403,division_12,Memphis Grizzlies,2006,NBA
+2404,division_12,New Orleans/Oklahoma City Hornets,2006,NBA
+2405,division_12,Houston Rockets,2006,NBA
+2406,division_2,Central Division,2006,NBA
+2407,division_2,Detroit Pistons,2006,NBA
+2408,division_2,Cleveland Cavaliers,2006,NBA
+2409,division_2,Indiana Pacers,2006,NBA
+2410,division_2,Chicago Bulls,2006,NBA
+2411,division_2,Milwaukee Bucks,2006,NBA
+2412,division_3,Southeast Division,2006,NBA
+2413,division_3,Miami Heat,2006,NBA
+2414,division_3,Washington Wizards,2006,NBA
+2415,division_3,Orlando Magic,2006,NBA
+2416,division_3,Charlotte Bobcats,2006,NBA
+2417,division_3,Atlanta Hawks,2006,NBA
+2418,division_4,Northwest Division,2006,NBA
+2419,division_4,Denver Nuggets,2006,NBA
+2420,division_4,Utah Jazz,2006,NBA
+2421,division_4,Seattle SuperSonics,2006,NBA
+2422,division_4,Minnesota Timberwolves,2006,NBA
+2423,division_4,Portland Trail Blazers,2006,NBA
+2424,division_5,Pacific Division,2006,NBA
+2425,division_5,Phoenix Suns,2006,NBA
+2426,division_5,Los Angeles Clippers,2006,NBA
+2427,division_5,Los Angeles Lakers,2006,NBA
+2428,division_5,Sacramento Kings,2006,NBA
+2429,division_5,Golden State Warriors,2006,NBA
+2430,division_6,Southwest Division,2006,NBA
+2431,division_6,San Antonio Spurs,2006,NBA
+2432,division_6,Dallas Mavericks,2006,NBA
+2433,division_6,Memphis Grizzlies,2006,NBA
+2434,division_6,New Orleans/Oklahoma City Hornets,2006,NBA
+2435,division_6,Houston Rockets,2006,NBA
+2436,division_7,Atlantic Division,2006,NBA
+2437,division_7,New Jersey Nets,2006,NBA
+2438,division_7,Philadelphia 76ers,2006,NBA
+2439,division_7,Boston Celtics,2006,NBA
+2440,division_7,Toronto Raptors,2006,NBA
+2441,division_7,New York Knicks,2006,NBA
+2442,division_8,Central Division,2006,NBA
+2443,division_8,Detroit Pistons,2006,NBA
+2444,division_8,Cleveland Cavaliers,2006,NBA
+2445,division_8,Indiana Pacers,2006,NBA
+2446,division_8,Chicago Bulls,2006,NBA
+2447,division_8,Milwaukee Bucks,2006,NBA
+2448,division_9,Southeast Division,2006,NBA
+2449,division_9,Miami Heat,2006,NBA
+2450,division_9,Washington Wizards,2006,NBA
+2451,division_9,Orlando Magic,2006,NBA
+2452,division_9,Charlotte Bobcats,2006,NBA
+2453,division_9,Atlanta Hawks,2006,NBA
+2454,division_1,Atlantic Division,2007,NBA
+2455,division_1,Toronto Raptors,2007,NBA
+2456,division_1,New Jersey Nets,2007,NBA
+2457,division_1,Philadelphia 76ers,2007,NBA
+2458,division_1,New York Knicks,2007,NBA
+2459,division_1,Boston Celtics,2007,NBA
+2460,division_10,Northwest Division,2007,NBA
+2461,division_10,Utah Jazz,2007,NBA
+2462,division_10,Denver Nuggets,2007,NBA
+2463,division_10,Portland Trail Blazers,2007,NBA
+2464,division_10,Minnesota Timberwolves,2007,NBA
+2465,division_10,Seattle SuperSonics,2007,NBA
+2466,division_11,Pacific Division,2007,NBA
+2467,division_11,Phoenix Suns,2007,NBA
+2468,division_11,Los Angeles Lakers,2007,NBA
+2469,division_11,Golden State Warriors,2007,NBA
+2470,division_11,Los Angeles Clippers,2007,NBA
+2471,division_11,Sacramento Kings,2007,NBA
+2472,division_12,Southwest Division,2007,NBA
+2473,division_12,Dallas Mavericks,2007,NBA
+2474,division_12,San Antonio Spurs,2007,NBA
+2475,division_12,Houston Rockets,2007,NBA
+2476,division_12,New Orleans/Oklahoma City Hornets,2007,NBA
+2477,division_12,Memphis Grizzlies,2007,NBA
+2478,division_2,Central Division,2007,NBA
+2479,division_2,Detroit Pistons,2007,NBA
+2480,division_2,Cleveland Cavaliers,2007,NBA
+2481,division_2,Chicago Bulls,2007,NBA
+2482,division_2,Indiana Pacers,2007,NBA
+2483,division_2,Milwaukee Bucks,2007,NBA
+2484,division_3,Southeast Division,2007,NBA
+2485,division_3,Miami Heat,2007,NBA
+2486,division_3,Washington Wizards,2007,NBA
+2487,division_3,Orlando Magic,2007,NBA
+2488,division_3,Charlotte Bobcats,2007,NBA
+2489,division_3,Atlanta Hawks,2007,NBA
+2490,division_4,Northwest Division,2007,NBA
+2491,division_4,Utah Jazz,2007,NBA
+2492,division_4,Denver Nuggets,2007,NBA
+2493,division_4,Portland Trail Blazers,2007,NBA
+2494,division_4,Minnesota Timberwolves,2007,NBA
+2495,division_4,Seattle SuperSonics,2007,NBA
+2496,division_5,Pacific Division,2007,NBA
+2497,division_5,Phoenix Suns,2007,NBA
+2498,division_5,Los Angeles Lakers,2007,NBA
+2499,division_5,Golden State Warriors,2007,NBA
+2500,division_5,Los Angeles Clippers,2007,NBA
+2501,division_5,Sacramento Kings,2007,NBA
+2502,division_6,Southwest Division,2007,NBA
+2503,division_6,Dallas Mavericks,2007,NBA
+2504,division_6,San Antonio Spurs,2007,NBA
+2505,division_6,Houston Rockets,2007,NBA
+2506,division_6,New Orleans/Oklahoma City Hornets,2007,NBA
+2507,division_6,Memphis Grizzlies,2007,NBA
+2508,division_7,Atlantic Division,2007,NBA
+2509,division_7,Toronto Raptors,2007,NBA
+2510,division_7,New Jersey Nets,2007,NBA
+2511,division_7,Philadelphia 76ers,2007,NBA
+2512,division_7,New York Knicks,2007,NBA
+2513,division_7,Boston Celtics,2007,NBA
+2514,division_8,Central Division,2007,NBA
+2515,division_8,Detroit Pistons,2007,NBA
+2516,division_8,Cleveland Cavaliers,2007,NBA
+2517,division_8,Chicago Bulls,2007,NBA
+2518,division_8,Indiana Pacers,2007,NBA
+2519,division_8,Milwaukee Bucks,2007,NBA
+2520,division_9,Southeast Division,2007,NBA
+2521,division_9,Miami Heat,2007,NBA
+2522,division_9,Washington Wizards,2007,NBA
+2523,division_9,Orlando Magic,2007,NBA
+2524,division_9,Charlotte Bobcats,2007,NBA
+2525,division_9,Atlanta Hawks,2007,NBA
+2526,division_1,Atlantic Division,2008,NBA
+2527,division_1,Boston Celtics,2008,NBA
+2528,division_1,Toronto Raptors,2008,NBA
+2529,division_1,Philadelphia 76ers,2008,NBA
+2530,division_1,New Jersey Nets,2008,NBA
+2531,division_1,New York Knicks,2008,NBA
+2532,division_10,Northwest Division,2008,NBA
+2533,division_10,Utah Jazz,2008,NBA
+2534,division_10,Denver Nuggets,2008,NBA
+2535,division_10,Portland Trail Blazers,2008,NBA
+2536,division_10,Minnesota Timberwolves,2008,NBA
+2537,division_10,Seattle SuperSonics,2008,NBA
+2538,division_11,Pacific Division,2008,NBA
+2539,division_11,Los Angeles Lakers,2008,NBA
+2540,division_11,Phoenix Suns,2008,NBA
+2541,division_11,Golden State Warriors,2008,NBA
+2542,division_11,Sacramento Kings,2008,NBA
+2543,division_11,Los Angeles Clippers,2008,NBA
+2544,division_12,Southwest Division,2008,NBA
+2545,division_12,New Orleans Hornets,2008,NBA
+2546,division_12,San Antonio Spurs,2008,NBA
+2547,division_12,Houston Rockets,2008,NBA
+2548,division_12,Dallas Mavericks,2008,NBA
+2549,division_12,Memphis Grizzlies,2008,NBA
+2550,division_2,Central Division,2008,NBA
+2551,division_2,Detroit Pistons,2008,NBA
+2552,division_2,Cleveland Cavaliers,2008,NBA
+2553,division_2,Indiana Pacers,2008,NBA
+2554,division_2,Chicago Bulls,2008,NBA
+2555,division_2,Milwaukee Bucks,2008,NBA
+2556,division_3,Southeast Division,2008,NBA
+2557,division_3,Orlando Magic,2008,NBA
+2558,division_3,Washington Wizards,2008,NBA
+2559,division_3,Atlanta Hawks,2008,NBA
+2560,division_3,Charlotte Bobcats,2008,NBA
+2561,division_3,Miami Heat,2008,NBA
+2562,division_4,Northwest Division,2008,NBA
+2563,division_4,Utah Jazz,2008,NBA
+2564,division_4,Denver Nuggets,2008,NBA
+2565,division_4,Portland Trail Blazers,2008,NBA
+2566,division_4,Minnesota Timberwolves,2008,NBA
+2567,division_4,Seattle SuperSonics,2008,NBA
+2568,division_5,Pacific Division,2008,NBA
+2569,division_5,Los Angeles Lakers,2008,NBA
+2570,division_5,Phoenix Suns,2008,NBA
+2571,division_5,Golden State Warriors,2008,NBA
+2572,division_5,Sacramento Kings,2008,NBA
+2573,division_5,Los Angeles Clippers,2008,NBA
+2574,division_6,Southwest Division,2008,NBA
+2575,division_6,New Orleans Hornets,2008,NBA
+2576,division_6,San Antonio Spurs,2008,NBA
+2577,division_6,Houston Rockets,2008,NBA
+2578,division_6,Dallas Mavericks,2008,NBA
+2579,division_6,Memphis Grizzlies,2008,NBA
+2580,division_7,Atlantic Division,2008,NBA
+2581,division_7,Boston Celtics,2008,NBA
+2582,division_7,Toronto Raptors,2008,NBA
+2583,division_7,Philadelphia 76ers,2008,NBA
+2584,division_7,New Jersey Nets,2008,NBA
+2585,division_7,New York Knicks,2008,NBA
+2586,division_8,Central Division,2008,NBA
+2587,division_8,Detroit Pistons,2008,NBA
+2588,division_8,Cleveland Cavaliers,2008,NBA
+2589,division_8,Indiana Pacers,2008,NBA
+2590,division_8,Chicago Bulls,2008,NBA
+2591,division_8,Milwaukee Bucks,2008,NBA
+2592,division_9,Southeast Division,2008,NBA
+2593,division_9,Orlando Magic,2008,NBA
+2594,division_9,Washington Wizards,2008,NBA
+2595,division_9,Atlanta Hawks,2008,NBA
+2596,division_9,Charlotte Bobcats,2008,NBA
+2597,division_9,Miami Heat,2008,NBA
+2598,division_1,Atlantic Division,2009,NBA
+2599,division_1,Boston Celtics,2009,NBA
+2600,division_1,Philadelphia 76ers,2009,NBA
+2601,division_1,New Jersey Nets,2009,NBA
+2602,division_1,Toronto Raptors,2009,NBA
+2603,division_1,New York Knicks,2009,NBA
+2604,division_10,Northwest Division,2009,NBA
+2605,division_10,Denver Nuggets,2009,NBA
+2606,division_10,Portland Trail Blazers,2009,NBA
+2607,division_10,Utah Jazz,2009,NBA
+2608,division_10,Minnesota Timberwolves,2009,NBA
+2609,division_10,Oklahoma City Thunder,2009,NBA
+2610,division_11,Pacific Division,2009,NBA
+2611,division_11,Los Angeles Lakers,2009,NBA
+2612,division_11,Phoenix Suns,2009,NBA
+2613,division_11,Golden State Warriors,2009,NBA
+2614,division_11,Los Angeles Clippers,2009,NBA
+2615,division_11,Sacramento Kings,2009,NBA
+2616,division_12,Southwest Division,2009,NBA
+2617,division_12,San Antonio Spurs,2009,NBA
+2618,division_12,Houston Rockets,2009,NBA
+2619,division_12,Dallas Mavericks,2009,NBA
+2620,division_12,New Orleans Hornets,2009,NBA
+2621,division_12,Memphis Grizzlies,2009,NBA
+2622,division_2,Central Division,2009,NBA
+2623,division_2,Cleveland Cavaliers,2009,NBA
+2624,division_2,Chicago Bulls,2009,NBA
+2625,division_2,Detroit Pistons,2009,NBA
+2626,division_2,Indiana Pacers,2009,NBA
+2627,division_2,Milwaukee Bucks,2009,NBA
+2628,division_3,Southeast Division,2009,NBA
+2629,division_3,Orlando Magic,2009,NBA
+2630,division_3,Atlanta Hawks,2009,NBA
+2631,division_3,Miami Heat,2009,NBA
+2632,division_3,Charlotte Bobcats,2009,NBA
+2633,division_3,Washington Wizards,2009,NBA
+2634,division_4,Northwest Division,2009,NBA
+2635,division_4,Denver Nuggets,2009,NBA
+2636,division_4,Portland Trail Blazers,2009,NBA
+2637,division_4,Utah Jazz,2009,NBA
+2638,division_4,Minnesota Timberwolves,2009,NBA
+2639,division_4,Oklahoma City Thunder,2009,NBA
+2640,division_5,Pacific Division,2009,NBA
+2641,division_5,Los Angeles Lakers,2009,NBA
+2642,division_5,Phoenix Suns,2009,NBA
+2643,division_5,Golden State Warriors,2009,NBA
+2644,division_5,Los Angeles Clippers,2009,NBA
+2645,division_5,Sacramento Kings,2009,NBA
+2646,division_6,Southwest Division,2009,NBA
+2647,division_6,San Antonio Spurs,2009,NBA
+2648,division_6,Houston Rockets,2009,NBA
+2649,division_6,Dallas Mavericks,2009,NBA
+2650,division_6,New Orleans Hornets,2009,NBA
+2651,division_6,Memphis Grizzlies,2009,NBA
+2652,division_7,Atlantic Division,2009,NBA
+2653,division_7,Boston Celtics,2009,NBA
+2654,division_7,Philadelphia 76ers,2009,NBA
+2655,division_7,New Jersey Nets,2009,NBA
+2656,division_7,Toronto Raptors,2009,NBA
+2657,division_7,New York Knicks,2009,NBA
+2658,division_8,Central Division,2009,NBA
+2659,division_8,Cleveland Cavaliers,2009,NBA
+2660,division_8,Chicago Bulls,2009,NBA
+2661,division_8,Detroit Pistons,2009,NBA
+2662,division_8,Indiana Pacers,2009,NBA
+2663,division_8,Milwaukee Bucks,2009,NBA
+2664,division_9,Southeast Division,2009,NBA
+2665,division_9,Orlando Magic,2009,NBA
+2666,division_9,Atlanta Hawks,2009,NBA
+2667,division_9,Miami Heat,2009,NBA
+2668,division_9,Charlotte Bobcats,2009,NBA
+2669,division_9,Washington Wizards,2009,NBA
+2670,division_1,Atlantic Division,2010,NBA
+2671,division_1,Boston Celtics,2010,NBA
+2672,division_1,Toronto Raptors,2010,NBA
+2673,division_1,New York Knicks,2010,NBA
+2674,division_1,Philadelphia 76ers,2010,NBA
+2675,division_1,New Jersey Nets,2010,NBA
+2676,division_10,Northwest Division,2010,NBA
+2677,division_10,Denver Nuggets,2010,NBA
+2678,division_10,Utah Jazz,2010,NBA
+2679,division_10,Portland Trail Blazers,2010,NBA
+2680,division_10,Oklahoma City Thunder,2010,NBA
+2681,division_10,Minnesota Timberwolves,2010,NBA
+2682,division_11,Pacific Division,2010,NBA
+2683,division_11,Los Angeles Lakers,2010,NBA
+2684,division_11,Phoenix Suns,2010,NBA
+2685,division_11,Los Angeles Clippers,2010,NBA
+2686,division_11,Golden State Warriors,2010,NBA
+2687,division_11,Sacramento Kings,2010,NBA
+2688,division_12,Southwest Division,2010,NBA
+2689,division_12,Dallas Mavericks,2010,NBA
+2690,division_12,San Antonio Spurs,2010,NBA
+2691,division_12,Houston Rockets,2010,NBA
+2692,division_12,Memphis Grizzlies,2010,NBA
+2693,division_12,New Orleans Hornets,2010,NBA
+2694,division_2,Central Division,2010,NBA
+2695,division_2,Cleveland Cavaliers,2010,NBA
+2696,division_2,Milwaukee Bucks,2010,NBA
+2697,division_2,Chicago Bulls,2010,NBA
+2698,division_2,Indiana Pacers,2010,NBA
+2699,division_2,Detroit Pistons,2010,NBA
+2700,division_3,Southeast Division,2010,NBA
+2701,division_3,Orlando Magic,2010,NBA
+2702,division_3,Atlanta Hawks,2010,NBA
+2703,division_3,Miami Heat,2010,NBA
+2704,division_3,Charlotte Bobcats,2010,NBA
+2705,division_3,Washington Wizards,2010,NBA
+2706,division_4,Northwest Division,2010,NBA
+2707,division_4,Denver Nuggets,2010,NBA
+2708,division_4,Utah Jazz,2010,NBA
+2709,division_4,Portland Trail Blazers,2010,NBA
+2710,division_4,Oklahoma City Thunder,2010,NBA
+2711,division_4,Minnesota Timberwolves,2010,NBA
+2712,division_5,Pacific Division,2010,NBA
+2713,division_5,Los Angeles Lakers,2010,NBA
+2714,division_5,Phoenix Suns,2010,NBA
+2715,division_5,Los Angeles Clippers,2010,NBA
+2716,division_5,Golden State Warriors,2010,NBA
+2717,division_5,Sacramento Kings,2010,NBA
+2718,division_6,Southwest Division,2010,NBA
+2719,division_6,Dallas Mavericks,2010,NBA
+2720,division_6,San Antonio Spurs,2010,NBA
+2721,division_6,Houston Rockets,2010,NBA
+2722,division_6,Memphis Grizzlies,2010,NBA
+2723,division_6,New Orleans Hornets,2010,NBA
+2724,division_7,Atlantic Division,2010,NBA
+2725,division_7,Boston Celtics,2010,NBA
+2726,division_7,Toronto Raptors,2010,NBA
+2727,division_7,New York Knicks,2010,NBA
+2728,division_7,Philadelphia 76ers,2010,NBA
+2729,division_7,New Jersey Nets,2010,NBA
+2730,division_8,Central Division,2010,NBA
+2731,division_8,Cleveland Cavaliers,2010,NBA
+2732,division_8,Milwaukee Bucks,2010,NBA
+2733,division_8,Chicago Bulls,2010,NBA
+2734,division_8,Indiana Pacers,2010,NBA
+2735,division_8,Detroit Pistons,2010,NBA
+2736,division_9,Southeast Division,2010,NBA
+2737,division_9,Orlando Magic,2010,NBA
+2738,division_9,Atlanta Hawks,2010,NBA
+2739,division_9,Miami Heat,2010,NBA
+2740,division_9,Charlotte Bobcats,2010,NBA
+2741,division_9,Washington Wizards,2010,NBA
+2742,division_1,Atlantic Division,2011,NBA
+2743,division_1,Boston Celtics,2011,NBA
+2744,division_1,New York Knicks,2011,NBA
+2745,division_1,Philadelphia 76ers,2011,NBA
+2746,division_1,New Jersey Nets,2011,NBA
+2747,division_1,Toronto Raptors,2011,NBA
+2748,division_10,Northwest Division,2011,NBA
+2749,division_10,Oklahoma City Thunder,2011,NBA
+2750,division_10,Denver Nuggets,2011,NBA
+2751,division_10,Portland Trail Blazers,2011,NBA
+2752,division_10,Utah Jazz,2011,NBA
+2753,division_10,Minnesota Timberwolves,2011,NBA
+2754,division_11,Pacific Division,2011,NBA
+2755,division_11,Los Angeles Lakers,2011,NBA
+2756,division_11,Phoenix Suns,2011,NBA
+2757,division_11,Golden State Warriors,2011,NBA
+2758,division_11,Los Angeles Clippers,2011,NBA
+2759,division_11,Sacramento Kings,2011,NBA
+2760,division_12,Southwest Division,2011,NBA
+2761,division_12,San Antonio Spurs,2011,NBA
+2762,division_12,Dallas Mavericks,2011,NBA
+2763,division_12,New Orleans Hornets,2011,NBA
+2764,division_12,Memphis Grizzlies,2011,NBA
+2765,division_12,Houston Rockets,2011,NBA
+2766,division_2,Central Division,2011,NBA
+2767,division_2,Chicago Bulls,2011,NBA
+2768,division_2,Indiana Pacers,2011,NBA
+2769,division_2,Milwaukee Bucks,2011,NBA
+2770,division_2,Detroit Pistons,2011,NBA
+2771,division_2,Cleveland Cavaliers,2011,NBA
+2772,division_3,Southeast Division,2011,NBA
+2773,division_3,Miami Heat,2011,NBA
+2774,division_3,Orlando Magic,2011,NBA
+2775,division_3,Atlanta Hawks,2011,NBA
+2776,division_3,Charlotte Bobcats,2011,NBA
+2777,division_3,Washington Wizards,2011,NBA
+2778,division_4,Northwest Division,2011,NBA
+2779,division_4,Oklahoma City Thunder,2011,NBA
+2780,division_4,Denver Nuggets,2011,NBA
+2781,division_4,Portland Trail Blazers,2011,NBA
+2782,division_4,Utah Jazz,2011,NBA
+2783,division_4,Minnesota Timberwolves,2011,NBA
+2784,division_5,Pacific Division,2011,NBA
+2785,division_5,Los Angeles Lakers,2011,NBA
+2786,division_5,Phoenix Suns,2011,NBA
+2787,division_5,Golden State Warriors,2011,NBA
+2788,division_5,Los Angeles Clippers,2011,NBA
+2789,division_5,Sacramento Kings,2011,NBA
+2790,division_6,Southwest Division,2011,NBA
+2791,division_6,San Antonio Spurs,2011,NBA
+2792,division_6,Dallas Mavericks,2011,NBA
+2793,division_6,New Orleans Hornets,2011,NBA
+2794,division_6,Memphis Grizzlies,2011,NBA
+2795,division_6,Houston Rockets,2011,NBA
+2796,division_7,Atlantic Division,2011,NBA
+2797,division_7,Boston Celtics,2011,NBA
+2798,division_7,New York Knicks,2011,NBA
+2799,division_7,Philadelphia 76ers,2011,NBA
+2800,division_7,New Jersey Nets,2011,NBA
+2801,division_7,Toronto Raptors,2011,NBA
+2802,division_8,Central Division,2011,NBA
+2803,division_8,Chicago Bulls,2011,NBA
+2804,division_8,Indiana Pacers,2011,NBA
+2805,division_8,Milwaukee Bucks,2011,NBA
+2806,division_8,Detroit Pistons,2011,NBA
+2807,division_8,Cleveland Cavaliers,2011,NBA
+2808,division_9,Southeast Division,2011,NBA
+2809,division_9,Miami Heat,2011,NBA
+2810,division_9,Orlando Magic,2011,NBA
+2811,division_9,Atlanta Hawks,2011,NBA
+2812,division_9,Charlotte Bobcats,2011,NBA
+2813,division_9,Washington Wizards,2011,NBA
+2814,division_1,Atlantic Division,2012,NBA
+2815,division_1,Boston Celtics,2012,NBA
+2816,division_1,New York Knicks,2012,NBA
+2817,division_1,Philadelphia 76ers,2012,NBA
+2818,division_1,Toronto Raptors,2012,NBA
+2819,division_1,New Jersey Nets,2012,NBA
+2820,division_10,Northwest Division,2012,NBA
+2821,division_10,Oklahoma City Thunder,2012,NBA
+2822,division_10,Denver Nuggets,2012,NBA
+2823,division_10,Utah Jazz,2012,NBA
+2824,division_10,Portland Trail Blazers,2012,NBA
+2825,division_10,Minnesota Timberwolves,2012,NBA
+2826,division_11,Pacific Division,2012,NBA
+2827,division_11,Los Angeles Lakers,2012,NBA
+2828,division_11,Los Angeles Clippers,2012,NBA
+2829,division_11,Phoenix Suns,2012,NBA
+2830,division_11,Golden State Warriors,2012,NBA
+2831,division_11,Sacramento Kings,2012,NBA
+2832,division_12,Southwest Division,2012,NBA
+2833,division_12,San Antonio Spurs,2012,NBA
+2834,division_12,Memphis Grizzlies,2012,NBA
+2835,division_12,Dallas Mavericks,2012,NBA
+2836,division_12,Houston Rockets,2012,NBA
+2837,division_12,New Orleans Hornets,2012,NBA
+2838,division_2,Central Division,2012,NBA
+2839,division_2,Chicago Bulls,2012,NBA
+2840,division_2,Indiana Pacers,2012,NBA
+2841,division_2,Milwaukee Bucks,2012,NBA
+2842,division_2,Detroit Pistons,2012,NBA
+2843,division_2,Cleveland Cavaliers,2012,NBA
+2844,division_3,Southeast Division,2012,NBA
+2845,division_3,Miami Heat,2012,NBA
+2846,division_3,Atlanta Hawks,2012,NBA
+2847,division_3,Orlando Magic,2012,NBA
+2848,division_3,Washington Wizards,2012,NBA
+2849,division_3,Charlotte Bobcats,2012,NBA
+2850,division_4,Northwest Division,2012,NBA
+2851,division_4,Oklahoma City Thunder,2012,NBA
+2852,division_4,Denver Nuggets,2012,NBA
+2853,division_4,Utah Jazz,2012,NBA
+2854,division_4,Portland Trail Blazers,2012,NBA
+2855,division_4,Minnesota Timberwolves,2012,NBA
+2856,division_5,Pacific Division,2012,NBA
+2857,division_5,Los Angeles Lakers,2012,NBA
+2858,division_5,Los Angeles Clippers,2012,NBA
+2859,division_5,Phoenix Suns,2012,NBA
+2860,division_5,Golden State Warriors,2012,NBA
+2861,division_5,Sacramento Kings,2012,NBA
+2862,division_6,Southwest Division,2012,NBA
+2863,division_6,San Antonio Spurs,2012,NBA
+2864,division_6,Memphis Grizzlies,2012,NBA
+2865,division_6,Dallas Mavericks,2012,NBA
+2866,division_6,Houston Rockets,2012,NBA
+2867,division_6,New Orleans Hornets,2012,NBA
+2868,division_7,Atlantic Division,2012,NBA
+2869,division_7,Boston Celtics,2012,NBA
+2870,division_7,New York Knicks,2012,NBA
+2871,division_7,Philadelphia 76ers,2012,NBA
+2872,division_7,Toronto Raptors,2012,NBA
+2873,division_7,New Jersey Nets,2012,NBA
+2874,division_8,Central Division,2012,NBA
+2875,division_8,Chicago Bulls,2012,NBA
+2876,division_8,Indiana Pacers,2012,NBA
+2877,division_8,Milwaukee Bucks,2012,NBA
+2878,division_8,Detroit Pistons,2012,NBA
+2879,division_8,Cleveland Cavaliers,2012,NBA
+2880,division_9,Southeast Division,2012,NBA
+2881,division_9,Miami Heat,2012,NBA
+2882,division_9,Atlanta Hawks,2012,NBA
+2883,division_9,Orlando Magic,2012,NBA
+2884,division_9,Washington Wizards,2012,NBA
+2885,division_9,Charlotte Bobcats,2012,NBA
+2886,division_1,Atlantic Division,2013,NBA
+2887,division_1,New York Knicks,2013,NBA
+2888,division_1,Brooklyn Nets,2013,NBA
+2889,division_1,Boston Celtics,2013,NBA
+2890,division_1,Philadelphia 76ers,2013,NBA
+2891,division_1,Toronto Raptors,2013,NBA
+2892,division_10,Northwest Division,2013,NBA
+2893,division_10,Oklahoma City Thunder,2013,NBA
+2894,division_10,Denver Nuggets,2013,NBA
+2895,division_10,Utah Jazz,2013,NBA
+2896,division_10,Portland Trail Blazers,2013,NBA
+2897,division_10,Minnesota Timberwolves,2013,NBA
+2898,division_11,Pacific Division,2013,NBA
+2899,division_11,Los Angeles Clippers,2013,NBA
+2900,division_11,Golden State Warriors,2013,NBA
+2901,division_11,Los Angeles Lakers,2013,NBA
+2902,division_11,Sacramento Kings,2013,NBA
+2903,division_11,Phoenix Suns,2013,NBA
+2904,division_12,Southwest Division,2013,NBA
+2905,division_12,San Antonio Spurs,2013,NBA
+2906,division_12,Memphis Grizzlies,2013,NBA
+2907,division_12,Houston Rockets,2013,NBA
+2908,division_12,Dallas Mavericks,2013,NBA
+2909,division_12,New Orleans Hornets,2013,NBA
+2910,division_2,Central Division,2013,NBA
+2911,division_2,Indiana Pacers,2013,NBA
+2912,division_2,Chicago Bulls,2013,NBA
+2913,division_2,Milwaukee Bucks,2013,NBA
+2914,division_2,Detroit Pistons,2013,NBA
+2915,division_2,Cleveland Cavaliers,2013,NBA
+2916,division_3,Southeast Division,2013,NBA
+2917,division_3,Miami Heat,2013,NBA
+2918,division_3,Atlanta Hawks,2013,NBA
+2919,division_3,Washington Wizards,2013,NBA
+2920,division_3,Charlotte Bobcats,2013,NBA
+2921,division_3,Orlando Magic,2013,NBA
+2922,division_4,Northwest Division,2013,NBA
+2923,division_4,Oklahoma City Thunder,2013,NBA
+2924,division_4,Denver Nuggets,2013,NBA
+2925,division_4,Utah Jazz,2013,NBA
+2926,division_4,Portland Trail Blazers,2013,NBA
+2927,division_4,Minnesota Timberwolves,2013,NBA
+2928,division_5,Pacific Division,2013,NBA
+2929,division_5,Los Angeles Clippers,2013,NBA
+2930,division_5,Golden State Warriors,2013,NBA
+2931,division_5,Los Angeles Lakers,2013,NBA
+2932,division_5,Sacramento Kings,2013,NBA
+2933,division_5,Phoenix Suns,2013,NBA
+2934,division_6,Southwest Division,2013,NBA
+2935,division_6,San Antonio Spurs,2013,NBA
+2936,division_6,Memphis Grizzlies,2013,NBA
+2937,division_6,Houston Rockets,2013,NBA
+2938,division_6,Dallas Mavericks,2013,NBA
+2939,division_6,New Orleans Hornets,2013,NBA
+2940,division_7,Atlantic Division,2013,NBA
+2941,division_7,New York Knicks,2013,NBA
+2942,division_7,Brooklyn Nets,2013,NBA
+2943,division_7,Boston Celtics,2013,NBA
+2944,division_7,Philadelphia 76ers,2013,NBA
+2945,division_7,Toronto Raptors,2013,NBA
+2946,division_8,Central Division,2013,NBA
+2947,division_8,Indiana Pacers,2013,NBA
+2948,division_8,Chicago Bulls,2013,NBA
+2949,division_8,Milwaukee Bucks,2013,NBA
+2950,division_8,Detroit Pistons,2013,NBA
+2951,division_8,Cleveland Cavaliers,2013,NBA
+2952,division_9,Southeast Division,2013,NBA
+2953,division_9,Miami Heat,2013,NBA
+2954,division_9,Atlanta Hawks,2013,NBA
+2955,division_9,Washington Wizards,2013,NBA
+2956,division_9,Charlotte Bobcats,2013,NBA
+2957,division_9,Orlando Magic,2013,NBA
+2958,division_1,Atlantic Division,2014,NBA
+2959,division_1,Toronto Raptors,2014,NBA
+2960,division_1,Brooklyn Nets,2014,NBA
+2961,division_1,New York Knicks,2014,NBA
+2962,division_1,Boston Celtics,2014,NBA
+2963,division_1,Philadelphia 76ers,2014,NBA
+2964,division_10,Northwest Division,2014,NBA
+2965,division_10,Oklahoma City Thunder,2014,NBA
+2966,division_10,Portland Trail Blazers,2014,NBA
+2967,division_10,Minnesota Timberwolves,2014,NBA
+2968,division_10,Denver Nuggets,2014,NBA
+2969,division_10,Utah Jazz,2014,NBA
+2970,division_11,Pacific Division,2014,NBA
+2971,division_11,Los Angeles Clippers,2014,NBA
+2972,division_11,Golden State Warriors,2014,NBA
+2973,division_11,Phoenix Suns,2014,NBA
+2974,division_11,Sacramento Kings,2014,NBA
+2975,division_11,Los Angeles Lakers,2014,NBA
+2976,division_12,Southwest Division,2014,NBA
+2977,division_12,San Antonio Spurs,2014,NBA
+2978,division_12,Houston Rockets,2014,NBA
+2979,division_12,Memphis Grizzlies,2014,NBA
+2980,division_12,Dallas Mavericks,2014,NBA
+2981,division_12,New Orleans Pelicans,2014,NBA
+2982,division_2,Central Division,2014,NBA
+2983,division_2,Indiana Pacers,2014,NBA
+2984,division_2,Chicago Bulls,2014,NBA
+2985,division_2,Cleveland Cavaliers,2014,NBA
+2986,division_2,Detroit Pistons,2014,NBA
+2987,division_2,Milwaukee Bucks,2014,NBA
+2988,division_3,Southeast Division,2014,NBA
+2989,division_3,Miami Heat,2014,NBA
+2990,division_3,Washington Wizards,2014,NBA
+2991,division_3,Charlotte Bobcats,2014,NBA
+2992,division_3,Atlanta Hawks,2014,NBA
+2993,division_3,Orlando Magic,2014,NBA
+2994,division_4,Northwest Division,2014,NBA
+2995,division_4,Oklahoma City Thunder,2014,NBA
+2996,division_4,Portland Trail Blazers,2014,NBA
+2997,division_4,Minnesota Timberwolves,2014,NBA
+2998,division_4,Denver Nuggets,2014,NBA
+2999,division_4,Utah Jazz,2014,NBA
+3000,division_5,Pacific Division,2014,NBA
+3001,division_5,Los Angeles Clippers,2014,NBA
+3002,division_5,Golden State Warriors,2014,NBA
+3003,division_5,Phoenix Suns,2014,NBA
+3004,division_5,Sacramento Kings,2014,NBA
+3005,division_5,Los Angeles Lakers,2014,NBA
+3006,division_6,Southwest Division,2014,NBA
+3007,division_6,San Antonio Spurs,2014,NBA
+3008,division_6,Houston Rockets,2014,NBA
+3009,division_6,Memphis Grizzlies,2014,NBA
+3010,division_6,Dallas Mavericks,2014,NBA
+3011,division_6,New Orleans Pelicans,2014,NBA
+3012,division_7,Atlantic Division,2014,NBA
+3013,division_7,Toronto Raptors,2014,NBA
+3014,division_7,Brooklyn Nets,2014,NBA
+3015,division_7,New York Knicks,2014,NBA
+3016,division_7,Boston Celtics,2014,NBA
+3017,division_7,Philadelphia 76ers,2014,NBA
+3018,division_8,Central Division,2014,NBA
+3019,division_8,Indiana Pacers,2014,NBA
+3020,division_8,Chicago Bulls,2014,NBA
+3021,division_8,Cleveland Cavaliers,2014,NBA
+3022,division_8,Detroit Pistons,2014,NBA
+3023,division_8,Milwaukee Bucks,2014,NBA
+3024,division_9,Southeast Division,2014,NBA
+3025,division_9,Miami Heat,2014,NBA
+3026,division_9,Washington Wizards,2014,NBA
+3027,division_9,Charlotte Bobcats,2014,NBA
+3028,division_9,Atlanta Hawks,2014,NBA
+3029,division_9,Orlando Magic,2014,NBA
+3030,division_1,Atlantic Division,2015,NBA
+3031,division_1,Toronto Raptors,2015,NBA
+3032,division_1,Boston Celtics,2015,NBA
+3033,division_1,Brooklyn Nets,2015,NBA
+3034,division_1,Philadelphia 76ers,2015,NBA
+3035,division_1,New York Knicks,2015,NBA
+3036,division_10,Northwest Division,2015,NBA
+3037,division_10,Portland Trail Blazers,2015,NBA
+3038,division_10,Oklahoma City Thunder,2015,NBA
+3039,division_10,Utah Jazz,2015,NBA
+3040,division_10,Denver Nuggets,2015,NBA
+3041,division_10,Minnesota Timberwolves,2015,NBA
+3042,division_11,Pacific Division,2015,NBA
+3043,division_11,Golden State Warriors,2015,NBA
+3044,division_11,Los Angeles Clippers,2015,NBA
+3045,division_11,Phoenix Suns,2015,NBA
+3046,division_11,Sacramento Kings,2015,NBA
+3047,division_11,Los Angeles Lakers,2015,NBA
+3048,division_12,Southwest Division,2015,NBA
+3049,division_12,Houston Rockets,2015,NBA
+3050,division_12,Memphis Grizzlies,2015,NBA
+3051,division_12,San Antonio Spurs,2015,NBA
+3052,division_12,Dallas Mavericks,2015,NBA
+3053,division_12,New Orleans Pelicans,2015,NBA
+3054,division_2,Central Division,2015,NBA
+3055,division_2,Cleveland Cavaliers,2015,NBA
+3056,division_2,Chicago Bulls,2015,NBA
+3057,division_2,Milwaukee Bucks,2015,NBA
+3058,division_2,Indiana Pacers,2015,NBA
+3059,division_2,Detroit Pistons,2015,NBA
+3060,division_3,Southeast Division,2015,NBA
+3061,division_3,Atlanta Hawks,2015,NBA
+3062,division_3,Washington Wizards,2015,NBA
+3063,division_3,Miami Heat,2015,NBA
+3064,division_3,Charlotte Hornets,2015,NBA
+3065,division_3,Orlando Magic,2015,NBA
+3066,division_4,Northwest Division,2015,NBA
+3067,division_4,Portland Trail Blazers,2015,NBA
+3068,division_4,Oklahoma City Thunder,2015,NBA
+3069,division_4,Utah Jazz,2015,NBA
+3070,division_4,Denver Nuggets,2015,NBA
+3071,division_4,Minnesota Timberwolves,2015,NBA
+3072,division_5,Pacific Division,2015,NBA
+3073,division_5,Golden State Warriors,2015,NBA
+3074,division_5,Los Angeles Clippers,2015,NBA
+3075,division_5,Phoenix Suns,2015,NBA
+3076,division_5,Sacramento Kings,2015,NBA
+3077,division_5,Los Angeles Lakers,2015,NBA
+3078,division_6,Southwest Division,2015,NBA
+3079,division_6,Houston Rockets,2015,NBA
+3080,division_6,Memphis Grizzlies,2015,NBA
+3081,division_6,San Antonio Spurs,2015,NBA
+3082,division_6,Dallas Mavericks,2015,NBA
+3083,division_6,New Orleans Pelicans,2015,NBA
+3084,division_7,Atlantic Division,2015,NBA
+3085,division_7,Toronto Raptors,2015,NBA
+3086,division_7,Boston Celtics,2015,NBA
+3087,division_7,Brooklyn Nets,2015,NBA
+3088,division_7,Philadelphia 76ers,2015,NBA
+3089,division_7,New York Knicks,2015,NBA
+3090,division_8,Central Division,2015,NBA
+3091,division_8,Cleveland Cavaliers,2015,NBA
+3092,division_8,Chicago Bulls,2015,NBA
+3093,division_8,Milwaukee Bucks,2015,NBA
+3094,division_8,Indiana Pacers,2015,NBA
+3095,division_8,Detroit Pistons,2015,NBA
+3096,division_9,Southeast Division,2015,NBA
+3097,division_9,Atlanta Hawks,2015,NBA
+3098,division_9,Washington Wizards,2015,NBA
+3099,division_9,Miami Heat,2015,NBA
+3100,division_9,Charlotte Hornets,2015,NBA
+3101,division_9,Orlando Magic,2015,NBA
+3102,division_1,Cleveland Cavaliers,2016,NBA
+3103,division_1,Toronto Raptors,2016,NBA
+3104,division_1,Miami Heat,2016,NBA
+3105,division_1,Atlanta Hawks,2016,NBA
+3106,division_1,Boston Celtics,2016,NBA
+3107,division_1,Charlotte Hornets,2016,NBA
+3108,division_1,Indiana Pacers,2016,NBA
+3109,division_1,Detroit Pistons,2016,NBA
+3110,division_1,Chicago Bulls,2016,NBA
+3111,division_1,Washington Wizards,2016,NBA
+3112,division_1,Orlando Magic,2016,NBA
+3113,division_1,Milwaukee Bucks,2016,NBA
+3114,division_1,New York Knicks,2016,NBA
+3115,division_1,Brooklyn Nets,2016,NBA
+3116,division_1,Philadelphia 76ers,2016,NBA
+3117,division_1,Golden State Warriors,2016,NBA
+3118,division_1,San Antonio Spurs,2016,NBA
+3119,division_1,Oklahoma City Thunder,2016,NBA
+3120,division_1,Los Angeles Clippers,2016,NBA
+3121,division_1,Portland Trail Blazers,2016,NBA
+3122,division_1,Dallas Mavericks,2016,NBA
+3123,division_1,Memphis Grizzlies,2016,NBA
+3124,division_1,Houston Rockets,2016,NBA
+3125,division_1,Utah Jazz,2016,NBA
+3126,division_1,Sacramento Kings,2016,NBA
+3127,division_1,Denver Nuggets,2016,NBA
+3128,division_1,New Orleans Pelicans,2016,NBA
+3129,division_1,Minnesota Timberwolves,2016,NBA
+3130,division_1,Phoenix Suns,2016,NBA
+3131,division_1,Los Angeles Lakers,2016,NBA
+3132,division_10,Southeast Division,2016,NBA
+3133,division_10,Miami Heat,2016,NBA
+3134,division_10,Atlanta Hawks,2016,NBA
+3135,division_10,Charlotte Hornets,2016,NBA
+3136,division_10,Washington Wizards,2016,NBA
+3137,division_10,Orlando Magic,2016,NBA
+3138,division_11,Northwest Division,2016,NBA
+3139,division_11,Oklahoma City Thunder,2016,NBA
+3140,division_11,Portland Trail Blazers,2016,NBA
+3141,division_11,Utah Jazz,2016,NBA
+3142,division_11,Denver Nuggets,2016,NBA
+3143,division_11,Minnesota Timberwolves,2016,NBA
+3144,division_12,Pacific Division,2016,NBA
+3145,division_12,Golden State Warriors,2016,NBA
+3146,division_12,Los Angeles Clippers,2016,NBA
+3147,division_12,Sacramento Kings,2016,NBA
+3148,division_12,Phoenix Suns,2016,NBA
+3149,division_12,Los Angeles Lakers,2016,NBA
+3150,division_13,Southwest Division,2016,NBA
+3151,division_13,San Antonio Spurs,2016,NBA
+3152,division_13,Dallas Mavericks,2016,NBA
+3153,division_13,Memphis Grizzlies,2016,NBA
+3154,division_13,Houston Rockets,2016,NBA
+3155,division_13,New Orleans Pelicans,2016,NBA
+3156,division_13,Cleveland Cavaliers,2016,NBA
+3157,division_13,Toronto Raptors,2016,NBA
+3158,division_13,Miami Heat,2016,NBA
+3159,division_13,Atlanta Hawks,2016,NBA
+3160,division_13,Boston Celtics,2016,NBA
+3161,division_13,Charlotte Hornets,2016,NBA
+3162,division_13,Indiana Pacers,2016,NBA
+3163,division_13,Detroit Pistons,2016,NBA
+3164,division_13,Chicago Bulls,2016,NBA
+3165,division_13,Washington Wizards,2016,NBA
+3166,division_13,Orlando Magic,2016,NBA
+3167,division_13,Milwaukee Bucks,2016,NBA
+3168,division_13,New York Knicks,2016,NBA
+3169,division_13,Brooklyn Nets,2016,NBA
+3170,division_13,Philadelphia 76ers,2016,NBA
+3171,division_13,Golden State Warriors,2016,NBA
+3172,division_13,San Antonio Spurs,2016,NBA
+3173,division_13,Oklahoma City Thunder,2016,NBA
+3174,division_13,Los Angeles Clippers,2016,NBA
+3175,division_13,Portland Trail Blazers,2016,NBA
+3176,division_13,Dallas Mavericks,2016,NBA
+3177,division_13,Memphis Grizzlies,2016,NBA
+3178,division_13,Houston Rockets,2016,NBA
+3179,division_13,Utah Jazz,2016,NBA
+3180,division_13,Sacramento Kings,2016,NBA
+3181,division_13,Denver Nuggets,2016,NBA
+3182,division_13,New Orleans Pelicans,2016,NBA
+3183,division_13,Minnesota Timberwolves,2016,NBA
+3184,division_13,Phoenix Suns,2016,NBA
+3185,division_13,Los Angeles Lakers,2016,NBA
+3186,division_14,Atlantic Division,2016,NBA
+3187,division_14,Toronto Raptors,2016,NBA
+3188,division_14,Boston Celtics,2016,NBA
+3189,division_14,New York Knicks,2016,NBA
+3190,division_14,Brooklyn Nets,2016,NBA
+3191,division_14,Philadelphia 76ers,2016,NBA
+3192,division_15,Central Division,2016,NBA
+3193,division_15,Cleveland Cavaliers,2016,NBA
+3194,division_15,Indiana Pacers,2016,NBA
+3195,division_15,Detroit Pistons,2016,NBA
+3196,division_15,Chicago Bulls,2016,NBA
+3197,division_15,Milwaukee Bucks,2016,NBA
+3198,division_16,Southeast Division,2016,NBA
+3199,division_16,Miami Heat,2016,NBA
+3200,division_16,Atlanta Hawks,2016,NBA
+3201,division_16,Charlotte Hornets,2016,NBA
+3202,division_16,Washington Wizards,2016,NBA
+3203,division_16,Orlando Magic,2016,NBA
+3204,division_17,Northwest Division,2016,NBA
+3205,division_17,Oklahoma City Thunder,2016,NBA
+3206,division_17,Portland Trail Blazers,2016,NBA
+3207,division_17,Utah Jazz,2016,NBA
+3208,division_17,Denver Nuggets,2016,NBA
+3209,division_17,Minnesota Timberwolves,2016,NBA
+3210,division_18,Pacific Division,2016,NBA
+3211,division_18,Golden State Warriors,2016,NBA
+3212,division_18,Los Angeles Clippers,2016,NBA
+3213,division_18,Sacramento Kings,2016,NBA
+3214,division_18,Phoenix Suns,2016,NBA
+3215,division_18,Los Angeles Lakers,2016,NBA
+3216,division_19,Southwest Division,2016,NBA
+3217,division_19,San Antonio Spurs,2016,NBA
+3218,division_19,Dallas Mavericks,2016,NBA
+3219,division_19,Memphis Grizzlies,2016,NBA
+3220,division_19,Houston Rockets,2016,NBA
+3221,division_19,New Orleans Pelicans,2016,NBA
+3222,division_19,Cleveland Cavaliers,2016,NBA
+3223,division_19,Toronto Raptors,2016,NBA
+3224,division_19,Miami Heat,2016,NBA
+3225,division_19,Atlanta Hawks,2016,NBA
+3226,division_19,Boston Celtics,2016,NBA
+3227,division_19,Charlotte Hornets,2016,NBA
+3228,division_19,Indiana Pacers,2016,NBA
+3229,division_19,Detroit Pistons,2016,NBA
+3230,division_19,Chicago Bulls,2016,NBA
+3231,division_19,Washington Wizards,2016,NBA
+3232,division_19,Orlando Magic,2016,NBA
+3233,division_19,Milwaukee Bucks,2016,NBA
+3234,division_19,New York Knicks,2016,NBA
+3235,division_19,Brooklyn Nets,2016,NBA
+3236,division_19,Philadelphia 76ers,2016,NBA
+3237,division_19,Golden State Warriors,2016,NBA
+3238,division_19,San Antonio Spurs,2016,NBA
+3239,division_19,Oklahoma City Thunder,2016,NBA
+3240,division_19,Los Angeles Clippers,2016,NBA
+3241,division_19,Portland Trail Blazers,2016,NBA
+3242,division_19,Dallas Mavericks,2016,NBA
+3243,division_19,Memphis Grizzlies,2016,NBA
+3244,division_19,Houston Rockets,2016,NBA
+3245,division_19,Utah Jazz,2016,NBA
+3246,division_19,Sacramento Kings,2016,NBA
+3247,division_19,Denver Nuggets,2016,NBA
+3248,division_19,New Orleans Pelicans,2016,NBA
+3249,division_19,Minnesota Timberwolves,2016,NBA
+3250,division_19,Phoenix Suns,2016,NBA
+3251,division_19,Los Angeles Lakers,2016,NBA
+3252,division_2,Atlantic Division,2016,NBA
+3253,division_2,Toronto Raptors,2016,NBA
+3254,division_2,Boston Celtics,2016,NBA
+3255,division_2,New York Knicks,2016,NBA
+3256,division_2,Brooklyn Nets,2016,NBA
+3257,division_2,Philadelphia 76ers,2016,NBA
+3258,division_20,Atlantic Division,2016,NBA
+3259,division_20,Toronto Raptors,2016,NBA
+3260,division_20,Boston Celtics,2016,NBA
+3261,division_20,New York Knicks,2016,NBA
+3262,division_20,Brooklyn Nets,2016,NBA
+3263,division_20,Philadelphia 76ers,2016,NBA
+3264,division_21,Central Division,2016,NBA
+3265,division_21,Cleveland Cavaliers,2016,NBA
+3266,division_21,Indiana Pacers,2016,NBA
+3267,division_21,Detroit Pistons,2016,NBA
+3268,division_21,Chicago Bulls,2016,NBA
+3269,division_21,Milwaukee Bucks,2016,NBA
+3270,division_22,Southeast Division,2016,NBA
+3271,division_22,Miami Heat,2016,NBA
+3272,division_22,Atlanta Hawks,2016,NBA
+3273,division_22,Charlotte Hornets,2016,NBA
+3274,division_22,Washington Wizards,2016,NBA
+3275,division_22,Orlando Magic,2016,NBA
+3276,division_23,Northwest Division,2016,NBA
+3277,division_23,Oklahoma City Thunder,2016,NBA
+3278,division_23,Portland Trail Blazers,2016,NBA
+3279,division_23,Utah Jazz,2016,NBA
+3280,division_23,Denver Nuggets,2016,NBA
+3281,division_23,Minnesota Timberwolves,2016,NBA
+3282,division_24,Pacific Division,2016,NBA
+3283,division_24,Golden State Warriors,2016,NBA
+3284,division_24,Los Angeles Clippers,2016,NBA
+3285,division_24,Sacramento Kings,2016,NBA
+3286,division_24,Phoenix Suns,2016,NBA
+3287,division_24,Los Angeles Lakers,2016,NBA
+3288,division_25,Southwest Division,2016,NBA
+3289,division_25,San Antonio Spurs,2016,NBA
+3290,division_25,Dallas Mavericks,2016,NBA
+3291,division_25,Memphis Grizzlies,2016,NBA
+3292,division_25,Houston Rockets,2016,NBA
+3293,division_25,New Orleans Pelicans,2016,NBA
+3294,division_3,Central Division,2016,NBA
+3295,division_3,Cleveland Cavaliers,2016,NBA
+3296,division_3,Indiana Pacers,2016,NBA
+3297,division_3,Detroit Pistons,2016,NBA
+3298,division_3,Chicago Bulls,2016,NBA
+3299,division_3,Milwaukee Bucks,2016,NBA
+3300,division_4,Southeast Division,2016,NBA
+3301,division_4,Miami Heat,2016,NBA
+3302,division_4,Atlanta Hawks,2016,NBA
+3303,division_4,Charlotte Hornets,2016,NBA
+3304,division_4,Washington Wizards,2016,NBA
+3305,division_4,Orlando Magic,2016,NBA
+3306,division_5,Northwest Division,2016,NBA
+3307,division_5,Oklahoma City Thunder,2016,NBA
+3308,division_5,Portland Trail Blazers,2016,NBA
+3309,division_5,Utah Jazz,2016,NBA
+3310,division_5,Denver Nuggets,2016,NBA
+3311,division_5,Minnesota Timberwolves,2016,NBA
+3312,division_6,Pacific Division,2016,NBA
+3313,division_6,Golden State Warriors,2016,NBA
+3314,division_6,Los Angeles Clippers,2016,NBA
+3315,division_6,Sacramento Kings,2016,NBA
+3316,division_6,Phoenix Suns,2016,NBA
+3317,division_6,Los Angeles Lakers,2016,NBA
+3318,division_7,Southwest Division,2016,NBA
+3319,division_7,San Antonio Spurs,2016,NBA
+3320,division_7,Dallas Mavericks,2016,NBA
+3321,division_7,Memphis Grizzlies,2016,NBA
+3322,division_7,Houston Rockets,2016,NBA
+3323,division_7,New Orleans Pelicans,2016,NBA
+3324,division_7,Cleveland Cavaliers,2016,NBA
+3325,division_7,Toronto Raptors,2016,NBA
+3326,division_7,Miami Heat,2016,NBA
+3327,division_7,Atlanta Hawks,2016,NBA
+3328,division_7,Boston Celtics,2016,NBA
+3329,division_7,Charlotte Hornets,2016,NBA
+3330,division_7,Indiana Pacers,2016,NBA
+3331,division_7,Detroit Pistons,2016,NBA
+3332,division_7,Chicago Bulls,2016,NBA
+3333,division_7,Washington Wizards,2016,NBA
+3334,division_7,Orlando Magic,2016,NBA
+3335,division_7,Milwaukee Bucks,2016,NBA
+3336,division_7,New York Knicks,2016,NBA
+3337,division_7,Brooklyn Nets,2016,NBA
+3338,division_7,Philadelphia 76ers,2016,NBA
+3339,division_7,Golden State Warriors,2016,NBA
+3340,division_7,San Antonio Spurs,2016,NBA
+3341,division_7,Oklahoma City Thunder,2016,NBA
+3342,division_7,Los Angeles Clippers,2016,NBA
+3343,division_7,Portland Trail Blazers,2016,NBA
+3344,division_7,Dallas Mavericks,2016,NBA
+3345,division_7,Memphis Grizzlies,2016,NBA
+3346,division_7,Houston Rockets,2016,NBA
+3347,division_7,Utah Jazz,2016,NBA
+3348,division_7,Sacramento Kings,2016,NBA
+3349,division_7,Denver Nuggets,2016,NBA
+3350,division_7,New Orleans Pelicans,2016,NBA
+3351,division_7,Minnesota Timberwolves,2016,NBA
+3352,division_7,Phoenix Suns,2016,NBA
+3353,division_7,Los Angeles Lakers,2016,NBA
+3354,division_8,Atlantic Division,2016,NBA
+3355,division_8,Toronto Raptors,2016,NBA
+3356,division_8,Boston Celtics,2016,NBA
+3357,division_8,New York Knicks,2016,NBA
+3358,division_8,Brooklyn Nets,2016,NBA
+3359,division_8,Philadelphia 76ers,2016,NBA
+3360,division_9,Central Division,2016,NBA
+3361,division_9,Cleveland Cavaliers,2016,NBA
+3362,division_9,Indiana Pacers,2016,NBA
+3363,division_9,Detroit Pistons,2016,NBA
+3364,division_9,Chicago Bulls,2016,NBA
+3365,division_9,Milwaukee Bucks,2016,NBA
+3366,division_1,Boston Celtics,2017,NBA
+3367,division_1,Cleveland Cavaliers,2017,NBA
+3368,division_1,Toronto Raptors,2017,NBA
+3369,division_1,Washington Wizards,2017,NBA
+3370,division_1,Atlanta Hawks,2017,NBA
+3371,division_1,Milwaukee Bucks,2017,NBA
+3372,division_1,Indiana Pacers,2017,NBA
+3373,division_1,Chicago Bulls,2017,NBA
+3374,division_1,Miami Heat,2017,NBA
+3375,division_1,Detroit Pistons,2017,NBA
+3376,division_1,Charlotte Hornets,2017,NBA
+3377,division_1,New York Knicks,2017,NBA
+3378,division_1,Orlando Magic,2017,NBA
+3379,division_1,Philadelphia 76ers,2017,NBA
+3380,division_1,Brooklyn Nets,2017,NBA
+3381,division_1,Golden State Warriors,2017,NBA
+3382,division_1,San Antonio Spurs,2017,NBA
+3383,division_1,Houston Rockets,2017,NBA
+3384,division_1,Los Angeles Clippers,2017,NBA
+3385,division_1,Utah Jazz,2017,NBA
+3386,division_1,Oklahoma City Thunder,2017,NBA
+3387,division_1,Memphis Grizzlies,2017,NBA
+3388,division_1,Portland Trail Blazers,2017,NBA
+3389,division_1,Denver Nuggets,2017,NBA
+3390,division_1,New Orleans Pelicans,2017,NBA
+3391,division_1,Dallas Mavericks,2017,NBA
+3392,division_1,Sacramento Kings,2017,NBA
+3393,division_1,Minnesota Timberwolves,2017,NBA
+3394,division_1,Los Angeles Lakers,2017,NBA
+3395,division_1,Phoenix Suns,2017,NBA
+3396,division_10,Southeast Division,2017,NBA
+3397,division_10,Washington Wizards,2017,NBA
+3398,division_10,Atlanta Hawks,2017,NBA
+3399,division_10,Miami Heat,2017,NBA
+3400,division_10,Charlotte Hornets,2017,NBA
+3401,division_10,Orlando Magic,2017,NBA
+3402,division_11,Northwest Division,2017,NBA
+3403,division_11,Utah Jazz,2017,NBA
+3404,division_11,Oklahoma City Thunder,2017,NBA
+3405,division_11,Portland Trail Blazers,2017,NBA
+3406,division_11,Denver Nuggets,2017,NBA
+3407,division_11,Minnesota Timberwolves,2017,NBA
+3408,division_12,Pacific Division,2017,NBA
+3409,division_12,Golden State Warriors,2017,NBA
+3410,division_12,Los Angeles Clippers,2017,NBA
+3411,division_12,Sacramento Kings,2017,NBA
+3412,division_12,Los Angeles Lakers,2017,NBA
+3413,division_12,Phoenix Suns,2017,NBA
+3414,division_13,Southwest Division,2017,NBA
+3415,division_13,San Antonio Spurs,2017,NBA
+3416,division_13,Houston Rockets,2017,NBA
+3417,division_13,Memphis Grizzlies,2017,NBA
+3418,division_13,New Orleans Pelicans,2017,NBA
+3419,division_13,Dallas Mavericks,2017,NBA
+3420,division_13,Boston Celtics,2017,NBA
+3421,division_13,Cleveland Cavaliers,2017,NBA
+3422,division_13,Toronto Raptors,2017,NBA
+3423,division_13,Washington Wizards,2017,NBA
+3424,division_13,Atlanta Hawks,2017,NBA
+3425,division_13,Milwaukee Bucks,2017,NBA
+3426,division_13,Indiana Pacers,2017,NBA
+3427,division_13,Chicago Bulls,2017,NBA
+3428,division_13,Miami Heat,2017,NBA
+3429,division_13,Detroit Pistons,2017,NBA
+3430,division_13,Charlotte Hornets,2017,NBA
+3431,division_13,New York Knicks,2017,NBA
+3432,division_13,Orlando Magic,2017,NBA
+3433,division_13,Philadelphia 76ers,2017,NBA
+3434,division_13,Brooklyn Nets,2017,NBA
+3435,division_13,Golden State Warriors,2017,NBA
+3436,division_13,San Antonio Spurs,2017,NBA
+3437,division_13,Houston Rockets,2017,NBA
+3438,division_13,Los Angeles Clippers,2017,NBA
+3439,division_13,Utah Jazz,2017,NBA
+3440,division_13,Oklahoma City Thunder,2017,NBA
+3441,division_13,Memphis Grizzlies,2017,NBA
+3442,division_13,Portland Trail Blazers,2017,NBA
+3443,division_13,Denver Nuggets,2017,NBA
+3444,division_13,New Orleans Pelicans,2017,NBA
+3445,division_13,Dallas Mavericks,2017,NBA
+3446,division_13,Sacramento Kings,2017,NBA
+3447,division_13,Minnesota Timberwolves,2017,NBA
+3448,division_13,Los Angeles Lakers,2017,NBA
+3449,division_13,Phoenix Suns,2017,NBA
+3450,division_14,Atlantic Division,2017,NBA
+3451,division_14,Boston Celtics,2017,NBA
+3452,division_14,Toronto Raptors,2017,NBA
+3453,division_14,New York Knicks,2017,NBA
+3454,division_14,Philadelphia 76ers,2017,NBA
+3455,division_14,Brooklyn Nets,2017,NBA
+3456,division_15,Central Division,2017,NBA
+3457,division_15,Cleveland Cavaliers,2017,NBA
+3458,division_15,Milwaukee Bucks,2017,NBA
+3459,division_15,Indiana Pacers,2017,NBA
+3460,division_15,Chicago Bulls,2017,NBA
+3461,division_15,Detroit Pistons,2017,NBA
+3462,division_16,Southeast Division,2017,NBA
+3463,division_16,Washington Wizards,2017,NBA
+3464,division_16,Atlanta Hawks,2017,NBA
+3465,division_16,Miami Heat,2017,NBA
+3466,division_16,Charlotte Hornets,2017,NBA
+3467,division_16,Orlando Magic,2017,NBA
+3468,division_17,Northwest Division,2017,NBA
+3469,division_17,Utah Jazz,2017,NBA
+3470,division_17,Oklahoma City Thunder,2017,NBA
+3471,division_17,Portland Trail Blazers,2017,NBA
+3472,division_17,Denver Nuggets,2017,NBA
+3473,division_17,Minnesota Timberwolves,2017,NBA
+3474,division_18,Pacific Division,2017,NBA
+3475,division_18,Golden State Warriors,2017,NBA
+3476,division_18,Los Angeles Clippers,2017,NBA
+3477,division_18,Sacramento Kings,2017,NBA
+3478,division_18,Los Angeles Lakers,2017,NBA
+3479,division_18,Phoenix Suns,2017,NBA
+3480,division_19,Southwest Division,2017,NBA
+3481,division_19,San Antonio Spurs,2017,NBA
+3482,division_19,Houston Rockets,2017,NBA
+3483,division_19,Memphis Grizzlies,2017,NBA
+3484,division_19,New Orleans Pelicans,2017,NBA
+3485,division_19,Dallas Mavericks,2017,NBA
+3486,division_19,Boston Celtics,2017,NBA
+3487,division_19,Cleveland Cavaliers,2017,NBA
+3488,division_19,Toronto Raptors,2017,NBA
+3489,division_19,Washington Wizards,2017,NBA
+3490,division_19,Atlanta Hawks,2017,NBA
+3491,division_19,Milwaukee Bucks,2017,NBA
+3492,division_19,Indiana Pacers,2017,NBA
+3493,division_19,Chicago Bulls,2017,NBA
+3494,division_19,Miami Heat,2017,NBA
+3495,division_19,Detroit Pistons,2017,NBA
+3496,division_19,Charlotte Hornets,2017,NBA
+3497,division_19,New York Knicks,2017,NBA
+3498,division_19,Orlando Magic,2017,NBA
+3499,division_19,Philadelphia 76ers,2017,NBA
+3500,division_19,Brooklyn Nets,2017,NBA
+3501,division_19,Golden State Warriors,2017,NBA
+3502,division_19,San Antonio Spurs,2017,NBA
+3503,division_19,Houston Rockets,2017,NBA
+3504,division_19,Los Angeles Clippers,2017,NBA
+3505,division_19,Utah Jazz,2017,NBA
+3506,division_19,Oklahoma City Thunder,2017,NBA
+3507,division_19,Memphis Grizzlies,2017,NBA
+3508,division_19,Portland Trail Blazers,2017,NBA
+3509,division_19,Denver Nuggets,2017,NBA
+3510,division_19,New Orleans Pelicans,2017,NBA
+3511,division_19,Dallas Mavericks,2017,NBA
+3512,division_19,Sacramento Kings,2017,NBA
+3513,division_19,Minnesota Timberwolves,2017,NBA
+3514,division_19,Los Angeles Lakers,2017,NBA
+3515,division_19,Phoenix Suns,2017,NBA
+3516,division_2,Atlantic Division,2017,NBA
+3517,division_2,Boston Celtics,2017,NBA
+3518,division_2,Toronto Raptors,2017,NBA
+3519,division_2,New York Knicks,2017,NBA
+3520,division_2,Philadelphia 76ers,2017,NBA
+3521,division_2,Brooklyn Nets,2017,NBA
+3522,division_20,Atlantic Division,2017,NBA
+3523,division_20,Boston Celtics,2017,NBA
+3524,division_20,Toronto Raptors,2017,NBA
+3525,division_20,New York Knicks,2017,NBA
+3526,division_20,Philadelphia 76ers,2017,NBA
+3527,division_20,Brooklyn Nets,2017,NBA
+3528,division_21,Central Division,2017,NBA
+3529,division_21,Cleveland Cavaliers,2017,NBA
+3530,division_21,Milwaukee Bucks,2017,NBA
+3531,division_21,Indiana Pacers,2017,NBA
+3532,division_21,Chicago Bulls,2017,NBA
+3533,division_21,Detroit Pistons,2017,NBA
+3534,division_22,Southeast Division,2017,NBA
+3535,division_22,Washington Wizards,2017,NBA
+3536,division_22,Atlanta Hawks,2017,NBA
+3537,division_22,Miami Heat,2017,NBA
+3538,division_22,Charlotte Hornets,2017,NBA
+3539,division_22,Orlando Magic,2017,NBA
+3540,division_23,Northwest Division,2017,NBA
+3541,division_23,Utah Jazz,2017,NBA
+3542,division_23,Oklahoma City Thunder,2017,NBA
+3543,division_23,Portland Trail Blazers,2017,NBA
+3544,division_23,Denver Nuggets,2017,NBA
+3545,division_23,Minnesota Timberwolves,2017,NBA
+3546,division_24,Pacific Division,2017,NBA
+3547,division_24,Golden State Warriors,2017,NBA
+3548,division_24,Los Angeles Clippers,2017,NBA
+3549,division_24,Sacramento Kings,2017,NBA
+3550,division_24,Los Angeles Lakers,2017,NBA
+3551,division_24,Phoenix Suns,2017,NBA
+3552,division_25,Southwest Division,2017,NBA
+3553,division_25,San Antonio Spurs,2017,NBA
+3554,division_25,Houston Rockets,2017,NBA
+3555,division_25,Memphis Grizzlies,2017,NBA
+3556,division_25,New Orleans Pelicans,2017,NBA
+3557,division_25,Dallas Mavericks,2017,NBA
+3558,division_3,Central Division,2017,NBA
+3559,division_3,Cleveland Cavaliers,2017,NBA
+3560,division_3,Milwaukee Bucks,2017,NBA
+3561,division_3,Indiana Pacers,2017,NBA
+3562,division_3,Chicago Bulls,2017,NBA
+3563,division_3,Detroit Pistons,2017,NBA
+3564,division_4,Southeast Division,2017,NBA
+3565,division_4,Washington Wizards,2017,NBA
+3566,division_4,Atlanta Hawks,2017,NBA
+3567,division_4,Miami Heat,2017,NBA
+3568,division_4,Charlotte Hornets,2017,NBA
+3569,division_4,Orlando Magic,2017,NBA
+3570,division_5,Northwest Division,2017,NBA
+3571,division_5,Utah Jazz,2017,NBA
+3572,division_5,Oklahoma City Thunder,2017,NBA
+3573,division_5,Portland Trail Blazers,2017,NBA
+3574,division_5,Denver Nuggets,2017,NBA
+3575,division_5,Minnesota Timberwolves,2017,NBA
+3576,division_6,Pacific Division,2017,NBA
+3577,division_6,Golden State Warriors,2017,NBA
+3578,division_6,Los Angeles Clippers,2017,NBA
+3579,division_6,Sacramento Kings,2017,NBA
+3580,division_6,Los Angeles Lakers,2017,NBA
+3581,division_6,Phoenix Suns,2017,NBA
+3582,division_7,Southwest Division,2017,NBA
+3583,division_7,San Antonio Spurs,2017,NBA
+3584,division_7,Houston Rockets,2017,NBA
+3585,division_7,Memphis Grizzlies,2017,NBA
+3586,division_7,New Orleans Pelicans,2017,NBA
+3587,division_7,Dallas Mavericks,2017,NBA
+3588,division_7,Boston Celtics,2017,NBA
+3589,division_7,Cleveland Cavaliers,2017,NBA
+3590,division_7,Toronto Raptors,2017,NBA
+3591,division_7,Washington Wizards,2017,NBA
+3592,division_7,Atlanta Hawks,2017,NBA
+3593,division_7,Milwaukee Bucks,2017,NBA
+3594,division_7,Indiana Pacers,2017,NBA
+3595,division_7,Chicago Bulls,2017,NBA
+3596,division_7,Miami Heat,2017,NBA
+3597,division_7,Detroit Pistons,2017,NBA
+3598,division_7,Charlotte Hornets,2017,NBA
+3599,division_7,New York Knicks,2017,NBA
+3600,division_7,Orlando Magic,2017,NBA
+3601,division_7,Philadelphia 76ers,2017,NBA
+3602,division_7,Brooklyn Nets,2017,NBA
+3603,division_7,Golden State Warriors,2017,NBA
+3604,division_7,San Antonio Spurs,2017,NBA
+3605,division_7,Houston Rockets,2017,NBA
+3606,division_7,Los Angeles Clippers,2017,NBA
+3607,division_7,Utah Jazz,2017,NBA
+3608,division_7,Oklahoma City Thunder,2017,NBA
+3609,division_7,Memphis Grizzlies,2017,NBA
+3610,division_7,Portland Trail Blazers,2017,NBA
+3611,division_7,Denver Nuggets,2017,NBA
+3612,division_7,New Orleans Pelicans,2017,NBA
+3613,division_7,Dallas Mavericks,2017,NBA
+3614,division_7,Sacramento Kings,2017,NBA
+3615,division_7,Minnesota Timberwolves,2017,NBA
+3616,division_7,Los Angeles Lakers,2017,NBA
+3617,division_7,Phoenix Suns,2017,NBA
+3618,division_8,Atlantic Division,2017,NBA
+3619,division_8,Boston Celtics,2017,NBA
+3620,division_8,Toronto Raptors,2017,NBA
+3621,division_8,New York Knicks,2017,NBA
+3622,division_8,Philadelphia 76ers,2017,NBA
+3623,division_8,Brooklyn Nets,2017,NBA
+3624,division_9,Central Division,2017,NBA
+3625,division_9,Cleveland Cavaliers,2017,NBA
+3626,division_9,Milwaukee Bucks,2017,NBA
+3627,division_9,Indiana Pacers,2017,NBA
+3628,division_9,Chicago Bulls,2017,NBA
+3629,division_9,Detroit Pistons,2017,NBA
+3630,division_1,Toronto Raptors,2018,NBA
+3631,division_1,Boston Celtics,2018,NBA
+3632,division_1,Philadelphia 76ers,2018,NBA
+3633,division_1,Cleveland Cavaliers,2018,NBA
+3634,division_1,Indiana Pacers,2018,NBA
+3635,division_1,Miami Heat,2018,NBA
+3636,division_1,Milwaukee Bucks,2018,NBA
+3637,division_1,Washington Wizards,2018,NBA
+3638,division_1,Detroit Pistons,2018,NBA
+3639,division_1,Charlotte Hornets,2018,NBA
+3640,division_1,New York Knicks,2018,NBA
+3641,division_1,Brooklyn Nets,2018,NBA
+3642,division_1,Chicago Bulls,2018,NBA
+3643,division_1,Orlando Magic,2018,NBA
+3644,division_1,Atlanta Hawks,2018,NBA
+3645,division_1,Houston Rockets,2018,NBA
+3646,division_1,Golden State Warriors,2018,NBA
+3647,division_1,Portland Trail Blazers,2018,NBA
+3648,division_1,Oklahoma City Thunder,2018,NBA
+3649,division_1,Utah Jazz,2018,NBA
+3650,division_1,New Orleans Pelicans,2018,NBA
+3651,division_1,San Antonio Spurs,2018,NBA
+3652,division_1,Minnesota Timberwolves,2018,NBA
+3653,division_1,Denver Nuggets,2018,NBA
+3654,division_1,Los Angeles Clippers,2018,NBA
+3655,division_1,Los Angeles Lakers,2018,NBA
+3656,division_1,Sacramento Kings,2018,NBA
+3657,division_1,Dallas Mavericks,2018,NBA
+3658,division_1,Memphis Grizzlies,2018,NBA
+3659,division_1,Phoenix Suns,2018,NBA
+3660,division_10,Southeast Division,2018,NBA
+3661,division_10,Miami Heat,2018,NBA
+3662,division_10,Washington Wizards,2018,NBA
+3663,division_10,Charlotte Hornets,2018,NBA
+3664,division_10,Orlando Magic,2018,NBA
+3665,division_10,Atlanta Hawks,2018,NBA
+3666,division_11,Northwest Division,2018,NBA
+3667,division_11,Portland Trail Blazers,2018,NBA
+3668,division_11,Oklahoma City Thunder,2018,NBA
+3669,division_11,Utah Jazz,2018,NBA
+3670,division_11,Minnesota Timberwolves,2018,NBA
+3671,division_11,Denver Nuggets,2018,NBA
+3672,division_12,Pacific Division,2018,NBA
+3673,division_12,Golden State Warriors,2018,NBA
+3674,division_12,Los Angeles Clippers,2018,NBA
+3675,division_12,Los Angeles Lakers,2018,NBA
+3676,division_12,Sacramento Kings,2018,NBA
+3677,division_12,Phoenix Suns,2018,NBA
+3678,division_13,Southwest Division,2018,NBA
+3679,division_13,Houston Rockets,2018,NBA
+3680,division_13,New Orleans Pelicans,2018,NBA
+3681,division_13,San Antonio Spurs,2018,NBA
+3682,division_13,Dallas Mavericks,2018,NBA
+3683,division_13,Memphis Grizzlies,2018,NBA
+3684,division_13,Toronto Raptors,2018,NBA
+3685,division_13,Boston Celtics,2018,NBA
+3686,division_13,Philadelphia 76ers,2018,NBA
+3687,division_13,Cleveland Cavaliers,2018,NBA
+3688,division_13,Indiana Pacers,2018,NBA
+3689,division_13,Miami Heat,2018,NBA
+3690,division_13,Milwaukee Bucks,2018,NBA
+3691,division_13,Washington Wizards,2018,NBA
+3692,division_13,Detroit Pistons,2018,NBA
+3693,division_13,Charlotte Hornets,2018,NBA
+3694,division_13,New York Knicks,2018,NBA
+3695,division_13,Brooklyn Nets,2018,NBA
+3696,division_13,Chicago Bulls,2018,NBA
+3697,division_13,Orlando Magic,2018,NBA
+3698,division_13,Atlanta Hawks,2018,NBA
+3699,division_13,Houston Rockets,2018,NBA
+3700,division_13,Golden State Warriors,2018,NBA
+3701,division_13,Portland Trail Blazers,2018,NBA
+3702,division_13,Oklahoma City Thunder,2018,NBA
+3703,division_13,Utah Jazz,2018,NBA
+3704,division_13,New Orleans Pelicans,2018,NBA
+3705,division_13,San Antonio Spurs,2018,NBA
+3706,division_13,Minnesota Timberwolves,2018,NBA
+3707,division_13,Denver Nuggets,2018,NBA
+3708,division_13,Los Angeles Clippers,2018,NBA
+3709,division_13,Los Angeles Lakers,2018,NBA
+3710,division_13,Sacramento Kings,2018,NBA
+3711,division_13,Dallas Mavericks,2018,NBA
+3712,division_13,Memphis Grizzlies,2018,NBA
+3713,division_13,Phoenix Suns,2018,NBA
+3714,division_14,Atlantic Division,2018,NBA
+3715,division_14,Toronto Raptors,2018,NBA
+3716,division_14,Boston Celtics,2018,NBA
+3717,division_14,Philadelphia 76ers,2018,NBA
+3718,division_14,New York Knicks,2018,NBA
+3719,division_14,Brooklyn Nets,2018,NBA
+3720,division_15,Central Division,2018,NBA
+3721,division_15,Cleveland Cavaliers,2018,NBA
+3722,division_15,Indiana Pacers,2018,NBA
+3723,division_15,Milwaukee Bucks,2018,NBA
+3724,division_15,Detroit Pistons,2018,NBA
+3725,division_15,Chicago Bulls,2018,NBA
+3726,division_16,Southeast Division,2018,NBA
+3727,division_16,Miami Heat,2018,NBA
+3728,division_16,Washington Wizards,2018,NBA
+3729,division_16,Charlotte Hornets,2018,NBA
+3730,division_16,Orlando Magic,2018,NBA
+3731,division_16,Atlanta Hawks,2018,NBA
+3732,division_17,Northwest Division,2018,NBA
+3733,division_17,Portland Trail Blazers,2018,NBA
+3734,division_17,Oklahoma City Thunder,2018,NBA
+3735,division_17,Utah Jazz,2018,NBA
+3736,division_17,Minnesota Timberwolves,2018,NBA
+3737,division_17,Denver Nuggets,2018,NBA
+3738,division_18,Pacific Division,2018,NBA
+3739,division_18,Golden State Warriors,2018,NBA
+3740,division_18,Los Angeles Clippers,2018,NBA
+3741,division_18,Los Angeles Lakers,2018,NBA
+3742,division_18,Sacramento Kings,2018,NBA
+3743,division_18,Phoenix Suns,2018,NBA
+3744,division_19,Southwest Division,2018,NBA
+3745,division_19,Houston Rockets,2018,NBA
+3746,division_19,New Orleans Pelicans,2018,NBA
+3747,division_19,San Antonio Spurs,2018,NBA
+3748,division_19,Dallas Mavericks,2018,NBA
+3749,division_19,Memphis Grizzlies,2018,NBA
+3750,division_19,Toronto Raptors,2018,NBA
+3751,division_19,Boston Celtics,2018,NBA
+3752,division_19,Philadelphia 76ers,2018,NBA
+3753,division_19,Cleveland Cavaliers,2018,NBA
+3754,division_19,Indiana Pacers,2018,NBA
+3755,division_19,Miami Heat,2018,NBA
+3756,division_19,Milwaukee Bucks,2018,NBA
+3757,division_19,Washington Wizards,2018,NBA
+3758,division_19,Detroit Pistons,2018,NBA
+3759,division_19,Charlotte Hornets,2018,NBA
+3760,division_19,New York Knicks,2018,NBA
+3761,division_19,Brooklyn Nets,2018,NBA
+3762,division_19,Chicago Bulls,2018,NBA
+3763,division_19,Orlando Magic,2018,NBA
+3764,division_19,Atlanta Hawks,2018,NBA
+3765,division_19,Houston Rockets,2018,NBA
+3766,division_19,Golden State Warriors,2018,NBA
+3767,division_19,Portland Trail Blazers,2018,NBA
+3768,division_19,Oklahoma City Thunder,2018,NBA
+3769,division_19,Utah Jazz,2018,NBA
+3770,division_19,New Orleans Pelicans,2018,NBA
+3771,division_19,San Antonio Spurs,2018,NBA
+3772,division_19,Minnesota Timberwolves,2018,NBA
+3773,division_19,Denver Nuggets,2018,NBA
+3774,division_19,Los Angeles Clippers,2018,NBA
+3775,division_19,Los Angeles Lakers,2018,NBA
+3776,division_19,Sacramento Kings,2018,NBA
+3777,division_19,Dallas Mavericks,2018,NBA
+3778,division_19,Memphis Grizzlies,2018,NBA
+3779,division_19,Phoenix Suns,2018,NBA
+3780,division_2,Atlantic Division,2018,NBA
+3781,division_2,Toronto Raptors,2018,NBA
+3782,division_2,Boston Celtics,2018,NBA
+3783,division_2,Philadelphia 76ers,2018,NBA
+3784,division_2,New York Knicks,2018,NBA
+3785,division_2,Brooklyn Nets,2018,NBA
+3786,division_20,Atlantic Division,2018,NBA
+3787,division_20,Toronto Raptors,2018,NBA
+3788,division_20,Boston Celtics,2018,NBA
+3789,division_20,Philadelphia 76ers,2018,NBA
+3790,division_20,New York Knicks,2018,NBA
+3791,division_20,Brooklyn Nets,2018,NBA
+3792,division_21,Central Division,2018,NBA
+3793,division_21,Cleveland Cavaliers,2018,NBA
+3794,division_21,Indiana Pacers,2018,NBA
+3795,division_21,Milwaukee Bucks,2018,NBA
+3796,division_21,Detroit Pistons,2018,NBA
+3797,division_21,Chicago Bulls,2018,NBA
+3798,division_22,Southeast Division,2018,NBA
+3799,division_22,Miami Heat,2018,NBA
+3800,division_22,Washington Wizards,2018,NBA
+3801,division_22,Charlotte Hornets,2018,NBA
+3802,division_22,Orlando Magic,2018,NBA
+3803,division_22,Atlanta Hawks,2018,NBA
+3804,division_23,Northwest Division,2018,NBA
+3805,division_23,Portland Trail Blazers,2018,NBA
+3806,division_23,Oklahoma City Thunder,2018,NBA
+3807,division_23,Utah Jazz,2018,NBA
+3808,division_23,Minnesota Timberwolves,2018,NBA
+3809,division_23,Denver Nuggets,2018,NBA
+3810,division_24,Pacific Division,2018,NBA
+3811,division_24,Golden State Warriors,2018,NBA
+3812,division_24,Los Angeles Clippers,2018,NBA
+3813,division_24,Los Angeles Lakers,2018,NBA
+3814,division_24,Sacramento Kings,2018,NBA
+3815,division_24,Phoenix Suns,2018,NBA
+3816,division_25,Southwest Division,2018,NBA
+3817,division_25,Houston Rockets,2018,NBA
+3818,division_25,New Orleans Pelicans,2018,NBA
+3819,division_25,San Antonio Spurs,2018,NBA
+3820,division_25,Dallas Mavericks,2018,NBA
+3821,division_25,Memphis Grizzlies,2018,NBA
+3822,division_3,Central Division,2018,NBA
+3823,division_3,Cleveland Cavaliers,2018,NBA
+3824,division_3,Indiana Pacers,2018,NBA
+3825,division_3,Milwaukee Bucks,2018,NBA
+3826,division_3,Detroit Pistons,2018,NBA
+3827,division_3,Chicago Bulls,2018,NBA
+3828,division_4,Southeast Division,2018,NBA
+3829,division_4,Miami Heat,2018,NBA
+3830,division_4,Washington Wizards,2018,NBA
+3831,division_4,Charlotte Hornets,2018,NBA
+3832,division_4,Orlando Magic,2018,NBA
+3833,division_4,Atlanta Hawks,2018,NBA
+3834,division_5,Northwest Division,2018,NBA
+3835,division_5,Portland Trail Blazers,2018,NBA
+3836,division_5,Oklahoma City Thunder,2018,NBA
+3837,division_5,Utah Jazz,2018,NBA
+3838,division_5,Minnesota Timberwolves,2018,NBA
+3839,division_5,Denver Nuggets,2018,NBA
+3840,division_6,Pacific Division,2018,NBA
+3841,division_6,Golden State Warriors,2018,NBA
+3842,division_6,Los Angeles Clippers,2018,NBA
+3843,division_6,Los Angeles Lakers,2018,NBA
+3844,division_6,Sacramento Kings,2018,NBA
+3845,division_6,Phoenix Suns,2018,NBA
+3846,division_7,Southwest Division,2018,NBA
+3847,division_7,Houston Rockets,2018,NBA
+3848,division_7,New Orleans Pelicans,2018,NBA
+3849,division_7,San Antonio Spurs,2018,NBA
+3850,division_7,Dallas Mavericks,2018,NBA
+3851,division_7,Memphis Grizzlies,2018,NBA
+3852,division_7,Toronto Raptors,2018,NBA
+3853,division_7,Boston Celtics,2018,NBA
+3854,division_7,Philadelphia 76ers,2018,NBA
+3855,division_7,Cleveland Cavaliers,2018,NBA
+3856,division_7,Indiana Pacers,2018,NBA
+3857,division_7,Miami Heat,2018,NBA
+3858,division_7,Milwaukee Bucks,2018,NBA
+3859,division_7,Washington Wizards,2018,NBA
+3860,division_7,Detroit Pistons,2018,NBA
+3861,division_7,Charlotte Hornets,2018,NBA
+3862,division_7,New York Knicks,2018,NBA
+3863,division_7,Brooklyn Nets,2018,NBA
+3864,division_7,Chicago Bulls,2018,NBA
+3865,division_7,Orlando Magic,2018,NBA
+3866,division_7,Atlanta Hawks,2018,NBA
+3867,division_7,Houston Rockets,2018,NBA
+3868,division_7,Golden State Warriors,2018,NBA
+3869,division_7,Portland Trail Blazers,2018,NBA
+3870,division_7,Oklahoma City Thunder,2018,NBA
+3871,division_7,Utah Jazz,2018,NBA
+3872,division_7,New Orleans Pelicans,2018,NBA
+3873,division_7,San Antonio Spurs,2018,NBA
+3874,division_7,Minnesota Timberwolves,2018,NBA
+3875,division_7,Denver Nuggets,2018,NBA
+3876,division_7,Los Angeles Clippers,2018,NBA
+3877,division_7,Los Angeles Lakers,2018,NBA
+3878,division_7,Sacramento Kings,2018,NBA
+3879,division_7,Dallas Mavericks,2018,NBA
+3880,division_7,Memphis Grizzlies,2018,NBA
+3881,division_7,Phoenix Suns,2018,NBA
+3882,division_8,Atlantic Division,2018,NBA
+3883,division_8,Toronto Raptors,2018,NBA
+3884,division_8,Boston Celtics,2018,NBA
+3885,division_8,Philadelphia 76ers,2018,NBA
+3886,division_8,New York Knicks,2018,NBA
+3887,division_8,Brooklyn Nets,2018,NBA
+3888,division_9,Central Division,2018,NBA
+3889,division_9,Cleveland Cavaliers,2018,NBA
+3890,division_9,Indiana Pacers,2018,NBA
+3891,division_9,Milwaukee Bucks,2018,NBA
+3892,division_9,Detroit Pistons,2018,NBA
+3893,division_9,Chicago Bulls,2018,NBA
+3894,division_1,Milwaukee Bucks,2019,NBA
+3895,division_1,Toronto Raptors,2019,NBA
+3896,division_1,Philadelphia 76ers,2019,NBA
+3897,division_1,Boston Celtics,2019,NBA
+3898,division_1,Indiana Pacers,2019,NBA
+3899,division_1,Brooklyn Nets,2019,NBA
+3900,division_1,Orlando Magic,2019,NBA
+3901,division_1,Detroit Pistons,2019,NBA
+3902,division_1,Charlotte Hornets,2019,NBA
+3903,division_1,Miami Heat,2019,NBA
+3904,division_1,Washington Wizards,2019,NBA
+3905,division_1,Atlanta Hawks,2019,NBA
+3906,division_1,Chicago Bulls,2019,NBA
+3907,division_1,Cleveland Cavaliers,2019,NBA
+3908,division_1,New York Knicks,2019,NBA
+3909,division_1,Golden State Warriors,2019,NBA
+3910,division_1,Denver Nuggets,2019,NBA
+3911,division_1,Portland Trail Blazers,2019,NBA
+3912,division_1,Houston Rockets,2019,NBA
+3913,division_1,Utah Jazz,2019,NBA
+3914,division_1,Oklahoma City Thunder,2019,NBA
+3915,division_1,San Antonio Spurs,2019,NBA
+3916,division_1,Los Angeles Clippers,2019,NBA
+3917,division_1,Sacramento Kings,2019,NBA
+3918,division_1,Los Angeles Lakers,2019,NBA
+3919,division_1,Minnesota Timberwolves,2019,NBA
+3920,division_1,Memphis Grizzlies,2019,NBA
+3921,division_1,New Orleans Pelicans,2019,NBA
+3922,division_1,Dallas Mavericks,2019,NBA
+3923,division_1,Phoenix Suns,2019,NBA
+3924,division_10,Southeast Division,2019,NBA
+3925,division_10,Orlando Magic,2019,NBA
+3926,division_10,Charlotte Hornets,2019,NBA
+3927,division_10,Miami Heat,2019,NBA
+3928,division_10,Washington Wizards,2019,NBA
+3929,division_10,Atlanta Hawks,2019,NBA
+3930,division_11,Northwest Division,2019,NBA
+3931,division_11,Denver Nuggets,2019,NBA
+3932,division_11,Portland Trail Blazers,2019,NBA
+3933,division_11,Utah Jazz,2019,NBA
+3934,division_11,Oklahoma City Thunder,2019,NBA
+3935,division_11,Minnesota Timberwolves,2019,NBA
+3936,division_12,Pacific Division,2019,NBA
+3937,division_12,Golden State Warriors,2019,NBA
+3938,division_12,Los Angeles Clippers,2019,NBA
+3939,division_12,Sacramento Kings,2019,NBA
+3940,division_12,Los Angeles Lakers,2019,NBA
+3941,division_12,Phoenix Suns,2019,NBA
+3942,division_13,Southwest Division,2019,NBA
+3943,division_13,Houston Rockets,2019,NBA
+3944,division_13,San Antonio Spurs,2019,NBA
+3945,division_13,Memphis Grizzlies,2019,NBA
+3946,division_13,New Orleans Pelicans,2019,NBA
+3947,division_13,Dallas Mavericks,2019,NBA
+3948,division_13,Milwaukee Bucks,2019,NBA
+3949,division_13,Toronto Raptors,2019,NBA
+3950,division_13,Philadelphia 76ers,2019,NBA
+3951,division_13,Boston Celtics,2019,NBA
+3952,division_13,Indiana Pacers,2019,NBA
+3953,division_13,Brooklyn Nets,2019,NBA
+3954,division_13,Orlando Magic,2019,NBA
+3955,division_13,Detroit Pistons,2019,NBA
+3956,division_13,Charlotte Hornets,2019,NBA
+3957,division_13,Miami Heat,2019,NBA
+3958,division_13,Washington Wizards,2019,NBA
+3959,division_13,Atlanta Hawks,2019,NBA
+3960,division_13,Chicago Bulls,2019,NBA
+3961,division_13,Cleveland Cavaliers,2019,NBA
+3962,division_13,New York Knicks,2019,NBA
+3963,division_13,Golden State Warriors,2019,NBA
+3964,division_13,Denver Nuggets,2019,NBA
+3965,division_13,Portland Trail Blazers,2019,NBA
+3966,division_13,Houston Rockets,2019,NBA
+3967,division_13,Utah Jazz,2019,NBA
+3968,division_13,Oklahoma City Thunder,2019,NBA
+3969,division_13,San Antonio Spurs,2019,NBA
+3970,division_13,Los Angeles Clippers,2019,NBA
+3971,division_13,Sacramento Kings,2019,NBA
+3972,division_13,Los Angeles Lakers,2019,NBA
+3973,division_13,Minnesota Timberwolves,2019,NBA
+3974,division_13,Memphis Grizzlies,2019,NBA
+3975,division_13,New Orleans Pelicans,2019,NBA
+3976,division_13,Dallas Mavericks,2019,NBA
+3977,division_13,Phoenix Suns,2019,NBA
+3978,division_14,Atlantic Division,2019,NBA
+3979,division_14,Toronto Raptors,2019,NBA
+3980,division_14,Philadelphia 76ers,2019,NBA
+3981,division_14,Boston Celtics,2019,NBA
+3982,division_14,Brooklyn Nets,2019,NBA
+3983,division_14,New York Knicks,2019,NBA
+3984,division_15,Central Division,2019,NBA
+3985,division_15,Milwaukee Bucks,2019,NBA
+3986,division_15,Indiana Pacers,2019,NBA
+3987,division_15,Detroit Pistons,2019,NBA
+3988,division_15,Chicago Bulls,2019,NBA
+3989,division_15,Cleveland Cavaliers,2019,NBA
+3990,division_16,Southeast Division,2019,NBA
+3991,division_16,Orlando Magic,2019,NBA
+3992,division_16,Charlotte Hornets,2019,NBA
+3993,division_16,Miami Heat,2019,NBA
+3994,division_16,Washington Wizards,2019,NBA
+3995,division_16,Atlanta Hawks,2019,NBA
+3996,division_17,Northwest Division,2019,NBA
+3997,division_17,Denver Nuggets,2019,NBA
+3998,division_17,Portland Trail Blazers,2019,NBA
+3999,division_17,Utah Jazz,2019,NBA
+4000,division_17,Oklahoma City Thunder,2019,NBA
+4001,division_17,Minnesota Timberwolves,2019,NBA
+4002,division_18,Pacific Division,2019,NBA
+4003,division_18,Golden State Warriors,2019,NBA
+4004,division_18,Los Angeles Clippers,2019,NBA
+4005,division_18,Sacramento Kings,2019,NBA
+4006,division_18,Los Angeles Lakers,2019,NBA
+4007,division_18,Phoenix Suns,2019,NBA
+4008,division_19,Southwest Division,2019,NBA
+4009,division_19,Houston Rockets,2019,NBA
+4010,division_19,San Antonio Spurs,2019,NBA
+4011,division_19,Memphis Grizzlies,2019,NBA
+4012,division_19,New Orleans Pelicans,2019,NBA
+4013,division_19,Dallas Mavericks,2019,NBA
+4014,division_19,Milwaukee Bucks,2019,NBA
+4015,division_19,Toronto Raptors,2019,NBA
+4016,division_19,Philadelphia 76ers,2019,NBA
+4017,division_19,Boston Celtics,2019,NBA
+4018,division_19,Indiana Pacers,2019,NBA
+4019,division_19,Brooklyn Nets,2019,NBA
+4020,division_19,Orlando Magic,2019,NBA
+4021,division_19,Detroit Pistons,2019,NBA
+4022,division_19,Charlotte Hornets,2019,NBA
+4023,division_19,Miami Heat,2019,NBA
+4024,division_19,Washington Wizards,2019,NBA
+4025,division_19,Atlanta Hawks,2019,NBA
+4026,division_19,Chicago Bulls,2019,NBA
+4027,division_19,Cleveland Cavaliers,2019,NBA
+4028,division_19,New York Knicks,2019,NBA
+4029,division_19,Golden State Warriors,2019,NBA
+4030,division_19,Denver Nuggets,2019,NBA
+4031,division_19,Portland Trail Blazers,2019,NBA
+4032,division_19,Houston Rockets,2019,NBA
+4033,division_19,Utah Jazz,2019,NBA
+4034,division_19,Oklahoma City Thunder,2019,NBA
+4035,division_19,San Antonio Spurs,2019,NBA
+4036,division_19,Los Angeles Clippers,2019,NBA
+4037,division_19,Sacramento Kings,2019,NBA
+4038,division_19,Los Angeles Lakers,2019,NBA
+4039,division_19,Minnesota Timberwolves,2019,NBA
+4040,division_19,Memphis Grizzlies,2019,NBA
+4041,division_19,New Orleans Pelicans,2019,NBA
+4042,division_19,Dallas Mavericks,2019,NBA
+4043,division_19,Phoenix Suns,2019,NBA
+4044,division_2,Atlantic Division,2019,NBA
+4045,division_2,Toronto Raptors,2019,NBA
+4046,division_2,Philadelphia 76ers,2019,NBA
+4047,division_2,Boston Celtics,2019,NBA
+4048,division_2,Brooklyn Nets,2019,NBA
+4049,division_2,New York Knicks,2019,NBA
+4050,division_20,Atlantic Division,2019,NBA
+4051,division_20,Toronto Raptors,2019,NBA
+4052,division_20,Philadelphia 76ers,2019,NBA
+4053,division_20,Boston Celtics,2019,NBA
+4054,division_20,Brooklyn Nets,2019,NBA
+4055,division_20,New York Knicks,2019,NBA
+4056,division_21,Central Division,2019,NBA
+4057,division_21,Milwaukee Bucks,2019,NBA
+4058,division_21,Indiana Pacers,2019,NBA
+4059,division_21,Detroit Pistons,2019,NBA
+4060,division_21,Chicago Bulls,2019,NBA
+4061,division_21,Cleveland Cavaliers,2019,NBA
+4062,division_22,Southeast Division,2019,NBA
+4063,division_22,Orlando Magic,2019,NBA
+4064,division_22,Charlotte Hornets,2019,NBA
+4065,division_22,Miami Heat,2019,NBA
+4066,division_22,Washington Wizards,2019,NBA
+4067,division_22,Atlanta Hawks,2019,NBA
+4068,division_23,Northwest Division,2019,NBA
+4069,division_23,Denver Nuggets,2019,NBA
+4070,division_23,Portland Trail Blazers,2019,NBA
+4071,division_23,Utah Jazz,2019,NBA
+4072,division_23,Oklahoma City Thunder,2019,NBA
+4073,division_23,Minnesota Timberwolves,2019,NBA
+4074,division_24,Pacific Division,2019,NBA
+4075,division_24,Golden State Warriors,2019,NBA
+4076,division_24,Los Angeles Clippers,2019,NBA
+4077,division_24,Sacramento Kings,2019,NBA
+4078,division_24,Los Angeles Lakers,2019,NBA
+4079,division_24,Phoenix Suns,2019,NBA
+4080,division_25,Southwest Division,2019,NBA
+4081,division_25,Houston Rockets,2019,NBA
+4082,division_25,San Antonio Spurs,2019,NBA
+4083,division_25,Memphis Grizzlies,2019,NBA
+4084,division_25,New Orleans Pelicans,2019,NBA
+4085,division_25,Dallas Mavericks,2019,NBA
+4086,division_3,Central Division,2019,NBA
+4087,division_3,Milwaukee Bucks,2019,NBA
+4088,division_3,Indiana Pacers,2019,NBA
+4089,division_3,Detroit Pistons,2019,NBA
+4090,division_3,Chicago Bulls,2019,NBA
+4091,division_3,Cleveland Cavaliers,2019,NBA
+4092,division_4,Southeast Division,2019,NBA
+4093,division_4,Orlando Magic,2019,NBA
+4094,division_4,Charlotte Hornets,2019,NBA
+4095,division_4,Miami Heat,2019,NBA
+4096,division_4,Washington Wizards,2019,NBA
+4097,division_4,Atlanta Hawks,2019,NBA
+4098,division_5,Northwest Division,2019,NBA
+4099,division_5,Denver Nuggets,2019,NBA
+4100,division_5,Portland Trail Blazers,2019,NBA
+4101,division_5,Utah Jazz,2019,NBA
+4102,division_5,Oklahoma City Thunder,2019,NBA
+4103,division_5,Minnesota Timberwolves,2019,NBA
+4104,division_6,Pacific Division,2019,NBA
+4105,division_6,Golden State Warriors,2019,NBA
+4106,division_6,Los Angeles Clippers,2019,NBA
+4107,division_6,Sacramento Kings,2019,NBA
+4108,division_6,Los Angeles Lakers,2019,NBA
+4109,division_6,Phoenix Suns,2019,NBA
+4110,division_7,Southwest Division,2019,NBA
+4111,division_7,Houston Rockets,2019,NBA
+4112,division_7,San Antonio Spurs,2019,NBA
+4113,division_7,Memphis Grizzlies,2019,NBA
+4114,division_7,New Orleans Pelicans,2019,NBA
+4115,division_7,Dallas Mavericks,2019,NBA
+4116,division_7,Milwaukee Bucks,2019,NBA
+4117,division_7,Toronto Raptors,2019,NBA
+4118,division_7,Philadelphia 76ers,2019,NBA
+4119,division_7,Boston Celtics,2019,NBA
+4120,division_7,Indiana Pacers,2019,NBA
+4121,division_7,Brooklyn Nets,2019,NBA
+4122,division_7,Orlando Magic,2019,NBA
+4123,division_7,Detroit Pistons,2019,NBA
+4124,division_7,Charlotte Hornets,2019,NBA
+4125,division_7,Miami Heat,2019,NBA
+4126,division_7,Washington Wizards,2019,NBA
+4127,division_7,Atlanta Hawks,2019,NBA
+4128,division_7,Chicago Bulls,2019,NBA
+4129,division_7,Cleveland Cavaliers,2019,NBA
+4130,division_7,New York Knicks,2019,NBA
+4131,division_7,Golden State Warriors,2019,NBA
+4132,division_7,Denver Nuggets,2019,NBA
+4133,division_7,Portland Trail Blazers,2019,NBA
+4134,division_7,Houston Rockets,2019,NBA
+4135,division_7,Utah Jazz,2019,NBA
+4136,division_7,Oklahoma City Thunder,2019,NBA
+4137,division_7,San Antonio Spurs,2019,NBA
+4138,division_7,Los Angeles Clippers,2019,NBA
+4139,division_7,Sacramento Kings,2019,NBA
+4140,division_7,Los Angeles Lakers,2019,NBA
+4141,division_7,Minnesota Timberwolves,2019,NBA
+4142,division_7,Memphis Grizzlies,2019,NBA
+4143,division_7,New Orleans Pelicans,2019,NBA
+4144,division_7,Dallas Mavericks,2019,NBA
+4145,division_7,Phoenix Suns,2019,NBA
+4146,division_8,Atlantic Division,2019,NBA
+4147,division_8,Toronto Raptors,2019,NBA
+4148,division_8,Philadelphia 76ers,2019,NBA
+4149,division_8,Boston Celtics,2019,NBA
+4150,division_8,Brooklyn Nets,2019,NBA
+4151,division_8,New York Knicks,2019,NBA
+4152,division_9,Central Division,2019,NBA
+4153,division_9,Milwaukee Bucks,2019,NBA
+4154,division_9,Indiana Pacers,2019,NBA
+4155,division_9,Detroit Pistons,2019,NBA
+4156,division_9,Chicago Bulls,2019,NBA
+4157,division_9,Cleveland Cavaliers,2019,NBA
