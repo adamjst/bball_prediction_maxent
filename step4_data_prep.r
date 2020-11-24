@@ -39,12 +39,16 @@ total$Visitors <- as.character(total$Visitors)
 
 #Merge division data with win/loss results
 total_div_merged_vis <- merge(total, div_data, by.x = c("Visitors", "SeasonStart"), by.y = c("Teams", "SeasonStart"),
-                              all.x = TRUE, all.y = TRUE)
+                              all.x = FALSE, all.y = TRUE)
 total_div_merged_both <- merge(total_div_merged_vis, div_data, by.x = c("Home", "SeasonStart"), by.y = c("Teams", "SeasonStart"),
-                               all.x = TRUE, all.y = TRUE)
+                               all.x = FALSE, all.y = TRUE)
 
 #Clean and rename division columns
 total_div_clean <- total_div_merged_both[-c(17,19)]
 names(total_div_clean)[16] <- "Vis.Division"
 names(total_div_clean)[17] <- "Home.Division"
+
+#Reduce to only intra-divisional games
+total_div_intra <- total_div_clean %>%
+  filter(Vis.Division == Home.Division)
   
