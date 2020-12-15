@@ -1,12 +1,12 @@
 # Import libraries
 import pandas as pd
 import re
+import os
 from bs4 import BeautifulSoup
 from pathlib import Path
 import numpy as np
 
 """Scrape local html file and return in html and formatted csv"""
-
 n_teams = 0
 def step2_scrape(league, year_start, years_back):
     """Scrape local html file for regular season data and return in html and csv in separate output folders"""
@@ -85,7 +85,10 @@ def step2_scrape(league, year_start, years_back):
             for col in cols:
                 header.append(col.get_text())
             ##Identify main table body and loop to find teams and stats
-            table = soup.find_all('tbody')[-2:]
+            if yr >= 2015:
+                table = soup.find_all('tbody')[-2:]
+            else:
+                table = soup.find_all('tbody')[0:2]
             #print(table)
             for t in table:
                 teams = t.find_all('tr')
@@ -144,11 +147,12 @@ def step2_scrape(league, year_start, years_back):
         #Remove Division names from dataframe and print to csv
         filter = teams_df4["Teams"].str.contains((reg))
         teams_df4 = teams_df4[~filter]
+        print(teams_df4)
         teams_df4.to_csv((step2_csv), header=True)
 
 # # # Run for each league during league's years of operation
 #step2_scrape('WNBA', '', 2019, 23)
-step2_scrape('NBA', 2019, 4)
+step2_scrape('NBA', 2019, 24)
 # # #step2_scrape('NBA', 2019, 71, 'Playoffs')
 # # step2_scrape('ABA', 1975, 9)
 # # #step2_scrape('BAA', 1949, 4, 'Playoffs')
