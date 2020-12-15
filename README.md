@@ -5,3 +5,4 @@ Step2 identifies winners/losers and creates matrix based on teams within a leagu
 Step3 concats division alignments throughout years.
 Step4 merges and cleans division data with game result data.
 Step5 creates win/loss pct matrix by division (23 Nov: still need to make iterative over divisions)
+Step6 wrangles playoff data
