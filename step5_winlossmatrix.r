@@ -25,11 +25,13 @@ winner_loser <- function(matrix) {
 }
 #Apply function to dataset
 winner <- winner_loser(total_div_intra)
+winner_playoff <- winner_loser(playoff_data_div_intra)
 
 ##bind together function output and original "total" dataset
 total_winner <- cbind(total_div_intra, winner)
+total_playoff <- cbind(playoff_data_div_intra, winner_playoff)
 
-##Convert Winner and loser labels to team names ###DOESNT WORK###
+##Convert Winner and loser labels to team names
 total_winner$winner1 <- ifelse(total_winner$winner1 == "visitor", total_winner$Visitors, total_winner$Home)
 total_winner$loser1 <- ifelse(total_winner$loser1 == "visitor", total_winner$Visitors, total_winner$Home)
 
@@ -40,6 +42,8 @@ total_winner$loser1 <- ifelse(total_winner$loser1 == "visitor", total_winner$Vis
 ##Creates one matrix with teams in both rows and columns. Need to: 
 ##    1) divide by conference 
 ##    2) fill in matrix values based on wins/losses from the matchup count##
+
+year
 matrixmaker <- function(df, Association, year, division){
   ##Subset by association and Season Start year
   df_assoc_year <- df[ which(df$Association==Association & df$SeasonStart ==year),]
@@ -89,5 +93,12 @@ matrixmaker <- function(df, Association, year, division){
 x <- matrixmaker(total_winner, "NBA", 2017, "division_4")
 x[is.na(x)] <- 0
 x
-write.csv(x, file = "northwest_2017.csv", row.names=TRUE)
+write.csv(x, file = "northwest.csv", row.names=TRUE)
+
+###NOT DONE: WORKING ON ITERATION HERE
+yrs <- seq(1995, 2019, 1)
+divisions <- c("division_4", "division_5", "division_6", "division_7", "division_8", "division_9")
+x <- sapply(df=total_winner, FUN=matrixmaker(x), year = yrs, division=divisions, Association = "NBA")
+
+
 
