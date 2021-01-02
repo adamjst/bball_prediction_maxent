@@ -40,5 +40,8 @@ playoff_data_div_clean <- playoff_data_div_merged_both %>%
 #Reduce to only intra-divisional games
 playoff_data_div_intra <- playoff_data_div_clean %>%
   filter(Vis.Division == Home.Division) %>%
-  group_by(Home, Visitors)
+  group_by(Home, Visitors, Year)
+
+write.csv(playoff_data_div_intra, file = "playoff_intradivision_1995_2017.csv", row.names=TRUE)
+
 
