@@ -13,7 +13,7 @@ def step7_maxent(division, year_start, years_back):
         yrs.append(yrs[i] - 1)
     for yr in yrs:
         #path for csv based on division and year arguments
-        step6_array = Path('{}_{}.csv'.format(division, yr), header=True)
+        step6_array = Path('step7_divisions', '{}_{}.csv'.format(division, yr), header=True)
         #write csv path (not used yet)
         step7_maxent = Path('{}_{}_step7.csv'.format(division, yr), header=True)
 
