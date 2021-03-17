@@ -4,14 +4,16 @@ library(readxl)
 library(tidyverse)                                            
 library(tidyselect)  
 
-d0 <- read_excel(paste0(here(), "/odds", "/nba odds 2011-12.xlsx", sep = ""))
+#function to read data
+read_odds <- function(season){
+  read_excel(paste0(here(), "/odds", season, ".xlsx", sep = ""))
+}
 
-home <- d0 %>%
+
+nba_odds11_12 <- read_odds("/nba odds 2011-12")
+
+#NOT DONE. COnverting dataset to same format as basketball reference wide form.
+#Currently, subsetting home teams
+home <- nba_odds11_12 %>%
   filter(VH == "H") %>%
   mutate(op.rot = Rot-1)
-  #function to load and clean odds data  to make matchups
-d1 <- function(url){
-  csv <- read_excel(url, sep = ",")
-  clean <- csv %>%
-    pivot_wider(names_from=Date, c(Rot:'2H'))
-}
