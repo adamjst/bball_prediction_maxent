@@ -39,7 +39,7 @@ def step7_maxent(division, year_start, years_back):
         array = np.array(data, dtype=float)
         #print(array)
         array = array[:, 1:]
-        #print(array)
+        print(array)
         #[[0.   1.   0.75 0.75 0.5]
         #[0.   0.   0.   0.25 0.]
         #[0.25 1.   0.   0.   0.25]
@@ -53,8 +53,22 @@ def step7_maxent(division, year_start, years_back):
         #Convert to df and print results
         div_maxent_df = pd.DataFrame(m5.pdf_maxent)
         print(div_maxent_df)
+        #Example
+        #          0         1         2         3         4
+        #0  0.030277  0.111218  0.074617  0.052524  0.030277
+        #1  0.002623  0.009635  0.006464  0.004550  0.002623
+        #2  0.015303  0.056215  0.037715  0.026548  0.015303
+        #3  0.022810  0.083790  0.056215  0.039570  0.022810
+        #4  0.030277  0.111218  0.074617  0.052524  0.030277
+
         div_marginals_df = pd.DataFrame(m5.marginals)
         print(div_marginals_df)
+        #    NaN     0     1
+        #0  10.0  3.00  1.00
+        #1  10.0  0.25  3.75
+        #2  10.0  1.50  2.50
+        #3  10.0  2.25  1.75
+        #4  10.0  3.00  1.00
 
         #add season year
         div_maxent_df['yr'] = yr
@@ -69,8 +83,8 @@ def step7_maxent(division, year_start, years_back):
     div_marginals_df = pd.concat(div_marginals_list, sort=False)
 
     #write to csv
-    #div_maxent_df.to_csv((step7_maxent), header=True, line_terminator='\n')
-    #div_marginals_df.to_csv((step7_marginals), header=True, line_terminator='\n')
+    div_maxent_df.to_csv((step7_maxent), header=True, line_terminator='\n')
+    div_marginals_df.to_csv((step7_marginals), header=True, line_terminator='\n')
 
 
 #There have been various realignments over the years. Data goes back to 1995
