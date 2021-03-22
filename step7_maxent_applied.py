@@ -21,7 +21,7 @@ def step7_maxent(division, year_start, years_back):
     for yr in yrs:
         #path for csv based on division and year arguments
         step6_array = Path('step7_divisions', '{}_{}.csv'.format(division, yr), header=True)
-        ##EXAMPLE: Atlantic Division 2017
+        ##EXAMPLE: Atlantic Division 2017 winning pct in head-to-head matchups (quadruple round-robins)
         #Team, Boston, Brooklyn, New York, Philadelphia, Toronto
         #Boston 0, 1, 0.75, 0.75, 0.5
         #Brooklyn 0, 0, 0, 0.25, 0
