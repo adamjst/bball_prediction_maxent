@@ -21,6 +21,14 @@ def step7_maxent(division, year_start, years_back):
     for yr in yrs:
         #path for csv based on division and year arguments
         step6_array = Path('step7_divisions', '{}_{}.csv'.format(division, yr), header=True)
+        ##EXAMPLE: Atlantic Division 2017
+        #Team, Boston, Brooklyn, New York, Philadelphia, Toronto
+        #Boston 0, 1, 0.75, 0.75, 0.5
+        #Brooklyn 0, 0, 0, 0.25, 0
+        #New York 0.25, 1, 0, 0, 0.25
+        #Philadelphia 0.25, 0.75, 1, 0, 0.25
+        #Toronto 0.5, 1, 0.75, 0.75, 0
+
         # write csv path for maxent
         step7_maxent = Path('{}_step7_maxent.csv'.format(division, header=True))
         # write csv path for marginals
@@ -31,6 +39,12 @@ def step7_maxent(division, year_start, years_back):
         array = np.array(data, dtype=float)
         #print(array)
         array = array[:, 1:]
+        #print(array)
+        #[[0.   1.   0.75 0.75 0.5]
+        #[0.   0.   0.   0.25 0.]
+        #[0.25 1.   0.   0.   0.25]
+        #[0.25 0.75 1.   0.   0.25]
+        #[0.5  1.   0.75 0.75 0.  ]]
 
         #run model
         m5 = MaxEnt.model(array, constraint)
@@ -55,17 +69,17 @@ def step7_maxent(division, year_start, years_back):
     div_marginals_df = pd.concat(div_marginals_list, sort=False)
 
     #write to csv
-    div_maxent_df.to_csv((step7_maxent), header=True, line_terminator='\n')
-    div_marginals_df.to_csv((step7_marginals), header=True, line_terminator='\n')
+    #div_maxent_df.to_csv((step7_maxent), header=True, line_terminator='\n')
+    #div_marginals_df.to_csv((step7_marginals), header=True, line_terminator='\n')
 
 
 #There have been various realignments over the years. Data goes back to 1995
-step7_maxent("atlantic", 2017, 22)
-step7_maxent("central", 2017, 22)
-step7_maxent("midwest", 2004, 9)
-step7_maxent("atlantic", 2017, 22)
-step7_maxent("northwest", 2017, 12)
-step7_maxent("pacific", 2017, 22)
-step7_maxent("southeast", 2017, 12)
-step7_maxent("southwest", 2017, 8)
+step7_maxent("atlantic", 2017, 2)
+# step7_maxent("central", 2017, 22)
+# step7_maxent("midwest", 2004, 9)
+# step7_maxent("atlantic", 2017, 22)
+# step7_maxent("northwest", 2017, 12)
+# step7_maxent("pacific", 2017, 22)
+# step7_maxent("southeast", 2017, 12)
+# step7_maxent("southwest", 2017, 8)
 
