@@ -20,7 +20,9 @@ constraint_maker <- function(z){
 constraint <- constraint_maker(z)
 constraint
 
-# read data, rename columns, and drop team name
+## read basketball game data, rename columns, and drop team name
+#Practice division. Features 1e-10 as replacement for zeroes
+
 div <- read.csv("southeast_2013_practice.csv")
 colnames(div) <- (c("X", "t1", "t2", "t3", "t4", "t5"))
   
@@ -28,6 +30,7 @@ div1 <- div %>%
   select(-X)
 
 ## Maxent function adapted from https://rdrr.io/cran/rexpokit/man/maxent.html
+#Will not except zeroes in data argument. Replaced above with 1e-10.
 maxent_function <- function(data) {
   # set randomized constraints
   z <- runif(20, min=0, max=1)
