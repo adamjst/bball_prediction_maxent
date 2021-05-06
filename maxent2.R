@@ -1,26 +1,46 @@
 library(tidyverse)
+library(BBmisc)
 library(rexpokit)
+library(LICORS)
+library(stats)
 library(here)
 here()
 
 ## Create constraints
-z <- runif(20, min=0, max=1) 
+z <- runif(10, min=0, max=1) 
 constraint_maker <- function(z){
-  ###Diagonal at 0.25, otherwise randomized
-  c1 <- c(0.25, z[1], z[2], z[3], z[4])
-  c2 <- c(z[5], 0.25, z[6], z[7], z[8])
-  c3 <- c(z[9], z[10], 0.25, z[11], z[12])
-  c4 <- c(z[13], z[14], z[15], 0.25, z[16])
-  c5 <- c(z[17], z[18], z[19], z[20], 0.25)
+  ###Diagonal at 0.00, otherwise randomized. Symmetrical matrix
+  c1<- c(0.0, z[1], z[2], z[3], z[4])
+  c2 <- c(z[1], 0.0, z[5], z[6], z[7])
+  c3 <- c(z[2], z[5], 0.0, z[8], z[9])
+  c4 <- c(z[3], z[6], z[8], 0.0, z[10])
+  c5 <- c(z[4], z[7], z[9], z[10], 0.0)
+  
+  #convert to matrix
+  c_prac_array <- array(c(c1, c2, c3, c4, c5), dim = c(5,5))
+  c_prac_matrix <- as.matrix(c_prac_array)
+  c_prac_matrix
+  
+  # Insert diagonal of 0.25
+  diag(c_prac_matrix) <- 0.25
+  
+  #Normalize columns (does not seem to sum to 1)
+  c_norm <- sweep(c_prac_matrix,MARGIN=2,FUN="/",STATS=colSums(c_prac_matrix))
+  
+  #Normalize rows (does not sum to 1)
+  c_norm_2 <- sweep(c_norm,MARGIN=1,FUN="/",STATS=rowSums(c_prac_matrix))
   
   # Input to the constraint array
-  return(array(c(c1, c2, c3, c4, c5), dim = c(5,5)))
+  return(c_norm_2)
 }
 # example constraints
 constraint <- constraint_maker(z)
+
+# Row sums and column sums are equal, but do not sum to 1
 constraint
 
-## read basketball game data, rename columns, and drop team name
+
+constraint_maker()## read basketball game data, rename columns, and drop team name
 #Practice division. Features 1e-10 as replacement for zeroes
 
 div <- read.csv("southeast_2013_practice.csv")
@@ -33,7 +53,7 @@ div1 <- div %>%
 #Will not except zeroes in data argument. Replaced above with 1e-10.
 maxent_function <- function(data) {
   # set randomized constraints
-  z <- runif(20, min=0, max=1)
+  z <- runif(10, min=0, max=1)
   constraint <- constraint_maker(z)
   # run maxent on constraint and data
   solution <- maxent(constraint, data)
