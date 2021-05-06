@@ -21,14 +21,14 @@ constraint_maker <- function(z){
   c_prac_matrix <- as.matrix(c_prac_array)
   c_prac_matrix
   
-  # Insert diagonal of 0.25
-  diag(c_prac_matrix) <- 0.25
-  
   #Normalize columns (does not seem to sum to 1)
   c_norm <- sweep(c_prac_matrix,MARGIN=2,FUN="/",STATS=colSums(c_prac_matrix))
   
   #Normalize rows (does not sum to 1)
   c_norm_2 <- sweep(c_norm,MARGIN=1,FUN="/",STATS=rowSums(c_prac_matrix))
+  
+  # Insert diagonal of 0.25
+  diag(c_norm_2) <- 0.25
   
   # Input to the constraint array
   return(c_norm_2)
@@ -38,9 +38,9 @@ constraint <- constraint_maker(z)
 
 # Row sums and column sums are equal, but do not sum to 1
 constraint
+rowSums(constraint)
+colSums(constraint)
 
-
-constraint_maker()## read basketball game data, rename columns, and drop team name
 #Practice division. Features 1e-10 as replacement for zeroes
 
 div <- read.csv("southeast_2013_practice.csv")
