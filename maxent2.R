@@ -1,13 +1,14 @@
 library(tidyverse)
+library(assertthat)
 library(BBmisc)
 library(rexpokit)
 library(LICORS)
 library(stats)
 library(here)
+library(ggplot2)
 here()
 
-## Create constraints
-z <- runif(10, min=0, max=1) 
+z <- runif(10, min=0, max=1)
 constraint_maker <- function(z){
   ###Diagonal at 0.00, otherwise randomized. Symmetrical matrix
   c1<- c(0.0, z[1], z[2], z[3], z[4])
@@ -17,21 +18,20 @@ constraint_maker <- function(z){
   c5 <- c(z[4], z[7], z[9], z[10], 0.0)
   
   #convert to matrix
-  c_prac_array <- array(c(c1, c2, c3, c4, c5), dim = c(5,5))
-  c_prac_matrix <- as.matrix(c_prac_array)
-  c_prac_matrix
+  c_array <- array(c(c1, c2, c3, c4, c5), dim = c(5,5))
+  c_matrix <- as.matrix(c_array)
+  c_matrix
   
-  #Normalize columns (does not seem to sum to 1)
-  c_norm <- sweep(c_prac_matrix,MARGIN=2,FUN="/",STATS=colSums(c_prac_matrix))
-  
-  #Normalize rows (does not sum to 1)
-  c_norm_2 <- sweep(c_norm,MARGIN=1,FUN="/",STATS=rowSums(c_prac_matrix))
+  #Normalize columns
+  con <- rep(1, nrow(c_matrix)) # vector of constraints
+  stand_dist <- Spbsampling::stsum(mat = c_matrix, con = con) # normalized matrix
+  c_norm <- 0.75*stand_dist$mat # multiply times 0.75
   
   # Insert diagonal of 0.25
-  diag(c_norm_2) <- 0.25
+  diag(c_norm) <- 0.25
   
   # Input to the constraint array
-  return(c_norm_2)
+  return(c_norm)
 }
 # example constraints
 constraint <- constraint_maker(z)
@@ -78,10 +78,33 @@ for(i in seq(3, 70000, 7)){
   max_ent <- append(max_ent, max_entropy)
 }
 
-#Identify the index of the maximum entropy value of the means of each replication
+#Identify the index of the maximum entropy value of the _means_ of each replication
 max_of_means <- match(max(unlist(mean_ent)), unlist(mean_ent))
-max_of_means
+mean_ent[max_of_means]
 
-#Identify the index of the maximum entropy value of the max of each replication
+#unlist and plot distribution of means of entropy
+mean_ent_unlist <- as.data.frame(unlist(mean_ent)) 
+mean_ent_unlist <- mean_ent_unlist %>%
+  rename(mean_max_ents = "unlist(mean_ent)")
+
+max_mean_ent_plot <- mean_ent_unlist %>%
+  ggplot(aes(x=max_mean_ents)) +
+  geom_density(stat="density")
+max_mean_ent_plot
+
+
+#Identify the index of the maximum entropy value out of the _maximum entropy value_ of each replication
 max_of_max <- match(max(unlist(max_ent)), unlist(max_ent))
-max_of_max
+max_ent[max_of_max]
+
+#unlist and plot distribution of max of entropy
+max_max_ent_unlist <- as.data.frame(unlist(max_ent)) 
+max_max_ent_unlist <- max_max_ent_unlist %>%
+  rename(max_max_ents = "unlist(max_ent)")
+
+max_max_ent_plot <- max_max_ent_unlist %>%
+  ggplot(aes(x=max_max_ents)) +
+  geom_density(stat="density")
+max_max_ent_plot
+
+
