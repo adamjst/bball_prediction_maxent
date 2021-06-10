@@ -1,6 +1,6 @@
 ,Atlanta Hawks,Charlotte Bobcats,Miami Heat,Orlando Magic,Washington Wizards
-Atlanta Hawks,1.00E-10,3,2,2,1
-Charlotte Bobcats,1,1.00E-10,1.00E-10,2,3
-Miami Heat,2,4,1.00E-10,4,2
-Orlando Magic,2,2,1.00E-10,1.00E-10,1.00E-10
-Washington Wizards,3,1,2,4,1.00E-10
+Atlanta Hawks,0,3,2,2,1
+Charlotte Bobcats,1,0,0,2,3
+Miami Heat,2,4,0,4,2
+Orlando Magic,2,2,0,0,0
+Washington Wizards,3,1,2,4,0
