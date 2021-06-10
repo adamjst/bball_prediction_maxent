@@ -60,13 +60,13 @@ assert_that(x1 + x2 + x3 + x4 + x5 == 40)
 assert_that((min(c_matrix) >= 0) && (max(c_matrix) <= 4))
 
 #* all columns sum to observed data columns
-assert_that(sum(c_matrix) == 40)
+assert_that(c(colSums(c_matrix)) == c(colSums(obs)))
 
 #* all rows sum to observed data rows
 assert_that(c(rowSums(c_matrix)) == c(rowSums(obs)))
 
 #* all columns sum to rows
-assert_that(rowSums(obs) == colSums(obs))
+assert_that(rowSums(c_matrix) == colSums(c_matrix))
 
 #* all diagonals are zero
 assert_that(sum(diag(c_matrix)) == 0)
